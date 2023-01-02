@@ -573,7 +573,7 @@ rtr_2023_01_2pm:
   platform: seamless
   league: rtr
   long_name: 'Round Table Rumble 2022 #1 (2 PM)'
-  short_name: 'RTR 2022 #1 (2 PM)'
+  short_name: 'RTR 2023 #1 (2 PM)'
   link: https://challonge.com/RTR_2PM_1
   winners: []
 
@@ -582,7 +582,7 @@ rtr_2023_01_8pm:
   platform: seamless
   league: rtr
   long_name: 'Round Table Rumble 2022 #1 (8 PM)'
-  short_name: 'RTR 2022 #1 (8 PM)'
+  short_name: 'RTR 2023 #1 (8 PM)'
   link: https://challonge.com/RTR_8PM_1
   winners: []
 
