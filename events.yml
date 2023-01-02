@@ -50,6 +50,19 @@ foc_warmup_psn:
     - RevelKnight
     - Rask1lls
 
+trysweaty:
+  date: 2022-05-21
+  platform: psn
+  league: brena_castle
+  long_name: Elden Ring Trysweaty Tournament
+  short_name: Trysweaty
+  link: https://challonge.com/ib9n7m4u
+  winners:
+    - mmlubergames
+    - TheOneLad
+    - Harceru
+    - Skeltah
+
 foc_2022_opening_pc_na:
   date: 2022-06-04
   platform: pc
@@ -140,6 +153,20 @@ foc_2022_07_pc_na:
     - Daniel
     - ChanchoMcFly
 
+brena_1:
+  date: 2022-07-17
+  platform: psn
+  region: oceania/asia-east
+  league: brena
+  long_name: Elden Ring PvP Tournament
+  short_name: Tournament
+  link: https://challonge.com/EldenRing_PvP_Tournament_Oceania_EastAsia_
+  winners:
+    - Hs
+    - JD
+    - DepressedHollow
+    - mountana
+
 foc_2022_07_psn_eu:
   date: 2022-07-23
   platform: psn
@@ -169,6 +196,20 @@ foc_2022_07_psn_na:
     - Inservin
     - Jozai610
     - SlaveKnightKos
+
+caster_tourney_vol2:
+  date: 2022-07-30
+  platform: ds3
+  league: brena_sunpigeon
+  importance: 0
+  long_name: Caster Tourney Vol 2.
+  short_name: Caster Vol 2.
+  link: https://challonge.com/ds3castertourney
+  winners:
+    - H20 Chi
+    - GodFilo
+    - darkmatterii
+    - mrtn
 
 foc_2022_08_pc_eu:
   date: 2022-08-27
@@ -433,6 +474,34 @@ bttb_3:
     - DeadFish
     - Frosty
 
+brena_2:
+  date: 2022-11-27
+  platform: psn
+  region: oceania/asia-east
+  league: brena
+  long_name: Elden Ring PvP Tournament
+  short_name: Tournament
+  link: https://challonge.com/EldenRing_PvP_Tournament_Oceania_EastAsia_2
+  winners:
+    - Harold1277
+    - Basscannon90
+    - nooblive
+    - Liopjk
+
+starter_classes:
+  date: 2022-12-10
+  platform: psn
+  region: na-x/eu
+  league: brena
+  long_name: Starter Classes
+  short_name: Starter Classes
+  link: https://challonge.com/EldenRing_PvP_StarterClasses
+  winners:
+    - Frosty
+    - UseifPoorleen
+    - eli_dks
+    - nothee
+
 bttb_4:
   date: 2022-12-11
   platform: seamless
@@ -486,3 +555,13 @@ foc_2022_12_psn:
     - SlaveKnightKos
     - VanitaZ
     - Frosty
+
+shark:
+  date: 2023-01-28
+  platform: psn
+  region: na-x/eu
+  league: brena
+  long_name: S.H.A.R.K.
+  short_name: S.H.A.R.K.
+  link: https://challonge.com/EldenRing_PvP_SHARK
+  winners: []

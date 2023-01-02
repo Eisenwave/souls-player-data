@@ -1,3 +1,27 @@
+brena:
+  name: BathedInBrena's Tournaments
+  organizer: BathedInBrena
+  host: BathedInBrena
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
+brena_castle:
+  name: CastleInTheSky's Tournaments
+  organizer: CastleInTheSky
+  host: BathedInBrena
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
+brena_sunpigeon:
+  name: Sunpigeon's Tournaments
+  organizer: sunpigeon
+  host: BathedInBrena
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
 brookeadair:
   name: Brookeadair's Tournaments
   organizer: brookeadair
