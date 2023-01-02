@@ -1,0 +1,86 @@
+artorra:
+  long_name: Artorra
+  short_name: Artorra
+  links:
+    challonge: https://challonge.com/users/artorra
+
+brena:
+  long_name: BathedInBrena
+  short_name: Brena
+  links:
+    challonge: https://challonge.com/users/bathedinbrena/tournaments
+    twitch: bathedinbrena
+    youtube: @BathedinBrena
+
+brookeadair:
+  long_name: Brookeadair
+  short_name: Brooke
+  links:
+    challonge: https://challonge.com/users/brookeadair
+    twitch: brookeadair
+
+castle:
+  long_name: CastleInTheSky
+  short_name: Castle
+
+dashing_saint:
+  long_name: The Dashing Saint
+  short_name: Saint
+
+den:
+  long_name: Duelist Event Network
+  short_name: DEN
+  links:
+    challonge: https://challonge.com/communities/0fcfd7207506ee800961b0d5
+    twitch: duelist_event_network
+    youtube: @duelisteventnetwork7529
+
+eisenwave:
+  long_name: Eisenwave
+  short_name: Eisen
+  links:
+    challonge: https://challonge.com/users/eisenwave
+    twitch: eisenwave
+    youtube: @eisenwave
+
+erpvp:
+  long_name: Elden Ring PvP
+  short_name: ERPvP
+
+khknight:
+  long_name: khknight
+  short_name: khknight
+  links:
+    challonge: https://challonge.com/users/khknight
+    twitch: khknight
+    youtube: @khknight
+
+lbu:
+  long_name: LBU
+  short_name: LBU
+
+
+redditcord:
+  long_name: r/EldenRing Discord
+  short_name: r/EldenRing
+
+shieldpoke:
+  long_name: Shieldpoke
+  short_name: Shieldpoke
+  links:
+    challonge: https://challonge.com/users/shieldpoke
+
+sleepmoover:
+  long_name: Sleepmoover
+  short_name: Sleep
+  links:
+    challonge: https://challonge.com/users/sleepmoover
+    twitch: https://www.twitch.tv/sleepmoover
+
+sunpigeon:
+  long_name: sunpigeon
+  short_name: sunpigeon
+
+witching_moon:
+  long_name: The Witching Moon
+  short_name: Moon

@@ -1,25 +1,25 @@
 brena:
   name: BathedInBrena's Tournaments
-  organizer: BathedInBrena
-  host: BathedInBrena
+  organizer: brena
+  host: brena
   prestige: 0
   show_organizer: true
   show_region: false
   show_platform: false
 
 brena_castle:
-  name: CastleInTheSky's Tournaments
-  organizer: CastleInTheSky
-  host: BathedInBrena
+  name: CastleInTheSky's Brena Tournaments
+  organizer: castle
+  host: brena
   prestige: 0
   show_organizer: true
   show_region: false
   show_platform: false
 
 brena_sunpigeon:
-  name: Sunpigeon's Tournaments
+  name: Sunpigeon's Brena Tournaments
   organizer: sunpigeon
-  host: BathedInBrena
+  host: brena
   prestige: 0
   show_organizer: true
   show_region: false
@@ -36,8 +36,8 @@ brookeadair:
 
 bttb:
   name: Back to the Basics
-  organizer: Eisenwave
-  host: DEN
+  organizer: eisen
+  host: den
   prestige: 1
   show_organizer: true
   show_region: true
@@ -45,8 +45,8 @@ bttb:
 
 dashing_saint:
   name: Dashing Saint Tournaments
-  organizer: Dashing Saint
-  host: Dashing Saint
+  organizer: dashing_saint
+  host: dashing_saint
   prestige: 0
   show_organizer: true
   show_region: false
@@ -54,17 +54,35 @@ dashing_saint:
 
 den:
   name: DEN Tournaments
-  organizer: DEN
-  host: DEN
-  prestige: 1
+  organizer: den
+  host: den
+  prestige: 0
   show_organizer: false
+  show_region: false
+  show_platform: false
+
+den_lbu:
+  name: LBU's DEN Tournaments
+  organizer: lbu
+  host: den
+  prestige: 0
+  show_organizer: false
+  show_region: false
+  show_platform: false
+
+den_sleep:
+  name: Sleepmover's DEN Tournaments
+  organizer: sleepmoover
+  host: den
+  prestige: 0
+  show_organizer: true
   show_region: false
   show_platform: false
 
 erpvp:
   name: ERPvP Tournaments
-  organizer: ERPvP
-  host: DEN
+  organizer: erpvp
+  host: den
   prestige: 1
   show_organizer: false
   show_region: false
@@ -72,26 +90,17 @@ erpvp:
 
 foc:
   name: Festival of Combat
-  organizer: ERPvP
-  host: DEN
+  organizer: erpvp
+  host: den
   prestige: 2
   show_organizer: false
   show_region: true
   show_platform: true
 
-lbu:
-  name: LBU's Tournaments
-  organizer: LBU
-  host: DEN
-  prestige: 0
-  show_organizer: false
-  show_region: false
-  show_platform: false
-
 redditcord:
   name: r/EldenRing Discord Tournaments
-  organizer: r/EldenRing Discord
-  host: DEN
+  organizer: redditcord
+  host: den
   prestige: 0
   show_organizer: true
   show_region: false
@@ -99,8 +108,8 @@ redditcord:
 
 rtr:
   name: Round Table Rumble
-  organizer: Artorra
-  host: Artorra
+  organizer: artorra
+  host: artorra
   prestige: 0
   show_organizer: false
   show_region: false
@@ -108,8 +117,8 @@ rtr:
 
 rtr_beta:
   name: Round Table Rumble Beta
-  organizer: Artorra
-  host: Artorra
+  organizer: artorra
+  host: artorra
   prestige: -1
   show_organizer: false
   show_region: false
@@ -117,8 +126,8 @@ rtr_beta:
 
 shieldpoke:
   name: Shieldpoke's Tournaments
-  organizer: Shieldpoke
-  host: Shieldpoke
+  organizer: shieldpoke
+  host: shieldpoke
   prestige: 0
   show_organizer: true
   show_region: false
@@ -126,8 +135,8 @@ shieldpoke:
 
 witching_moon:
   name: The Witching Moon's Tournaments
-  organizer: Witching Moon
-  host: Witching Moon
+  organizer: witching_moon
+  host: witching_moon
   prestige: 0
   show_organizer: true
   show_region: false
