@@ -35,7 +35,7 @@ beven:
     discord: '168492291265265664'
 
 brena:
-  long_name: BathedInBrena
+  long_name: Bathed In Brena
   short_name: Brena
   region: na_west
   links:
@@ -86,9 +86,9 @@ cip:
 
 darksoapp:
   long_name: DarkSoapp
-  region: pl
   titles:
     - Fisha God
+  region: pl
   facts:
     - PS Nagakiba main
   links:
@@ -121,14 +121,18 @@ den:
 eisenwave:
   long_name: Eisenwave
   short_name: Eisen
+  titles:
+    - Eisenberg
+    - Maldenwave
   region: de
   facts:
-    - DEN staff member
     - tournament host
+    - DEN staff member
     - most 2 min DCs in one tournament
   links:
     discord: '162964325823283200'
     twitch: eisenwave
+    youtube: @eisenwave
     github: eisenwave
     challonge: eisenwave
 
@@ -137,9 +141,22 @@ emilia:
   region: eu
   facts:
     - DEN staff member
+    - creator of ER Frame Data Explorer
   links:
     discord: '289142457218891777'
     twitch: sovietspaceship
+    youtube: @sovietspaceship
+    github: sovietspaceship
+
+enda:
+  long_name: EndaTheLion
+  short_name: Enda
+  facts:
+    - DEN founder
+    - DS3 veteran
+  links:
+    discord: 286539873333149697
+    twitch: endathelion
 
 erpvp:
   long_name: Elden Ring PvP
@@ -219,7 +236,7 @@ lbu:
   long_name: LBU
   region: na_x
   facts:
-    - tournament host
+    - DEN founder
     - DS3 veteran
   links:
     discord: '294275723298996225'
@@ -229,8 +246,6 @@ lejet:
   region: na_west
   links:
     discord: '166748692966014986'
-  score:
-    fp_pc: 2
 
 mariavevo:
   long_name: MariaVEVO
@@ -282,9 +297,9 @@ redditcord:
 sadia_moon:
   long_name: Sadia Moon
   short_name: Sadia
-  region: na_x
   titles:
     - Madia Soon
+  region: na_x
   facts:
     - DEN staff member
   links:
@@ -302,6 +317,7 @@ shieldpoke:
   long_name: Shieldpoke
   region: na_east
   facts:
+    - hates shield poking
     - DS3 veteran
   links:
     discord: '183371373127794688'
@@ -336,15 +352,18 @@ sorriy:
 space_ranger77:
   long_name: space ranger77
   short_name: space
+  facts:
+    - best theoretical duelist
+    - BttB rules tester
   region: ua
   links:
     discord: '463710475818106883'
 
 steelovsky:
   long_name: Steelovsky
-  region: pl
   titles:
     - Fan of Aviation
+  region: pl
   links:
     discord: '180673674410590208'
     twitch: steelovsky
