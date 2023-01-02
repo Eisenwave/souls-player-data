@@ -3,15 +3,131 @@ tp:
   organizer: Eisenwave
   long_name: Tournament Points
   short_name: TP
+  scores:
+    DarkSoapp: 42
+    space ranger77: 40
+    beven: 38
+    Sorriy: 36
+    Frosty: 34
+    MariaVEVO: 32
+    Cip: 19
+    Floozutter: 16
+    Steelovsky: 12
+    DeadFish: 10
+    PhantomZaro: 7
+    dimka: 6
+    Miasma: 6
+    PitOfDespair: 5
+    BronDaGoat: 4
+    daniiel: 4
+    p0intup: 2
+    Crucify: 2
+    HonestFaraday: 2
+    Skiffin: 2
+    Molock: 1
+    urah: 1
+    MrMataz: 1
+    Riptide: 1
 
 fp_pc:
   platform: seamless
   organizer: ERPvP
   long_name: Festival Points
   short_name: FP (PC)
+  scores:
+    beven: 152
+    space ranger77: 104
+    genepool: 64
+    Miasma: 60
+    Steelovsky: 54
+    Molock: 44
+    Frosty: 42
+    HonestFaraday: 40
+    Abyss: 32
+    FuryX: 32
+    Melee: 30
+    notkjell: 30
+    ChanchoMcFly: 30
+    Daniel: 28
+    DeadFish: 20
+    Fuuko: 20
+    Sorriy: 16
+    Yuzu: 16
+    Balsco: 12
+    josh from xbox: 12
+    Skiffin: 10
+    Floozutter: 8
+    Arzock: 8
+    Raincoat: 8
+    SteelDash: 8
+    Eisenwave: 6
+    Gnomi: 6
+    Artorra: 6
+    Cip: 6
+    DarkSoapp: 6
+    Provokator: 4
+    Riptide: 4
+    Keio: 4
+    Garuwashi: 4
+    XxMonsterXDxX: 4
+    PitOfDespair: 4
+    UnsunGunner: 2
+    Crucify: 2
+    thirtyfpsER: 2
+    Shockd: 2
+    VoidReceptionist: 2
+    LeJet: 2
+    Pedro Segura: 2
 
 fp_psn:
   platform: psn
   organizer: ERPvP
   long_name: Festival Points
   short_name: FP (PSN)
+  scores:
+    Rask1lls: 92
+    SlaveKnightKos: 84
+    Witnake: 74
+    Inservin: 64
+    Snapcaster: 44
+    JustAFool: 36
+    Reydriar: 32
+    Tesukatora: 32
+    mmlubergames: 32
+    Frosty: 32
+    Jozai610: 32
+    Nibrey: 32
+    Markoveso: 28
+    Sir Leaky Bum: 28
+    mrtn: 28
+    S13_m: 24
+    MrDeeZ: 24
+    Gwshshrbwbs: 24
+    Kromm_Toji: 24
+    Heath: 22
+    Franael: 18
+    eli_ks: 16
+    pv-valsie: 16
+    TheDreamer: 12
+    Zawady: 10
+    Arc_Dominuz: 8
+    Winterbringer: 8
+    okbro: 6
+    Alucard: 6
+    Darthlego: 6
+    Baemore: 6
+    VanitaZ: 6
+    TempestuousAtmosphere: 4
+    Elemich: 4
+    Mendax Verax: 4
+    Egoist: 4
+    CastleInTheSky: 4
+    Malum: 4
+    DMax7XeL: 4
+    Salè: 2
+    ArrhythmicPulse: 2
+    Ashy Boi: 2
+    mdKhalakeen: 2
+    Seif105: 2
+    Goldtop: 2
+    Gabri: 2

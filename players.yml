@@ -4,9 +4,6 @@ Afk:
     - BttB fight club player
   links:
     discord: '1020778175011233844'
-  score:
-    tp: 0
-    fp_pc: 0
 
 Artorra:
   region: na-x
@@ -16,9 +13,6 @@ Artorra:
   links:
     discord: '714347886434844702'
     twitch: artorra
-  score:
-    tp_pc: 0
-    fp: 6
 
 Beebeard:
   region: na-east
@@ -35,9 +29,6 @@ beven:
     - best pure sorcery player
   links:
     discord: '168492291265265664'
-  score:
-    tp_pc: 38
-    fp: 152
 
 BronDaGoat:
   region: eu
@@ -46,17 +37,11 @@ BronDaGoat:
   links:
     discord: '387040182295199744'
     twitch: br02ndagoat
-  score:
-    tp_pc: 4
-    fp: 0
 
 Cas:
   region: na-x
   links:
     discord: '271329775514025985'
-  score:
-    tp: 0
-    fp_pc: 0
 
 Cip:
   region: na-east
@@ -65,9 +50,6 @@ Cip:
   links:
     discord: '226803500468797440'
     twitch: cip_tv
-  score:
-    tp: 19
-    fp_pc: 6
 
 DarkSoapp:
   region: pl
@@ -78,18 +60,12 @@ DarkSoapp:
   links:
     discord: '429262800586539019'
     twitch: darksoapp
-  score:
-    tp: 42
-    fp_pc: 6
 
 DeadFish:
   region: eu
   links:
     discord: '159234003986153472'
     twitch: deadfisshh
-  score:
-    tp: 10
-    fp_pc: 20
 
 Eisenwave:
   region: de
@@ -101,8 +77,6 @@ Eisenwave:
     discord: '162964325823283200'
     twitch: eisenwave
     github: eisenwave
-  score:
-    fp_pc: 6
 
 Emilia:
   region: eu
@@ -121,9 +95,6 @@ Floozutter:
   links:
     discord: '602059892160856074'
     github: Floozutter
-  score:
-    tp_pc: 16
-    fp: 8
 
 Frosty:
   region: na-east
@@ -133,10 +104,6 @@ Frosty:
   links:
     discord: '231961956003610642'
     twitch: frostycomes
-  score:
-    tp: 34
-    fp_pc: 42
-    fp_psn: 32
 
 Futz1lla:
   region: na-x
@@ -157,8 +124,6 @@ josh from xbox:
   links:
     discord: '216922040693686282'
     twitch: joshyfromxbox
-  score:
-    fp_pc: 12
 
 ketchuplino:
   region: eu
@@ -183,8 +148,6 @@ MariaVEVO:
   links:
     discord: '1041411613321871532'
     twitch: mariavevo
-  score:
-    tp: 32
 
 Marisa Nyaa:
   region: na-east
@@ -237,26 +200,17 @@ Skiffin:
   region: na-west
   links:
     discord: '467428533593964555'
-  score:
-    tp: 2
-    fp_pc: 10
 
 Sorriy:
   region: na-east
   links:
     discord: '799796905257336862'
     twitch: sorriy
-  score:
-    tp: 36
-    fp_pc: 16
 
 space ranger77:
   region: ua
   links:
     discord: '463710475818106883'
-  score:
-    tp: 40
-    fp_pc: 104
 
 Steelovsky:
   region: pl
@@ -266,9 +220,6 @@ Steelovsky:
     discord: '180673674410590208'
     twitch: steelovsky
     youtube: @Steelovsky
-  score:
-    tp: 12
-    fp_pc: 54
 
 Tear:
   region: sa
