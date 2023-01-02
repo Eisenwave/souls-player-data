@@ -1,6 +1,6 @@
 tp:
   platform: seamless
-  organizer: Eisenwave
+  organizer: eisenwave
   long_name: Tournament Points
   short_name: TP
   scores:
@@ -31,7 +31,7 @@ tp:
 
 fp_pc:
   platform: seamless
-  organizer: ERPvP
+  organizer: erpvp
   long_name: Festival Points
   short_name: FP (PC)
   scores:
@@ -81,7 +81,7 @@ fp_pc:
 
 fp_psn:
   platform: psn
-  organizer: ERPvP
+  organizer: erpvp
   long_name: Festival Points
   short_name: FP (PSN)
   scores:
