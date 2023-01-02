@@ -135,6 +135,7 @@ Frosty:
   score:
     tp: 34
     fp_pc: 42
+    fp_psn: 32
 
 Futz1lla:
   region: na

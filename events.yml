@@ -23,7 +23,7 @@ aged_lion_open:
     - Ziggylatta
     - buy_unids
 
-warmup_pc:
+foc_warmup_pc:
   date: 2022-05-14
   platform: pc
   league: foc
@@ -36,7 +36,7 @@ warmup_pc:
     - Dimka
     - Fuuko
 
-warmup_psn:
+foc_warmup_psn:
   date: 2022-05-15
   platform: psn
   league: foc
