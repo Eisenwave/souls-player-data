@@ -556,6 +556,16 @@ foc_2022_12_psn:
     - VanitaZ
     - Frosty
 
+everything_allowed:
+  date: 2023-01-07
+  platform: psn
+  region: na-x/eu
+  league: brena
+  long_name: Everything Allowed
+  short_name: Everything Allowed
+  link: https://challonge.com/EldenRing_PvP_EverythingAllowed_Ps5
+  winners: []
+
 shark:
   date: 2023-01-28
   platform: psn
