@@ -566,6 +566,33 @@ everything_allowed:
   link: https://challonge.com/EldenRing_PvP_EverythingAllowed_Ps5
   winners: []
 
+rtr_22_1_2pm:
+  date: 2023-01-08
+  platform: seamless
+  league: rtr
+  long_name: 'Round Table Rumble 2022 #1 (2 PM)'
+  short_name: 'RTR 2022 #1 (2 PM)'
+  link: https://challonge.com/RTR_2PM_1
+  winners: []
+
+rtr_22_1_8pm:
+  date: 2023-01-08
+  platform: seamless
+  league: rtr
+  long_name: 'Round Table Rumble 2022 #1 (8 PM)'
+  short_name: 'RTR 2022 #1 (8 PM)'
+  link: https://challonge.com/RTR_8PM_1
+  winners: []
+
+bttb_2v2_1:
+  date: 2023-01-14
+  platform: seamless
+  league: bttb
+  long_name: Back to the Basics 2v2 Tournament
+  short_name: Basics 2v2
+  link: https://challonge.com/de/ipoer49h
+  winners: []
+
 shark:
   date: 2023-01-28
   platform: psn

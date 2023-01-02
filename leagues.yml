@@ -86,6 +86,14 @@ redditcord:
   show_region: false
   show_platform: false
 
+rtr:
+  name: Round Table Rumble
+  organizer: Artorra
+  host: Artorra
+  show_organizer: false
+  show_region: false
+  show_platform: false
+
 shieldpoke:
   name: Shieldpoke's Tournaments
   organizer: Shieldpoke
