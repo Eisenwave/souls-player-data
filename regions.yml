@@ -1,54 +1,83 @@
 asia-east:
+  privacy: true
+  parent: null
   long_name: East Asia
   short_name: East Asia
   flag: jp
 
 de:
+  privacy: false
+  parent: eu
   long_name: Germany
   short_name: Germany
   flag: de
 
+eu:
+  privacy: true
+  parent: null
+  long_name: Europe
+  short_name: EU
+  flag: eu
+
 na-east:
+  privacy: true
+  parent: na-x
   long_name: North America East
   short_name: NA East
   flag: us
 
 na-west:
+  privacy: true
+  parent: na-x
   long_name: North America West
   short_name: NA West
   flag: us
 
 na-x:
+  privacy: true
+  parent: null
   long_name: North America
   short_name: NA
   flag: us
 
 oceania:
+  privacy: true
+  parent: null
   long_name: Oceania
   short_name: Oceania
   flag: au
 
 pl:
+  privacy: false
+  parent: eu
   long_name: Poland
   short_name: Poland
   flag: pl
 
 ua:
+  privacy: false
+  parent: eu
   long_name: Ukraine
   short_name: Ukraine
   flag: ua
 
 us-east:
+  privacy: false
+  parent: na-east
   long_name: United States East
   short_name: U.S. East
   flag: us
 
 us-west:
+  privacy: false
+  parent: na-west
   long_name: United States West
   short_name: U.S. West
   flag: us
 
 us-x:
+  privacy: false
+  parent: na-x
   long_name: United States
   short_name: U.S.
   flag: us
