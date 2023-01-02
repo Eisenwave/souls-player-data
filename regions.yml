@@ -1,4 +1,4 @@
-asia-east:
+asia_east:
   privacy: true
   parent: null
   long_name: East Asia
@@ -19,21 +19,21 @@ eu:
   short_name: Europe
   flag: eu
 
-na-east:
+na_east:
   privacy: true
-  parent: na-x
+  parent: na_x
   long_name: North America East
   short_name: NA East
   flag: us
 
-na-west:
+na_west:
   privacy: true
-  parent: na-x
+  parent: na_x
   long_name: North America West
   short_name: NA West
   flag: us
 
-na-x:
+na_x:
   privacy: true
   parent: null
   long_name: North America
@@ -61,23 +61,23 @@ ua:
   short_name: Ukraine
   flag: ua
 
-us-east:
+us_east:
   privacy: false
-  parent: na-east
+  parent: na_east
   long_name: United States East
   short_name: U.S. East
   flag: us
 
-us-west:
+us_west:
   privacy: false
-  parent: na-west
+  parent: na_west
   long_name: United States West
   short_name: U.S. West
   flag: us
 
-us-x:
+us_x:
   privacy: false
-  parent: na-x
+  parent: na_x
   long_name: United States
   short_name: U.S.
   flag: us

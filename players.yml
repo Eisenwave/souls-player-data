@@ -8,7 +8,7 @@ afk:
 
 artorra:
   name: Artorra
-  region: na-x
+  region: na_x
   facts:
     - tournament host (RTR)
     - Ripple Crescent Halberd main
@@ -18,7 +18,7 @@ artorra:
 
 beebeard:
   name: Beebeard
-  region: na-east
+  region: na_east
   facts:
     - DEN staff member
   links:
@@ -27,7 +27,7 @@ beebeard:
 
 beven:
   name: beven
-  region: na-east
+  region: na_east
   facts:
     - '#1 Festival Points'
     - best pure sorcery player
@@ -45,13 +45,13 @@ brondagoat:
 
 cas:
   name: Cas
-  region: na-x
+  region: na_x
   links:
     discord: '271329775514025985'
 
 cip:
   name: Cip
-  region: na-east
+  region: na_east
   facts:
     - DEN staff member
   links:
@@ -99,7 +99,7 @@ emilia:
 
 floozutter:
   name: Floozutter
-  region: na-west
+  region: na_west
   facts:
     - Flooz never lose
     - Halberd main
@@ -110,7 +110,7 @@ floozutter:
 
 frosty:
   name: Frosty
-  region: na-east
+  region: na_east
   facts:
     - former HTS main
     - DEN staff member
@@ -120,7 +120,7 @@ frosty:
 
 futz1lla:
   name: Futz1lla
-  region: na-x
+  region: na_x
   links:
     discord: '291048905628712961'
     twitch: futz1lla
@@ -133,7 +133,7 @@ gillo:
 
 joshy:
   name: josh from xbox
-  region: na-east
+  region: na_east
   facts:
     - former HTS main
     - DEN staff member
@@ -153,7 +153,7 @@ ketchuplino:
 
 lejet:
   name: LeJet
-  region: na-west
+  region: na_west
   links:
     discord: '166748692966014986'
   score:
@@ -170,7 +170,7 @@ mariavevo:
 
 marisa:
   name: Marisa Nyaa
-  region: na-east
+  region: na_east
   links:
     discord: '449627214854488064'
     twitch: marisa_nyaa
@@ -198,7 +198,7 @@ pikselonix:
 
 sadia_moon:
   name: Sadia Moon
-  region: na-x
+  region: na_x
   titles:
     - Madia Soon
   facts:
@@ -215,7 +215,7 @@ samurai_donel:
 
 shieldpoke:
   name: Shieldpoke
-  region: na-east
+  region: na_east
   facts:
     - DS3 veteran
   links:
@@ -224,13 +224,13 @@ shieldpoke:
 
 skiffin:
   name: Skiffin
-  region: na-west
+  region: na_west
   links:
     discord: '467428533593964555'
 
 sorriy:
   name: Sorriy
-  region: na-east
+  region: na_east
   links:
     discord: '799796905257336862'
     twitch: sorriy
@@ -260,7 +260,7 @@ tear:
 
 willow:
   name: Willow Nyaa
-  region: na-east
+  region: na_east
   links:
     discord: '784855780783947816'
     twitch: willownya
