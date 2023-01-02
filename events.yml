@@ -135,7 +135,7 @@ foc_2022_07_pc_eu:
   winners:
     - genepool
     - miasma
-    - space ranger77
+    - space_ranger77
     - yuzu
 
 foc_2022_07_pc_na:
@@ -221,7 +221,7 @@ foc_2022_08_pc_eu:
   short_name: FoC-22-08 Minor
   link: https://challonge.com/FOCEU_AUG
   winners:
-    - space ranger77
+    - space_ranger77
     - miasma
     - molock
     - balsco
