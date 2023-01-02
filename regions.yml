@@ -1,0 +1,54 @@
+asia-east:
+  long_name: East Asia
+  short_name: East Asia
+  flag: jp
+
+de:
+  long_name: Germany
+  short_name: Germany
+  flag: de
+
+na-east:
+  long_name: North America East
+  short_name: NA East
+  flag: us
+
+na-west:
+  long_name: North America West
+  short_name: NA West
+  flag: us
+
+na-x:
+  long_name: North America
+  short_name: NA
+  flag: us
+
+oceania:
+  long_name: Oceania
+  short_name: Oceania
+  flag: au
+
+pl:
+  long_name: Poland
+  short_name: Poland
+  flag: pl
+
+ua:
+  long_name: Ukraine
+  short_name: Ukraine
+  flag: ua
+
+us-east:
+  long_name: United States East
+  short_name: U.S. East
+  flag: us
+
+us-west:
+  long_name: United States West
+  short_name: U.S. West
+  flag: us
+
+us-x:
+  long_name: United States
+  short_name: U.S.
+  flag: us
