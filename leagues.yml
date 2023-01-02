@@ -1,5 +1,6 @@
 brena:
-  name: BathedInBrena's Tournaments
+  long_name: BathedInBrena's Tournaments
+  short_name: Brena's Tourneys
   organizer: brena
   host: brena
   prestige: 0
@@ -8,7 +9,8 @@ brena:
   show_platform: false
 
 brena_castle:
-  name: CastleInTheSky's Brena Tournaments
+  long_name: CastleInTheSky's Brena Tournaments
+  short_name: Castle's Brena Tourneys
   organizer: castle
   host: brena
   prestige: 0
@@ -17,7 +19,8 @@ brena_castle:
   show_platform: false
 
 brena_sunpigeon:
-  name: Sunpigeon's Brena Tournaments
+  long_name: Sunpigeon's Brena Tournaments
+  short_name: Sunpigeon's Brena Tourneys
   organizer: sunpigeon
   host: brena
   prestige: 0
@@ -26,7 +29,8 @@ brena_sunpigeon:
   show_platform: false
 
 brookeadair:
-  name: Brookeadair's Tournaments
+  long_name: Brookeadair's Tournaments
+  short_name: Brooke's Tourneys
   organizer: brookeadair
   host: brookeadair
   prestige: 0
@@ -35,7 +39,8 @@ brookeadair:
   show_platform: false
 
 bttb:
-  name: Back to the Basics
+  long_name: Back to the Basics
+  short_name: BttB
   organizer: eisen
   host: den
   prestige: 1
@@ -44,7 +49,8 @@ bttb:
   show_platform: false
 
 dashing_saint:
-  name: Dashing Saint Tournaments
+  long_name: The Dashing Saint's Tournaments
+  short_name: Saint's Tourneys
   organizer: dashing_saint
   host: dashing_saint
   prestige: 0
@@ -53,7 +59,8 @@ dashing_saint:
   show_platform: false
 
 den:
-  name: DEN Tournaments
+  long_name: DEN Tournaments
+  short_name: DEN Tourneys
   organizer: den
   host: den
   prestige: 0
@@ -62,7 +69,8 @@ den:
   show_platform: false
 
 den_lbu:
-  name: LBU's DEN Tournaments
+  long_name: LBU's DEN Tournaments
+  short_name: LBU's DEN Tourneys
   organizer: lbu
   host: den
   prestige: 0
@@ -71,7 +79,8 @@ den_lbu:
   show_platform: false
 
 den_sleep:
-  name: Sleepmover's DEN Tournaments
+  long_name: Sleepmover's DEN Tournaments
+  short_name: Sleep's DEN Tourneys
   organizer: sleepmoover
   host: den
   prestige: 0
@@ -80,7 +89,8 @@ den_sleep:
   show_platform: false
 
 erpvp:
-  name: ERPvP Tournaments
+  long_name: Elden Ring PvP Tournaments
+  short_name: ERPvP Tourneys
   organizer: erpvp
   host: den
   prestige: 1
@@ -89,7 +99,8 @@ erpvp:
   show_platform: false
 
 foc:
-  name: Festival of Combat
+  long_name: Festival of Combat
+  short_Name: FoC
   organizer: erpvp
   host: den
   prestige: 2
@@ -98,7 +109,8 @@ foc:
   show_platform: true
 
 redditcord:
-  name: r/EldenRing Discord Tournaments
+  long_name: r/EldenRing Discord Tournaments
+  short_name: r/EldenRing Tourneys
   organizer: redditcord
   host: den
   prestige: 0
@@ -107,7 +119,8 @@ redditcord:
   show_platform: false
 
 rtr:
-  name: Round Table Rumble
+  long_name: Round Table Rumble
+  short_name: RTR
   organizer: artorra
   host: artorra
   prestige: 0
@@ -116,7 +129,8 @@ rtr:
   show_platform: false
 
 rtr_beta:
-  name: Round Table Rumble Beta
+  long_name: Round Table Rumble Beta
+  short_name: RTR Beta
   organizer: artorra
   host: artorra
   prestige: -1
@@ -125,7 +139,8 @@ rtr_beta:
   show_platform: false
 
 shieldpoke:
-  name: Shieldpoke's Tournaments
+  long_name: Shieldpoke's Tournaments
+  short_name: Shieldpoke's Tourneys
   organizer: shieldpoke
   host: shieldpoke
   prestige: 0
@@ -134,7 +149,8 @@ shieldpoke:
   show_platform: false
 
 witching_moon:
-  name: The Witching Moon's Tournaments
+  long_name: The Witching Moon's Tournaments
+  short_name: Witching Moon's Tourneys
   organizer: witching_moon
   host: witching_moon
   prestige: 0
