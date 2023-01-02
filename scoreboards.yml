@@ -1,0 +1,17 @@
+tp:
+  platform: seamless
+  organizer: Eisenwave
+  long_name: Tournament Points
+  short_name: TP
+
+fp_pc:
+  platform: seamless
+  organizer: ERPvP
+  long_name: Festival Points
+  short_name: FP (PC)
+
+fp_psn:
+  platform: psn
+  organizer: ERPvP
+  long_name: Festival Points
+  short_name: FP (PSN)

@@ -1,0 +1,289 @@
+Afk:
+  region: eu
+  facts:
+    - BttB fight club player
+  links:
+    discord: '1020778175011233844'
+  score:
+    tp: 0
+    fp_pc: 0
+
+Artorra:
+  region: na
+  facts:
+    - tournament host (RTR)
+    - Ripple Crescent Halberd main
+  links:
+    discord: '714347886434844702'
+    twitch: artorra
+  score:
+    tp_pc: 0
+    fp: 6
+
+Beebeard:
+  region: na-east
+  facts:
+    - DEN staff member
+  links:
+    discord: '135597609476685824'
+    twitch: bee_beard
+
+beven:
+  region: na-east
+  facts:
+    - '#1 Festival Points'
+    - best pure sorcery player
+  links:
+    discord: '168492291265265664'
+  score:
+    tp_pc: 38
+    fp: 152
+
+BronDaGoat:
+  region: eu
+  facts:
+    - Serpent-Hunter enjoyer
+  links:
+    discord: '387040182295199744'
+    twitch: br02ndagoat
+  score:
+    tp_pc: 4
+    fp: 0
+
+Cas:
+  region: na
+  links:
+    discord: '271329775514025985'
+  score:
+    tp: 0
+    fp_pc: 0
+
+Cip:
+  region: na-east
+  facts:
+    - DEN staff member
+  links:
+    discord: '226803500468797440'
+    twitch: cip_tv
+  score:
+    tp: 19
+    fp_pc: 6
+
+DarkSoapp:
+  region: pl
+  titles:
+    - Fisha God
+  facts:
+    - PS Nagakiba main
+  links:
+    discord: '429262800586539019'
+    twitch: darksoapp
+  score:
+    tp: 42
+    fp_pc: 6
+
+DeadFish:
+  region: eu
+  links:
+    discord: '159234003986153472'
+    twitch: deadfisshh
+  score:
+    tp: 10
+    fp_pc: 20
+
+Eisenwave:
+  region: de
+  facts:
+    - DEN staff member
+    - tournament host
+  links:
+    discord: '162964325823283200'
+    twitch: eisenwave
+    github: eisenwave
+  score:
+    fp_pc: 6
+
+Emilia:
+  region: eu
+  facts:
+    - DEN staff member
+  links:
+    discord: '289142457218891777'
+    twitch: sovietspaceship
+
+Floozutter:
+  region: na-west
+  facts:
+    - Flooz never lose
+    - Halberd main
+    - Carian Slicer enjoyer
+  links:
+    discord: '602059892160856074'
+    github: Floozutter
+  score:
+    tp_pc: 16
+    fp: 8
+
+Frosty:
+  region: na-east
+  facts:
+    - former HTS main
+    - DEN staff member
+  links:
+    discord: '231961956003610642'
+    twitch: frostycomes
+  score:
+    tp: 34
+    fp_pc: 42
+
+Futz1lla:
+  region: na
+  links:
+    discord: '291048905628712961'
+    twitch: futz1lla
+
+Gillo:
+  region: ru
+  links:
+    discord: '437300809848324106'
+
+josh from xbox:
+  region: na-east
+  facts:
+    - former HTS main
+    - DEN staff member
+  links:
+    discord: '216922040693686282'
+    twitch: joshyfromxbox
+  score:
+    fp_pc: 12
+
+ketchuplino:
+  region: eu
+  facts:
+    - DS3 veteran
+    - 2v2 veteran
+  links:
+    discord: '352358372110106624'
+    twitch: mustarlino
+
+LeJet:
+  region: na-west
+  links:
+    discord: '166748692966014986'
+  score:
+    fp_pc: 2
+
+MariaVEVO:
+  region: eu
+  facts:
+    - Halberd main
+  links:
+    discord: '1041411613321871532'
+    twitch: mariavevo
+  score:
+    tp: 32
+
+Marisa Nyaa:
+  region: na-east
+  links:
+    discord: '449627214854488064'
+    twitch: marisa_nyaa
+    youtube: @marisa_nyaa
+
+memfender:
+  region: ru
+  links:
+    discord: '505022987171266564'
+
+Me Suck:
+  region: ru
+  links:
+    discord: '240834196984168448'
+
+pikselonix:
+  region: eu
+  facts:
+    - BttB fight club player
+  links:
+    discord: '251780969068101633'
+
+Sadia Moon:
+  region: na
+  titles:
+    - Madia Soon
+  facts:
+    - DEN staff member
+  links:
+    discord: '731973018909147196'
+    twitch: sadia_moon
+
+Samurai Donel:
+  region: ru
+  links:
+    discord: '419544473958350861'
+
+Shieldpoke:
+  region: na-east
+  facts:
+    - DS3 veteran
+  links:
+    discord: '183371373127794688'
+    twitch: shieldpoke
+
+Skiffin:
+  region: na-west
+  links:
+    discord: '467428533593964555'
+  score:
+    tp: 2
+    fp_pc: 10
+
+Sorriy:
+  region: na-east
+  links:
+    discord: '799796905257336862'
+    twitch: sorriy
+  score:
+    tp: 36
+    fp_pc: 16
+
+space ranger77:
+  region: ua
+  links:
+    discord: '463710475818106883'
+  score:
+    tp: 40
+    fp_pc: 104
+
+Steelovsky:
+  region: pl
+  titles:
+    - Fan of Aviation
+  links:
+    discord: '180673674410590208'
+    twitch: steelovsky
+    youtube: @Steelovsky
+  score:
+    tp: 12
+    fp_pc: 54
+
+Tear:
+  region: sa
+  links:
+    discord: '951135089046212648'
+    twitch: ijusttear
+
+Willow Nyaa:
+  region: na-east
+  links:
+    discord: '784855780783947816'
+    twitch: willownya
+
+winio:
+  region: pl
+  facts:
+    - lost to PS whips
+  links:
+    discord: '479748654794539040'
+    twitch: winioo_dziador

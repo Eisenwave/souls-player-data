@@ -1,0 +1,507 @@
+end_of_fire:
+  date: 2022-02-05
+  platform: ds3
+  organizer: ERPvP
+  host: DEN
+  long_name: The End of Fire, a Final Goodbye to DS3
+  short_name: End of Fire
+  winners:
+    - SafakKandemir
+    - Value
+    - Witnake
+    - TheBat30
+
+aged_lion_open:
+  date: 2022-03-25
+  platform: pc
+  organizer: Dashing Saint
+  host: DEN
+  long_name: The Aged Lion Open
+  short_name: Aged Lion Open
+  link: https://challonge.com/tbqxkzgf
+  winners:
+    - Aevee
+    - Sara Toga
+    - Ziggylatta
+    - buy_unids
+
+warmup_pc:
+  date: 2022-05-14
+  platform: pc
+  organizer: ERPvP
+  host: DEN
+  long_name: Warm Up Tournament (PC)
+  short_name: Warm Up (PC)
+  link: https://challonge.com/WUPC
+  winners:
+    - FuryX
+    - Shieldpoke
+    - Dimka
+    - Fuuko
+
+warmup_psn:
+  date: 2022-05-15
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  long_name: Warm Up Tournament (PSN)
+  short_name: Warm Up (PSN)
+  link: https://challonge.com/WUPS
+  winners:
+    - Lad
+    - Snapcaster
+    - RevelKnight
+    - Rask1lls
+
+foc_2022_opening_pc_na:
+  date: 2022-06-04
+  platform: pc
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 Opening (PC/NA)
+  short_name: FoC-22 Open (PC/NA)
+  link: https://challonge.com/FoC1NA
+  winners:
+    - FuryX
+    - Beven
+    - Fuuko
+    - Raincoat
+
+foc_2022_opening_pc_eu:
+  date: 2022-06-05
+  platform: pc
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 Opening (PC/EU)
+  short_name: FoC-22 Open (PC/EU)
+  link: https://challonge.com/FoC1EURUME
+  winners:
+    - abyss
+    - genepool
+    - Steelovsky
+    - Arzock
+
+foc_2022_opening_psn_eu:
+  date: 2022-06-11
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 Opening (PSN/EU)
+  short_name: FoC-22 Open (PSN/EU)
+  link: https://challonge.com/FoC1EURUMEPSN
+  winners:
+    - Tesukatora
+    - mrtn_772
+    - PV-ValSie
+    - elchupanibrey
+
+foc_2022_opening_psn_na:
+  date: 2022-06-12
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 Opening (PSN/NA)
+  short_name: FoC-22 Open (PSN/NA)
+  link: https://challonge.com/FoC1NAPSN
+  winners:
+    - mmlubergames
+    - Sir Leaky Bum
+    - Rask1lls
+    - Jozai610
+
+foc_2022_07_pc_eu:
+  date: 2022-07-16
+  platform: pc
+  organizer: ERPvP
+  host: DEN
+  importance: 0
+  long_name: Festival of Combat 2022 July Major (PC/EU)
+  short_name: FoC-22-07 Major (PC/EU)
+  link: https://challonge.com/FOCMJREU
+  winners:
+    - genepool
+    - Miasma
+    - space ranger77
+    - Yuzu
+
+foc_2022_07_pc_na:
+  date: 2022-07-17
+  platform: pc
+  organizer: ERPvP
+  host: DEN
+  importance: 0
+  long_name: Festival of Combat 2022 July Major (PC/NA)
+  short_name: FoC-22-07 Major (PC/NA)
+  link: https://challonge.com/FOCMJRNA
+  winners:
+    - Frosty
+    - beven
+    - Daniel
+    - ChanchoMcFly
+
+foc_2022_07_psn_eu:
+  date: 2022-07-23
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: 0
+  long_name: Festival of Combat 2022 July Major (PSN/EU)
+  short_name: FoC-22-07 Major (PSN/EU)
+  link: https://challonge.com/FOCMJREUPSN
+  winners:
+    - Witnake
+    - Reydriar
+    - Kromm_Toji
+    - Franael
+
+foc_2022_07_psn_na:
+  date: 2022-07-24
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: 0
+  long_name: Festival of Combat 2022 July Major (PSN/NA)
+  short_name: FoC-22-07 Major (PSN/NA)
+  link: https://challonge.com/FOCMJRNAPSN
+  winners:
+    - Rask1lls
+    - Inservin
+    - Jozai610
+    - SlaveKnightKos
+
+foc_2022_08_pc_eu:
+  date: 2022-08-27
+  platform: pc
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 August Minor (PC/EU)
+  short_name: FoC-22-08 Minor (PC/EU)
+  link: https://challonge.com/FOCEU_AUG
+  winners:
+    - space ranger77
+    - Miasma
+    - Molock
+    - Balsco
+
+foc_2022_08_pc_na:
+  date: 2022-08-28
+  platform: pc
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 August Minor (PC/NA)
+  short_name: FoC-22-08 Minor (PC/NA)
+  link: https://challonge.com/FOCNA_AUG
+  winners:
+    - beven
+    - Melee
+    - ChanchoMcFly
+    - josh from xbox
+
+foc_2022_09_psn_eu:
+  date: 2022-09-03
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 September Minor (PSN/EU)
+  short_name: FoC-22-09 Minor (PSN/EU)
+  link: https://challonge.com/FOCPSNEU_AUG
+  winners:
+    - Witnake
+    - mr deeZ
+    - Heauth
+    - Nibrey
+
+foc_2022_09_psn_na:
+  date: 2022-09-04
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 September Minor (PSN/NA)
+  short_name: FoC-22-09 Minor (PSN/NA)
+  link: https://challonge.com/FOCPSNNA_AUG
+  winners:
+    - Inservin
+    - markoveso
+    - SlaveKnightKos
+    - Snapcaster
+
+homecoming_2v2:
+  date: 2022-09-11
+  platform: ds3
+  organizer: DEN
+  host: DEN
+  long_name: DS3 Homecoming 2v2
+  short_name: DS3 Homecoming 2v2
+  link: https://challonge.com/Ds3Homecoming2v2
+  winners:
+    - [The Grim Sleeper, Smokewolve]
+    - [Harkitse, MaudCraeb]
+    - [Value, RedLight]
+    - [Sebbo, simple_most]
+
+fist_fight:
+  date: 2022-09-12
+  platform: pc
+  organizer: brookeadair
+  host: brookeadair
+  long_name: Good Ole Fashioned Fist Fight
+  short_name: Fist Fight
+  link: null
+  winners:
+    - space ranger77
+    - Steelovsky
+    - [Ferbsol, Yuzu]
+
+witching_moon_chain:
+  date: 2022-09-17
+  platform: seamless
+  organizer: The Witching Moon
+  host: DEN
+  long_name: Chain Tourney
+  short_name: Chain Tourney
+  link: https://challonge.com/fwl2xsku
+  winners:
+    - DarkSoapp
+    - Siri
+    - Steelovsky
+    - winio
+
+bttb_1:
+  date: 2022-09-24
+  platform: seamless
+  organizer: Eisenwave
+  host: DEN
+  long_name: Back to the Basics 1
+  short_name: BttB 1
+  link: https://challonge.com/de/48q28p7a
+  winners:
+    - DarkSoapp
+    - Frosty
+    - Steelovsky
+    - PhantomZaro
+
+foc_2022_10_pc:
+  date: 2022-10-08
+  platform: seamless
+  organizer: ERPvP
+  host: DEN
+  importance: 0
+  long_name: Festival of Combat 2022 October Major (PC)
+  short_name: FoC-22-10 Major (PC)
+  link: https://challonge.com/OCTMJRPC
+  winners:
+    - space ranger77
+    - beven
+    - HonestFaraday
+    - Sorriy
+
+foc_2022_10_psn:
+  date: 2022-10-09
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: 0
+  long_name: Festival of Combat 2022 October Major (PSN)
+  short_name: FoC-22-10 Major (PSN)
+  link: https://challonge.com/OCTMJRPSN
+  winners:
+    - SlaveKnightKos
+    - Snapcaster
+    - Gwshshrbwbs
+    - Rask1lls
+
+bttb_2:
+  date: 2022-10-29
+  platform: seamless
+  organizer: Eisenwave
+  host: DEN
+  long_name: Back to the Basics 2
+  short_name: BttB 2
+  link: https://challonge.com/5fb15phn
+  winners:
+    - space ranger77
+    - Frosty
+    - Cip
+    - PitOfDespair
+
+dual_vykes:
+  date: 2022-10-31
+  platform: seamless
+  organizer: LBU
+  host: DEN
+  long_name: We've gone mad, so should you...
+  short_name: Dual Vykes
+  link: https://challonge.com/DualVykes
+  winners:
+    - space ranger77
+    - Steelovsky
+    - beven
+    - Yuzu
+
+foc_2022_11_pc_eu:
+  date: 2022-11-05
+  platform: seamless
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 November Minor (PC/EU)
+  short_name: FoC-22-11 Minor (PC/EU)
+  link: https://challonge.com/FOC_PCEU_NOV
+  winners:
+    - Steelovsky
+    - Molock
+    - DeadFish
+    - space ranger77
+
+foc_2022_11_pc_na:
+  date: 2022-11-06
+  platform: seamless
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 November Minor (PC/NA)
+  short_name: FoC-22-11 Minor (PC/NA)
+  link: https://challonge.com/FOC_PCNA_NOV
+  winners:
+    - beven
+    - notkjell
+    - HonestFaraday
+    - Floozutter
+
+big_bonk:
+  date: 2022-11-06
+  platform: seamless
+  organizer: brookeadair
+  host: brookeadair
+  long_name: Big Bonking Burnament
+  short_name: Big Bonk
+  link: https://challonge.com/bigbonk
+  winners:
+    - space ranger77
+    - Yuzu
+    - Eisenwave
+    - Steelovsky
+
+foc_2022_11_psn_eu:
+  date: 2022-11-12
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 November Minor (PSN/EU)
+  short_name: FoC-22-11 Minor (PSN/EU)
+  link: https://challonge.com/FOC_PSNEU_NOV
+  winners:
+    - JustAFool
+    - S13_M
+    - eli_dks
+    - Winterbringer
+
+foc_2022_11_psn_na:
+  date: 2022-11-13
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: -1
+  long_name: Festival of Combat 2022 November Minor (PSN/NA)
+  short_name: FoC-22-11 Minor (PSN/NA)
+  link: https://challonge.com/FOC_PSNNA_NOV
+  winners:
+    - Frosty
+    - Rask1lls
+    - SlaveKnightKos
+    - Arc_Dominuz
+
+redditcord:
+  date: 2022-11-20
+  platform: seamless
+  organizer: r/EldenRing Discord
+  host: DEN
+  long_name: r/EldenRing Discord Tournament
+  short_name: r/EldenRing Tourney
+  link: https://challonge.com/ft49jvxw
+  winners:
+    - MariaVEVO
+    - LeJet
+    - Frosty
+    - crispy_cronchy
+
+bttb_3:
+  date: 2022-11-27
+  platform: seamless
+  organizer: Eisenwave
+  host: DEN
+  long_name: Back to the Basics 3
+  short_name: BttB 3
+  link: https://challonge.com/de/btbmkIII
+  winners:
+    - Sorriy
+    - MariaVEVO
+    - DeadFish
+    - Frosty
+
+bttb_4:
+  date: 2022-12-11
+  platform: seamless
+  organizer: Eisenwave
+  host: DEN
+  long_name: Back to the Basics 4
+  short_name: BttB 4
+  link: https://challonge.com/de/8sdbb57r
+  winners:
+    - beven
+    - MariaVEVO
+    - Floozutter
+    - Cip
+
+christmas_ttt:
+  date: 2022-12-17
+  platform: ds3
+  organizer: Shieldpoke
+  host: Shieldpoke
+  long_name: Christmas Trio Tag Team Tournament
+  short_name: Christmas TTT
+  link: https://challonge.com/SPTTTT
+  winners:
+    - [Kheim, Witnake, Kandemir]
+    - [Value, Ruth, Grim]
+    - [Nogg, Acelera, Laff]
+    - [Arharim, G3nTle_fl4me21, severniiinjener]
+
+foc_2022_12_pc:
+  date: 2022-12-17
+  platform: seamless
+  organizer: ERPvP
+  host: DEN
+  importance: 1
+  long_name: Festival of Combat 2022 Finals (PC)
+  short_name: FoC-22 Finals (PC)
+  link: https://challonge.com/FOC_FINALS_PC
+  winners:
+    - beven
+    - Frosty
+    - space ranger77
+    - Skiffin
+
+foc_2022_12_psn:
+  date: 2022-12-18
+  platform: psn
+  organizer: ERPvP
+  host: DEN
+  importance: 1
+  long_name: Festival of Combat 2022 Finals (PSN)
+  short_name: FoC-22 Finals (PSN)
+  link: https://challonge.com/FOC_FINALS_PSN
+  winners:
+    - mmlubergames
+    - SlaveKnightKos
+    - VanitaZ
+    - Frosty
