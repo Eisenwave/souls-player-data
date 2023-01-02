@@ -353,7 +353,7 @@ foc_2022_11_pc_eu:
 foc_2022_11_pc_na:
   date: 2022-11-06
   platform: seamless
-  region: na
+  region: na-x
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 November Minor
@@ -395,6 +395,7 @@ foc_2022_11_psn_eu:
 foc_2022_11_psn_na:
   date: 2022-11-13
   platform: psn
+  region: na-x
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 November Minor

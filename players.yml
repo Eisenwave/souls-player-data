@@ -9,7 +9,7 @@ Afk:
     fp_pc: 0
 
 Artorra:
-  region: na
+  region: na-x
   facts:
     - tournament host (RTR)
     - Ripple Crescent Halberd main
@@ -51,7 +51,7 @@ BronDaGoat:
     fp: 0
 
 Cas:
-  region: na
+  region: na-x
   links:
     discord: '271329775514025985'
   score:
@@ -138,7 +138,7 @@ Frosty:
     fp_psn: 32
 
 Futz1lla:
-  region: na
+  region: na-x
   links:
     discord: '291048905628712961'
     twitch: futz1lla
@@ -210,7 +210,7 @@ pikselonix:
     discord: '251780969068101633'
 
 Sadia Moon:
-  region: na
+  region: na-x
   titles:
     - Madia Soon
   facts:
