@@ -1,6 +1,6 @@
 asia_east:
   privacy: true
-  parent: null
+  parent: earth
   long_name: East Asia
   short_name: East Asia
   flag: jp
@@ -21,7 +21,7 @@ earth:
 
 eu:
   privacy: true
-  parent: null
+  parent: earth
   long_name: Europe
   short_name: Europe
   flag: eu
@@ -42,14 +42,14 @@ na_west:
 
 na_x:
   privacy: true
-  parent: null
+  parent: earth
   long_name: North America
   short_name: NA
   flag: us
 
 oceania:
   privacy: true
-  parent: null
+  parent: earth
   long_name: Oceania
   short_name: Oceania
   flag: au
