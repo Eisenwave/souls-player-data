@@ -1,5 +1,5 @@
 afk:
-  name: Afk
+  long_name: Afk
   region: eu
   facts:
     - BttB fight club player
@@ -7,17 +7,18 @@ afk:
     discord: '1020778175011233844'
 
 artorra:
-  name: Artorra
-  region: na_x
+  long_name: Artorra
+  region: na_east
   facts:
     - tournament host (RTR)
     - Ripple Crescent Halberd main
   links:
     discord: '714347886434844702'
     twitch: artorra
+    challonge: artorra
 
 beebeard:
-  name: Beebeard
+  long_name: Beebeard
   region: na_east
   facts:
     - DEN staff member
@@ -26,7 +27,7 @@ beebeard:
     twitch: bee_beard
 
 beven:
-  name: beven
+  long_name: beven
   region: na_east
   facts:
     - '#1 Festival Points'
@@ -34,8 +35,18 @@ beven:
   links:
     discord: '168492291265265664'
 
+brena:
+  long_name: BathedInBrena
+  short_name: Brena
+  region: na_west
+  links:
+    discord: '307356774154108939'
+    twitch: bathedinbrena
+    youtube: @BathedinBrena
+    challonge: bathedinbrena
+
 brondagoat:
-  name: BronDaGoat
+  long_name: BronDaGoat
   region: eu
   facts:
     - Serpent-Hunter enjoyer
@@ -43,14 +54,30 @@ brondagoat:
     discord: '387040182295199744'
     twitch: br02ndagoat
 
+brookeadair:
+  long_name: brookeadair
+  short_name: brooke
+  region: earth
+  links:
+    discord: '844069092939530280'
+    challonge: https://challonge.com/users/brookeadair
+    twitch: brookeadair
+
 cas:
-  name: Cas
-  region: na_x
+  long_name: Cas
+  region: na_east
   links:
     discord: '271329775514025985'
 
+castle:
+  long_name: CastleInTheSky
+  short_name: Castle
+  region: na_east
+  links:
+    discord: '392076002551136266'
+
 cip:
-  name: Cip
+  long_name: Cip
   region: na_east
   facts:
     - DEN staff member
@@ -59,7 +86,7 @@ cip:
     twitch: cip_tv
 
 darksoapp:
-  name: DarkSoapp
+  long_name: DarkSoapp
   region: pl
   titles:
     - Fisha God
@@ -69,15 +96,32 @@ darksoapp:
     discord: '429262800586539019'
     twitch: darksoapp
 
+dashing_saint:
+  long_name: The Dashing Saint
+  short_name: Saint
+  region: earth
+  links: []
+
 deadfish:
-  name: DeadFish
+  long_name: DeadFish
   region: eu
   links:
     discord: '159234003986153472'
     twitch: deadfisshh
 
+den:
+  long_name: Duelist Event Network
+  short_name: DEN
+  region: earth
+  links:
+    discord: https://discord.gg/jMhar46wqe
+    challonge: https://challonge.com/communities/0fcfd7207506ee800961b0d5
+    twitch: duelist_event_network
+    youtube: @duelisteventnetwork7529
+
 eisenwave:
-  name: Eisenwave
+  long_name: Eisenwave
+  short_name: Eisen
   region: de
   facts:
     - DEN staff member
@@ -87,9 +131,10 @@ eisenwave:
     discord: '162964325823283200'
     twitch: eisenwave
     github: eisenwave
+    challonge: eisenwave
 
 emilia:
-  name: Emilia
+  long_name: Emilia
   region: eu
   facts:
     - DEN staff member
@@ -97,8 +142,16 @@ emilia:
     discord: '289142457218891777'
     twitch: sovietspaceship
 
+erpvp:
+  long_name: Elden Ring PvP
+  short_name: ERPvP
+  region: earth
+  links:
+    discord: https://discord.gg/erpvp
+
 floozutter:
-  name: Floozutter
+  long_name: Floozutter
+  short_name: Flooz
   region: na_west
   facts:
     - Flooz never lose
@@ -109,7 +162,7 @@ floozutter:
     github: Floozutter
 
 frosty:
-  name: Frosty
+  long_name: Frosty
   region: na_east
   facts:
     - former HTS main
@@ -119,20 +172,21 @@ frosty:
     twitch: frostycomes
 
 futz1lla:
-  name: Futz1lla
-  region: na_x
+  long_name: Futz1lla
+  region: na_east
   links:
     discord: '291048905628712961'
     twitch: futz1lla
 
 gillo:
-  name: Gillo
+  long_name: Gillo
   region: ru
   links:
     discord: '437300809848324106'
 
 joshy:
-  name: josh from xbox
+  long_name: josh from xbox
+  short_name: Joshy
   region: na_east
   facts:
     - former HTS main
@@ -142,7 +196,7 @@ joshy:
     twitch: joshyfromxbox
 
 ketchuplino:
-  name: ketchuplino
+  long_name: ketchuplino
   region: eu
   facts:
     - DS3 veteran
@@ -151,8 +205,28 @@ ketchuplino:
     discord: '352358372110106624'
     twitch: mustarlino
 
+khknight:
+  long_name: khknight
+  region: na_east
+  facts:
+    - tournament host
+  links:
+    discord: '349575090255691777'
+    challonge: khknight
+    twitch: khknight
+    youtube: @khknight
+
+lbu:
+  long_name: LBU
+  region: na_x
+  facts:
+    - tournament host
+    - DS3 veteran
+  links:
+    discord: '294275723298996225'
+
 lejet:
-  name: LeJet
+  long_name: LeJet
   region: na_west
   links:
     discord: '166748692966014986'
@@ -160,7 +234,8 @@ lejet:
     fp_pc: 2
 
 mariavevo:
-  name: MariaVEVO
+  long_name: MariaVEVO
+  short_name: Maria
   region: eu
   facts:
     - Halberd main
@@ -169,7 +244,8 @@ mariavevo:
     twitch: mariavevo
 
 marisa:
-  name: Marisa Nyaa
+  long_name: Marisa Nyaa
+  short_name: Marisa
   region: na_east
   links:
     discord: '449627214854488064'
@@ -177,27 +253,36 @@ marisa:
     youtube: @marisa_nyaa
 
 memfender:
-  name: memfender
+  long_name: memfender
   region: ru
   links:
     discord: '505022987171266564'
 
 me_suck:
-  name: Me Suck
+  long_name: Me Suck
   region: ru
   links:
     discord: '240834196984168448'
 
 pikselonix:
-  name: pikselonix
+  long_name: pikselonix
+  short_name: piksel
   region: eu
   facts:
     - BttB fight club player
   links:
     discord: '251780969068101633'
 
+redditcord:
+  long_name: r/EldenRing Discord
+  short_name: r/EldenRing
+  links:
+    discord: https://discord.gg/r-eldenring
+    reddit: https://reddit.com/r/EldenRing
+
 sadia_moon:
-  name: Sadia Moon
+  long_name: Sadia Moon
+  short_name: Sadia
   region: na_x
   titles:
     - Madia Soon
@@ -208,41 +293,56 @@ sadia_moon:
     twitch: sadia_moon
 
 samurai_donel:
-  name: Samurai Donel
+  long_name: Samurai Donel
+  short_name: Donel
   region: ru
   links:
     discord: '419544473958350861'
 
 shieldpoke:
-  name: Shieldpoke
+  long_name: Shieldpoke
   region: na_east
   facts:
     - DS3 veteran
   links:
     discord: '183371373127794688'
     twitch: shieldpoke
+    challonge: shieldpoke
 
 skiffin:
-  name: Skiffin
+  long_name: Skiffin
   region: na_west
   links:
     discord: '467428533593964555'
 
+sleepmoover:
+  long_name: Sleepmoover
+  short_name: Sleep
+  region: eu
+  facts:
+    - tournament organizer
+    - DS3 veteran
+  links:
+    discord: '222040985482297346'
+    challonge: sleepmoover
+    twitch: sleepmoover
+
 sorriy:
-  name: Sorriy
+  long_name: Sorriy
   region: na_east
   links:
     discord: '799796905257336862'
     twitch: sorriy
 
 space_ranger77:
-  name: space ranger77
+  long_name: space ranger77
+  short_name: space
   region: ua
   links:
     discord: '463710475818106883'
 
 steelovsky:
-  name: Steelovsky
+  long_name: Steelovsky
   region: pl
   titles:
     - Fan of Aviation
@@ -251,25 +351,39 @@ steelovsky:
     twitch: steelovsky
     youtube: @Steelovsky
 
+sunpigeon:
+  long_name: sunpigeon
+  short_name: sunpigeon
+  region: eu
+  links:
+    discord: '697165032857010217'
+
 tear:
-  name: Tear
+  long_name: Tear
   region: sa
   links:
     discord: '951135089046212648'
     twitch: ijusttear
 
 willow:
-  name: Willow Nyaa
+  long_name: Willow Nyaa
+  short_name: Willow
   region: na_east
   links:
     discord: '784855780783947816'
     twitch: willownya
 
 winio:
-  name: winio the sleep
+  long_name: winio the sleep
+  short_name: winio
   region: pl
   facts:
     - lost to PS whips
   links:
     discord: '479748654794539040'
     twitch: winioo_dziador
+
+witching_moon:
+  long_name: The Witching Moon
+  short_name: Witching Moon
+  region: earth
