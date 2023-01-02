@@ -16,7 +16,7 @@ eu:
   privacy: true
   parent: null
   long_name: Europe
-  short_name: EU
+  short_name: Europe
   flag: eu
 
 na-east:
