@@ -1,0 +1,79 @@
+brookeadair:
+  name: Brookeadair's Tournaments
+  organizer: brookeadair
+  host: brookeadair
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
+bttb:
+  name: Back to the Basics
+  organizer: Eisenwave
+  host: DEN
+  show_organizer: true
+  show_region: true
+  show_platform: false
+
+dashing_saint:
+  name: Dashing Saint Tournaments
+  organizer: Dashing Saint
+  host: Dashing Saint
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
+den:
+  name: DEN Tournaments
+  organizer: DEN
+  host: DEN
+  show_organizer: false
+  show_region: false
+  show_platform: false
+
+erpvp:
+  name: ERPvP Tournaments
+  organizer: ERPvP
+  host: DEN
+  show_organizer: false
+  show_region: false
+  show_platform: false
+
+foc:
+  name: Festival of Combat
+  organizer: ERPvP
+  host: DEN
+  show_organizer: false
+  show_region: true
+  show_platform: true
+
+lbu:
+  name: LBU's Tournaments
+  organizer: LBU
+  host: DEN
+  show_organizer: false
+  show_region: false
+  show_platform: false
+
+redditcord:
+  name: r/EldenRing Discord Tournaments
+  organizer: r/EldenRing Discord
+  host: DEN
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
+shieldpoke:
+  name: Shieldpoke's Tournaments
+  organizer: Shieldpoke
+  host: Shieldpoke
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
+witching_moon:
+  name: The Witching Moon's Tournaments
+  organizer: Witching Moon
+  host: Witching Moon
+  show_organizer: true
+  show_region: false
+  show_platform: false
