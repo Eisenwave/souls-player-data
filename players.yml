@@ -30,7 +30,6 @@ beven:
   long_name: beven
   region: na_east
   facts:
-    - '#1 Festival Points'
     - best pure sorcery player
   links:
     discord: '168492291265265664'
