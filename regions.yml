@@ -12,6 +12,13 @@ de:
   short_name: Germany
   flag: de
 
+earth:
+  privacy: true
+  parent: null
+  long_name: Planet Earth
+  short_name: Earth
+  flag: un
+
 eu:
   privacy: true
   parent: null
