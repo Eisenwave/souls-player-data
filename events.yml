@@ -5,10 +5,10 @@ end_of_fire:
   long_name: The End of Fire, a Final Goodbye to DS3
   short_name: End of Fire
   winners:
-    - SafakKandemir
-    - Value
-    - Witnake
-    - TheBat30
+    - kandemir
+    - value
+    - witnake
+    - thebat30
 
 aged_lion_open:
   date: 2022-03-25
@@ -18,9 +18,9 @@ aged_lion_open:
   short_name: Aged Lion Open
   link: https://challonge.com/tbqxkzgf
   winners:
-    - Aevee
-    - Sara Toga
-    - Ziggylatta
+    - aevee
+    - sara_toga
+    - ziggylatta
     - buy_unids
 
 foc_warmup_pc:
@@ -31,10 +31,10 @@ foc_warmup_pc:
   short_name: Warm Up
   link: https://challonge.com/WUPC
   winners:
-    - FuryX
-    - Shieldpoke
-    - Dimka
-    - Fuuko
+    - furyX
+    - shieldpoke
+    - dimka
+    - fuuko
 
 foc_warmup_psn:
   date: 2022-05-15
@@ -45,10 +45,10 @@ foc_warmup_psn:
   short_name: Warm Up
   link: https://challonge.com/WUPS
   winners:
-    - Lad
-    - Snapcaster
-    - RevelKnight
-    - Rask1lls
+    - lad
+    - snapcaster
+    - revelKnight
+    - rask1lls
 
 trysweaty:
   date: 2022-05-21
@@ -59,9 +59,9 @@ trysweaty:
   link: https://challonge.com/ib9n7m4u
   winners:
     - mmlubergames
-    - TheOneLad
-    - Harceru
-    - Skeltah
+    - theonelad
+    - harceru
+    - skeltah
 
 foc_2022_opening_pc_na:
   date: 2022-06-04
@@ -73,10 +73,10 @@ foc_2022_opening_pc_na:
   short_name: FoC-22 Open
   link: https://challonge.com/FoC1NA
   winners:
-    - FuryX
-    - Beven
-    - Fuuko
-    - Raincoat
+    - furyX
+    - beven
+    - fuuko
+    - raincoat
 
 foc_2022_opening_pc_eu:
   date: 2022-06-05
@@ -103,9 +103,9 @@ foc_2022_opening_psn_eu:
   short_name: FoC-22 Open
   link: https://challonge.com/FoC1EURUMEPSN
   winners:
-    - Tesukatora
+    - tesukatora
     - mrtn_772
-    - PV-ValSie
+    - pv-valsie
     - elchupanibrey
 
 foc_2022_opening_psn_na:
@@ -119,9 +119,9 @@ foc_2022_opening_psn_na:
   link: https://challonge.com/FoC1NAPSN
   winners:
     - mmlubergames
-    - Sir Leaky Bum
-    - Rask1lls
-    - Jozai610
+    - sir_leaky_bum
+    - rask1lls
+    - jozai610
 
 foc_2022_07_pc_eu:
   date: 2022-07-16
@@ -134,9 +134,9 @@ foc_2022_07_pc_eu:
   link: https://challonge.com/FOCMJREU
   winners:
     - genepool
-    - Miasma
+    - miasma
     - space ranger77
-    - Yuzu
+    - yuzu
 
 foc_2022_07_pc_na:
   date: 2022-07-17
@@ -148,10 +148,10 @@ foc_2022_07_pc_na:
   short_name: FoC-22-07 Major
   link: https://challonge.com/FOCMJRNA
   winners:
-    - Frosty
+    - frosty
     - beven
-    - Daniel
-    - ChanchoMcFly
+    - daniel
+    - chanchomcfly
 
 brena_1:
   date: 2022-07-17
@@ -162,9 +162,9 @@ brena_1:
   short_name: Tournament
   link: https://challonge.com/EldenRing_PvP_Tournament_Oceania_EastAsia_
   winners:
-    - Hs
-    - JD
-    - DepressedHollow
+    - hs
+    - jd
+    - depressedhollow
     - mountana
 
 foc_2022_07_psn_eu:
@@ -177,10 +177,10 @@ foc_2022_07_psn_eu:
   short_name: FoC-22-07 Major
   link: https://challonge.com/FOCMJREUPSN
   winners:
-    - Witnake
-    - Reydriar
-    - Kromm_Toji
-    - Franael
+    - witnake
+    - reydriar
+    - kromm_toji
+    - franael
 
 foc_2022_07_psn_na:
   date: 2022-07-24
@@ -192,10 +192,10 @@ foc_2022_07_psn_na:
   short_name: FoC-22-07 Major
   link: https://challonge.com/FOCMJRNAPSN
   winners:
-    - Rask1lls
-    - Inservin
-    - Jozai610
-    - SlaveKnightKos
+    - rask1lls
+    - inservin
+    - jozai610
+    - slaveknightkos
 
 caster_tourney_vol2:
   date: 2022-07-30
@@ -206,8 +206,8 @@ caster_tourney_vol2:
   short_name: Caster Vol 2.
   link: https://challonge.com/ds3castertourney
   winners:
-    - H20 Chi
-    - GodFilo
+    - h2o_chi
+    - godfilo
     - darkmatterii
     - mrtn
 
@@ -222,9 +222,9 @@ foc_2022_08_pc_eu:
   link: https://challonge.com/FOCEU_AUG
   winners:
     - space ranger77
-    - Miasma
-    - Molock
-    - Balsco
+    - miasma
+    - molock
+    - balsco
 
 foc_2022_08_pc_na:
   date: 2022-08-28
@@ -237,9 +237,9 @@ foc_2022_08_pc_na:
   link: https://challonge.com/FOCNA_AUG
   winners:
     - beven
-    - Melee
-    - ChanchoMcFly
-    - josh from xbox
+    - melee
+    - chanchoMcFly
+    - joshy
 
 foc_2022_09_psn_eu:
   date: 2022-09-03
@@ -251,10 +251,10 @@ foc_2022_09_psn_eu:
   short_name: FoC-22-09 Minor
   link: https://challonge.com/FOCPSNEU_AUG
   winners:
-    - Witnake
-    - mr deeZ
-    - Heauth
-    - Nibrey
+    - witnake
+    - mr_deez
+    - heauth
+    - nibrey
 
 foc_2022_09_psn_na:
   date: 2022-09-04
@@ -266,10 +266,10 @@ foc_2022_09_psn_na:
   short_name: FoC-22-09 Minor
   link: https://challonge.com/FOCPSNNA_AUG
   winners:
-    - Inservin
+    - inservin
     - markoveso
-    - SlaveKnightKos
-    - Snapcaster
+    - slaveknightkos
+    - snapcaster
 
 homecoming_2v2:
   date: 2022-09-11
@@ -279,10 +279,10 @@ homecoming_2v2:
   short_name: DS3 Homecoming 2v2
   link: https://challonge.com/Ds3Homecoming2v2
   winners:
-    - [The Grim Sleeper, Smokewolve]
-    - [Harkitse, MaudCraeb]
-    - [Value, RedLight]
-    - [Sebbo, simple_most]
+    - [grim_sleeper, smokewolve]
+    - [harkitse, maudcraeb]
+    - [value, redlight]
+    - [sebbo, simple_most]
 
 fist_fight:
   date: 2022-09-12
@@ -292,9 +292,9 @@ fist_fight:
   short_name: Fist Fight
   link: null
   winners:
-    - space ranger77
-    - Steelovsky
-    - [Ferbsol, Yuzu]
+    - space_ranger77
+    - steelovsky
+    - [ferbsol, yuzu]
 
 witching_moon_chain:
   date: 2022-09-17
@@ -304,9 +304,9 @@ witching_moon_chain:
   short_name: Chain Tourney
   link: https://challonge.com/fwl2xsku
   winners:
-    - DarkSoapp
-    - Siri
-    - Steelovsky
+    - darksoapp
+    - siri
+    - steelovsky
     - winio
 
 bttb_1:
@@ -317,10 +317,10 @@ bttb_1:
   short_name: BttB 1
   link: https://challonge.com/de/48q28p7a
   winners:
-    - DarkSoapp
-    - Frosty
-    - Steelovsky
-    - PhantomZaro
+    - darksoapp
+    - frosty
+    - steelovsky
+    - phantomzaro
 
 foc_2022_10_pc:
   date: 2022-10-08
@@ -331,10 +331,10 @@ foc_2022_10_pc:
   short_name: FoC-22-10 Major
   link: https://challonge.com/OCTMJRPC
   winners:
-    - space ranger77
+    - space_ranger77
     - beven
-    - HonestFaraday
-    - Sorriy
+    - honestfaraday
+    - sorriy
 
 foc_2022_10_psn:
   date: 2022-10-09
@@ -345,10 +345,10 @@ foc_2022_10_psn:
   short_name: FoC-22-10 Major
   link: https://challonge.com/OCTMJRPSN
   winners:
-    - SlaveKnightKos
-    - Snapcaster
-    - Gwshshrbwbs
-    - Rask1lls
+    - slaveknightkos
+    - snapcaster
+    - gwshshrbwbs
+    - rask1lls
 
 bttb_2:
   date: 2022-10-29
@@ -358,10 +358,10 @@ bttb_2:
   short_name: BttB 2
   link: https://challonge.com/5fb15phn
   winners:
-    - space ranger77
-    - Frosty
-    - Cip
-    - PitOfDespair
+    - space_ranger77
+    - frosty
+    - cip
+    - pitofdespair
 
 dual_vykes:
   date: 2022-10-31
@@ -371,10 +371,10 @@ dual_vykes:
   short_name: Dual Vykes
   link: https://challonge.com/DualVykes
   winners:
-    - space ranger77
-    - Steelovsky
+    - space_ranger77
+    - steelovsky
     - beven
-    - Yuzu
+    - yuzu
 
 foc_2022_11_pc_eu:
   date: 2022-11-05
@@ -386,10 +386,10 @@ foc_2022_11_pc_eu:
   short_name: FoC-22-11 Minor
   link: https://challonge.com/FOC_PCEU_NOV
   winners:
-    - Steelovsky
-    - Molock
-    - DeadFish
-    - space ranger77
+    - steelovsky
+    - molock
+    - deadFish
+    - space_ranger77
 
 foc_2022_11_pc_na:
   date: 2022-11-06
@@ -403,8 +403,8 @@ foc_2022_11_pc_na:
   winners:
     - beven
     - notkjell
-    - HonestFaraday
-    - Floozutter
+    - honestfaraday
+    - floozutter
 
 big_bonk:
   date: 2022-11-06
@@ -414,10 +414,10 @@ big_bonk:
   short_name: Big Bonk
   link: https://challonge.com/bigbonk
   winners:
-    - space ranger77
-    - Yuzu
-    - Eisenwave
-    - Steelovsky
+    - space_ranger77
+    - yuzu
+    - eisenwave
+    - steelovsky
 
 foc_2022_11_psn_eu:
   date: 2022-11-12
@@ -428,10 +428,10 @@ foc_2022_11_psn_eu:
   short_name: FoC-22-11 Minor
   link: https://challonge.com/FOC_PSNEU_NOV
   winners:
-    - JustAFool
-    - S13_M
+    - justafool
+    - s13_m
     - eli_dks
-    - Winterbringer
+    - winterbringer
 
 foc_2022_11_psn_na:
   date: 2022-11-13
@@ -443,10 +443,10 @@ foc_2022_11_psn_na:
   short_name: FoC-22-11 Minor
   link: https://challonge.com/FOC_PSNNA_NOV
   winners:
-    - Frosty
-    - Rask1lls
-    - SlaveKnightKos
-    - Arc_Dominuz
+    - frosty
+    - rask1lls
+    - slaveknightkos
+    - arc_dominuz
 
 redditcord:
   date: 2022-11-20
@@ -456,9 +456,9 @@ redditcord:
   short_name: r/EldenRing Tourney
   link: https://challonge.com/ft49jvxw
   winners:
-    - MariaVEVO
-    - LeJet
-    - Frosty
+    - mariavevo
+    - lejet
+    - frosty
     - crispy_cronchy
 
 bttb_3:
@@ -469,10 +469,10 @@ bttb_3:
   short_name: BttB 3
   link: https://challonge.com/de/btbmkIII
   winners:
-    - Sorriy
-    - MariaVEVO
-    - DeadFish
-    - Frosty
+    - sorriy
+    - mariavevo
+    - deadfish
+    - frosty
 
 brena_2:
   date: 2022-11-27
@@ -483,10 +483,10 @@ brena_2:
   short_name: Tournament
   link: https://challonge.com/EldenRing_PvP_Tournament_Oceania_EastAsia_2
   winners:
-    - Harold1277
-    - Basscannon90
+    - harold1277
+    - basscannon90
     - nooblive
-    - Liopjk
+    - liopjk
 
 starter_classes:
   date: 2022-12-10
@@ -497,8 +497,8 @@ starter_classes:
   short_name: Starter Classes
   link: https://challonge.com/EldenRing_PvP_StarterClasses
   winners:
-    - Frosty
-    - UseifPoorleen
+    - frosty
+    - useifpoorleen
     - eli_dks
     - nothee
 
@@ -511,9 +511,9 @@ bttb_4:
   link: https://challonge.com/de/8sdbb57r
   winners:
     - beven
-    - MariaVEVO
-    - Floozutter
-    - Cip
+    - mariavevo
+    - floozutter
+    - cip
 
 christmas_ttt:
   date: 2022-12-17
@@ -523,10 +523,10 @@ christmas_ttt:
   short_name: Christmas TTT
   link: https://challonge.com/SPTTTT
   winners:
-    - [Kheim, Witnake, Kandemir]
-    - [Value, Ruth, Grim]
-    - [Nogg, Acelera, Laff]
-    - [Arharim, G3nTle_fl4me21, severniiinjener]
+    - [kheim, witnake, kandemir]
+    - [value, ruth, grim]
+    - [nogg, acelera, laff]
+    - [arharim, g3ntle_fl4me21, severniiinjener]
 
 foc_2022_12_pc:
   date: 2022-12-17
@@ -538,9 +538,9 @@ foc_2022_12_pc:
   link: https://challonge.com/FOC_FINALS_PC
   winners:
     - beven
-    - Frosty
-    - space ranger77
-    - Skiffin
+    - frosty
+    - space_ranger77
+    - skiffin
 
 foc_2022_12_psn:
   date: 2022-12-18
@@ -552,9 +552,9 @@ foc_2022_12_psn:
   link: https://challonge.com/FOC_FINALS_PSN
   winners:
     - mmlubergames
-    - SlaveKnightKos
-    - VanitaZ
-    - Frosty
+    - slaveknightkos
+    - vanitaz
+    - frosty
 
 # FUTURE
 

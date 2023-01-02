@@ -4,30 +4,30 @@ tp:
   long_name: Tournament Points
   short_name: TP
   scores:
-    DarkSoapp: 42
-    space ranger77: 40
+    darkSoapp: 42
+    space_ranger77: 40
     beven: 38
-    Sorriy: 36
-    Frosty: 34
-    MariaVEVO: 32
-    Cip: 19
-    Floozutter: 16
-    Steelovsky: 12
-    DeadFish: 10
-    PhantomZaro: 7
+    sorriy: 36
+    frosty: 34
+    mariavevo: 32
+    cip: 19
+    floozutter: 16
+    steelovsky: 12
+    deadfish: 10
+    phantomzaro: 7
     dimka: 6
-    Miasma: 6
-    PitOfDespair: 5
-    BronDaGoat: 4
+    miasma: 6
+    pitOfdespair: 5
+    brondagoat: 4
     daniiel: 4
     p0intup: 2
-    Crucify: 2
-    HonestFaraday: 2
-    Skiffin: 2
-    Molock: 1
+    crucify: 2
+    honestfaraday: 2
+    skiffin: 2
+    molock: 1
     urah: 1
-    MrMataz: 1
-    Riptide: 1
+    mrmataz: 1
+    riptide: 1
 
 fp_pc:
   platform: seamless
@@ -36,48 +36,48 @@ fp_pc:
   short_name: FP (PC)
   scores:
     beven: 152
-    space ranger77: 104
+    space_ranger77: 104
     genepool: 64
-    Miasma: 60
-    Steelovsky: 54
-    Molock: 44
-    Frosty: 42
-    HonestFaraday: 40
-    Abyss: 32
-    FuryX: 32
-    Melee: 30
+    miasma: 60
+    steelovsky: 54
+    molock: 44
+    frosty: 42
+    honestfaraday: 40
+    abyss: 32
+    furyX: 32
+    melee: 30
     notkjell: 30
-    ChanchoMcFly: 30
-    Daniel: 28
-    DeadFish: 20
-    Fuuko: 20
-    Sorriy: 16
-    Yuzu: 16
-    Balsco: 12
-    josh from xbox: 12
-    Skiffin: 10
-    Floozutter: 8
-    Arzock: 8
-    Raincoat: 8
-    SteelDash: 8
-    Eisenwave: 6
-    Gnomi: 6
-    Artorra: 6
-    Cip: 6
-    DarkSoapp: 6
-    Provokator: 4
-    Riptide: 4
-    Keio: 4
-    Garuwashi: 4
-    XxMonsterXDxX: 4
-    PitOfDespair: 4
-    UnsunGunner: 2
-    Crucify: 2
-    thirtyfpsER: 2
-    Shockd: 2
-    VoidReceptionist: 2
-    LeJet: 2
-    Pedro Segura: 2
+    chanchomcfly: 30
+    daniel: 28
+    deadfish: 20
+    fuuko: 20
+    sorriy: 16
+    yuzu: 16
+    balsco: 12
+    joshy: 12
+    skiffin: 10
+    floozutter: 8
+    arzock: 8
+    raincoat: 8
+    steeldash: 8
+    eisenwave: 6
+    gnomi: 6
+    artorra: 6
+    cip: 6
+    darksoapp: 6
+    provokator: 4
+    riptide: 4
+    keio: 4
+    garuwashi: 4
+    xxmonsterxdxx: 4
+    pitofdespair: 4
+    unsungunner: 2
+    crucify: 2
+    thirtyfpser: 2
+    shockd: 2
+    voidreceptionist: 2
+    lejet: 2
+    pedro_segura: 2
 
 fp_psn:
   platform: psn
@@ -85,49 +85,49 @@ fp_psn:
   long_name: Festival Points
   short_name: FP (PSN)
   scores:
-    Rask1lls: 92
-    SlaveKnightKos: 84
-    Witnake: 74
-    Inservin: 64
-    Snapcaster: 44
-    JustAFool: 36
-    Reydriar: 32
-    Tesukatora: 32
+    rask1lls: 92
+    slaveknightkos: 84
+    witnake: 74
+    inservin: 64
+    snapcaster: 44
+    justafool: 36
+    reydriar: 32
+    tesukatora: 32
     mmlubergames: 32
-    Frosty: 32
-    Jozai610: 32
-    Nibrey: 32
-    Markoveso: 28
-    Sir Leaky Bum: 28
+    frosty: 32
+    jozai610: 32
+    nibrey: 32
+    markoveso: 28
+    sir leaky bum: 28
     mrtn: 28
-    S13_m: 24
-    MrDeeZ: 24
-    Gwshshrbwbs: 24
-    Kromm_Toji: 24
-    Heath: 22
-    Franael: 18
-    eli_ks: 16
+    s13_m: 24
+    mrdeez: 24
+    gwshshrbwbs: 24
+    krommtoji: 24
+    heath: 22
+    franael: 18
+    eli_dks: 16
     pv-valsie: 16
-    TheDreamer: 12
-    Zawady: 10
-    Arc_Dominuz: 8
-    Winterbringer: 8
+    thedreamer: 12
+    zawady: 10
+    arc_dominuz: 8
+    winterbringer: 8
     okbro: 6
-    Alucard: 6
-    Darthlego: 6
-    Baemore: 6
-    VanitaZ: 6
-    TempestuousAtmosphere: 4
-    Elemich: 4
-    Mendax Verax: 4
-    Egoist: 4
-    CastleInTheSky: 4
-    Malum: 4
-    DMax7XeL: 4
-    Salè: 2
-    ArrhythmicPulse: 2
-    Ashy Boi: 2
-    mdKhalakeen: 2
-    Seif105: 2
-    Goldtop: 2
-    Gabri: 2
+    alucard: 6
+    darthlego: 6
+    baemore: 6
+    vanitaZ: 6
+    tempestuousatmosphere: 4
+    elemich: 4
+    mendax_verax: 4
+    egoist: 4
+    castleinthesky: 4
+    malum: 4
+    dmax7xel: 4
+    sale: 2
+    arrhythmicpulse: 2
+    ash_boi: 2
+    mdkhalakeen: 2
+    seif105: 2
+    goldtop: 2
+    gabri: 2

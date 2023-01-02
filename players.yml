@@ -1,11 +1,13 @@
-Afk:
+afk:
+  name: Afk
   region: eu
   facts:
     - BttB fight club player
   links:
     discord: '1020778175011233844'
 
-Artorra:
+artorra:
+  name: Artorra
   region: na-x
   facts:
     - tournament host (RTR)
@@ -14,7 +16,8 @@ Artorra:
     discord: '714347886434844702'
     twitch: artorra
 
-Beebeard:
+beebeard:
+  name: Beebeard
   region: na-east
   facts:
     - DEN staff member
@@ -23,6 +26,7 @@ Beebeard:
     twitch: bee_beard
 
 beven:
+  name: beven
   region: na-east
   facts:
     - '#1 Festival Points'
@@ -30,7 +34,8 @@ beven:
   links:
     discord: '168492291265265664'
 
-BronDaGoat:
+brondagoat:
+  name: BronDaGoat
   region: eu
   facts:
     - Serpent-Hunter enjoyer
@@ -38,12 +43,14 @@ BronDaGoat:
     discord: '387040182295199744'
     twitch: br02ndagoat
 
-Cas:
+cas:
+  name: Cas
   region: na-x
   links:
     discord: '271329775514025985'
 
-Cip:
+cip:
+  name: Cip
   region: na-east
   facts:
     - DEN staff member
@@ -51,7 +58,8 @@ Cip:
     discord: '226803500468797440'
     twitch: cip_tv
 
-DarkSoapp:
+darksoapp:
+  name: DarkSoapp
   region: pl
   titles:
     - Fisha God
@@ -61,13 +69,15 @@ DarkSoapp:
     discord: '429262800586539019'
     twitch: darksoapp
 
-DeadFish:
+deadfish:
+  name: DeadFish
   region: eu
   links:
     discord: '159234003986153472'
     twitch: deadfisshh
 
-Eisenwave:
+eisenwave:
+  name: Eisenwave
   region: de
   facts:
     - DEN staff member
@@ -78,7 +88,8 @@ Eisenwave:
     twitch: eisenwave
     github: eisenwave
 
-Emilia:
+emilia:
+  name: Emilia
   region: eu
   facts:
     - DEN staff member
@@ -86,7 +97,8 @@ Emilia:
     discord: '289142457218891777'
     twitch: sovietspaceship
 
-Floozutter:
+floozutter:
+  name: Floozutter
   region: na-west
   facts:
     - Flooz never lose
@@ -96,7 +108,8 @@ Floozutter:
     discord: '602059892160856074'
     github: Floozutter
 
-Frosty:
+frosty:
+  name: Frosty
   region: na-east
   facts:
     - former HTS main
@@ -105,18 +118,21 @@ Frosty:
     discord: '231961956003610642'
     twitch: frostycomes
 
-Futz1lla:
+futz1lla:
+  name: Futz1lla
   region: na-x
   links:
     discord: '291048905628712961'
     twitch: futz1lla
 
-Gillo:
+gillo:
+  name: Gillo
   region: ru
   links:
     discord: '437300809848324106'
 
-josh from xbox:
+joshy:
+  name: josh from xbox
   region: na-east
   facts:
     - former HTS main
@@ -126,6 +142,7 @@ josh from xbox:
     twitch: joshyfromxbox
 
 ketchuplino:
+  name: ketchuplino
   region: eu
   facts:
     - DS3 veteran
@@ -134,14 +151,16 @@ ketchuplino:
     discord: '352358372110106624'
     twitch: mustarlino
 
-LeJet:
+lejet:
+  name: LeJet
   region: na-west
   links:
     discord: '166748692966014986'
   score:
     fp_pc: 2
 
-MariaVEVO:
+mariavevo:
+  name: MariaVEVO
   region: eu
   facts:
     - Halberd main
@@ -149,7 +168,8 @@ MariaVEVO:
     discord: '1041411613321871532'
     twitch: mariavevo
 
-Marisa Nyaa:
+marisa:
+  name: Marisa Nyaa
   region: na-east
   links:
     discord: '449627214854488064'
@@ -157,23 +177,27 @@ Marisa Nyaa:
     youtube: @marisa_nyaa
 
 memfender:
+  name: memfender
   region: ru
   links:
     discord: '505022987171266564'
 
-Me Suck:
+me_suck:
+  name: Me Suck
   region: ru
   links:
     discord: '240834196984168448'
 
 pikselonix:
+  name: pikselonix
   region: eu
   facts:
     - BttB fight club player
   links:
     discord: '251780969068101633'
 
-Sadia Moon:
+sadia_moon:
+  name: Sadia Moon
   region: na-x
   titles:
     - Madia Soon
@@ -183,12 +207,14 @@ Sadia Moon:
     discord: '731973018909147196'
     twitch: sadia_moon
 
-Samurai Donel:
+samurai_donel:
+  name: Samurai Donel
   region: ru
   links:
     discord: '419544473958350861'
 
-Shieldpoke:
+shieldpoke:
+  name: Shieldpoke
   region: na-east
   facts:
     - DS3 veteran
@@ -196,23 +222,27 @@ Shieldpoke:
     discord: '183371373127794688'
     twitch: shieldpoke
 
-Skiffin:
+skiffin:
+  name: Skiffin
   region: na-west
   links:
     discord: '467428533593964555'
 
-Sorriy:
+sorriy:
+  name: Sorriy
   region: na-east
   links:
     discord: '799796905257336862'
     twitch: sorriy
 
-space ranger77:
+space_ranger77:
+  name: space ranger77
   region: ua
   links:
     discord: '463710475818106883'
 
-Steelovsky:
+steelovsky:
+  name: Steelovsky
   region: pl
   titles:
     - Fan of Aviation
@@ -221,19 +251,22 @@ Steelovsky:
     twitch: steelovsky
     youtube: @Steelovsky
 
-Tear:
+tear:
+  name: Tear
   region: sa
   links:
     discord: '951135089046212648'
     twitch: ijusttear
 
-Willow Nyaa:
+willow:
+  name: Willow Nyaa
   region: na-east
   links:
     discord: '784855780783947816'
     twitch: willownya
 
 winio:
+  name: winio the sleep
   region: pl
   facts:
     - lost to PS whips
