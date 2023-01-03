@@ -123,16 +123,6 @@ rtr:
   short_name: RTR
   organizer: artorra
   host: artorra
-  prestige: 0
-  show_organizer: false
-  show_region: false
-  show_platform: false
-
-rtr_beta:
-  long_name: Round Table Rumble Beta
-  short_name: RTR Beta
-  organizer: artorra
-  host: artorra
   prestige: -1
   show_organizer: false
   show_region: false

@@ -299,7 +299,8 @@ fist_fight:
 rtr_2022_1_6pm:
   date: 2022-09-15
   platform: pc
-  league: rtr-beta
+  league: rtr
+  importance: -1
   long_name: 'Round Table Rumble 2022 #1 (6 PM)'
   short_name: 'RTR 2022 #1 (6 PM)'
   link: https://www.start.gg/RoundTableRumble-1
@@ -325,7 +326,8 @@ witching_moon_chain:
 rtr_2022_2_2pm:
   date: 2022-09-22
   platform: pc
-  league: rtr-beta
+  league: rtr
+  importance: -1
   long_name: 'Round Table Rumble 2022 #2 (2 PM)'
   short_name: 'RTR 2022 #2 (2 PM)'
   link: https://www.start.gg/RoundTableRumble-2
@@ -338,7 +340,8 @@ rtr_2022_2_2pm:
 rtr_2022_2_6pm:
   date: 2022-09-22
   platform: pc
-  league: rtr-beta
+  league: rtr
+  importance: -1
   long_name: 'Round Table Rumble 2022 #2 (6 PM)'
   short_name: 'RTR 2022 #2 (6 PM)'
   link: https://www.start.gg/RoundTableRumble-2
@@ -364,7 +367,8 @@ bttb_1:
 rtr_2022_3_2pm:
   date: 2022-09-29
   platform: pc
-  league: rtr-beta
+  league: rtr
+  importance: -1
   long_name: 'Round Table Rumble 2022 #3 (2 PM)'
   short_name: 'RTR 2022 #3 (2 PM)'
   link: https://www.start.gg/RoundTableRumble-3
@@ -377,7 +381,8 @@ rtr_2022_3_2pm:
 rtr_2022_3_6pm:
   date: 2022-09-29
   platform: pc
-  league: rtr-beta
+  league: rtr
+  importance: -1
   long_name: 'Round Table Rumble 2022 #3 (6 PM)'
   short_name: 'RTR 2022 #3 (6 PM)'
   link: https://www.start.gg/RoundTableRumble-3
@@ -390,7 +395,8 @@ rtr_2022_3_6pm:
 rtr_2022_4_2pm:
   date: 2022-10-06
   platform: seamless
-  league: rtr-beta
+  league: rtr
+  importance: -1
   long_name: 'Round Table Rumble 2022 #4 (2 PM)'
   short_name: 'RTR 2022 #4 (2 PM)'
   link: https://www.start.gg/RoundTableRumble-4
@@ -403,7 +409,8 @@ rtr_2022_4_2pm:
 rtr_2022_4_6pm:
   date: 2022-10-06
   platform: seamless
-  league: rtr-beta
+  league: rtr
+  importance: -1
   long_name: 'Round Table Rumble 2022 #4 (6 PM)'
   short_name: 'RTR 2022 #4 (6 PM)'
   link: https://www.start.gg/RoundTableRumble-4
@@ -444,7 +451,8 @@ foc_2022_10_psn:
 rtr_2022_5_2pm:
   date: 2022-10-13
   platform: seamless
-  league: rtr-beta
+  league: rtr
+  importance: -1
   long_name: 'Round Table Rumble 2022 #5 (2 PM)'
   short_name: 'RTR 2022 #5 (2 PM)'
   link: https://www.start.gg/RoundTableRumble-5
@@ -457,7 +465,8 @@ rtr_2022_5_2pm:
 rtr_2022_5_6pm:
   date: 2022-10-13
   platform: seamless
-  league: rtr-beta
+  league: rtr
+  importance: -1
   long_name: 'Round Table Rumble 2022 #5 (6 PM)'
   short_name: 'RTR 2022 #5 (6 PM)'
   link: https://www.start.gg/RoundTableRumble-5

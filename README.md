@@ -38,7 +38,7 @@ is considered part of its name and what is merely metadata.
 The prestige rating is a score which ranks the significance of a league.
 This value is optional and can be omitted, in which case it defaults to zero.
 
-- `-1` beta/poorly organized league, casual weeklies, etc.
+- `-1` weeklies, events with low player count, etc.
 - `0` an ordinary community league or individual event
 - `1` league with recurring events and highly skilled players (e.g. BttB)
 - `2` league with recurring events, most skilled players, large price pools,
