@@ -9,7 +9,7 @@ de:
   privacy: false
   parent: eu
   long_name: Germany
-  short_name: Germany
+  short_name: DE
   flag: de
 
 earth:
@@ -23,7 +23,7 @@ eu:
   privacy: true
   parent: earth
   long_name: Europe
-  short_name: Europe
+  short_name: EU
   flag: eu
 
 na_east:
@@ -58,40 +58,40 @@ pl:
   privacy: false
   parent: eu
   long_name: Poland
-  short_name: Poland
+  short_name: PL
   flag: pl
   
 ru:
   privacy: true
   parent: earth
   long_name: Russia
-  short_name: Russia
+  short_name: RU
   flag: ru
 
 ua:
   privacy: false
   parent: eu
   long_name: Ukraine
-  short_name: Ukraine
+  short_name: UA
   flag: ua
 
 us_east:
   privacy: false
   parent: na_east
   long_name: United States East
-  short_name: U.S. East
+  short_name: US East
   flag: us
 
 us_west:
   privacy: false
   parent: na_west
   long_name: United States West
-  short_name: U.S. West
+  short_name: US West
   flag: us
 
 us_x:
   privacy: false
   parent: na_x
   long_name: United States
-  short_name: U.S.
+  short_name: US
   flag: us
