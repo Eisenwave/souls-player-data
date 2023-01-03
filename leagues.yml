@@ -43,7 +43,7 @@ bttb:
   short_name: BttB
   organizer: eisenwave
   host: den
-  prestige: 1
+  prestige: 2
   show_organizer: true
   show_region: true
   show_platform: false
@@ -63,7 +63,7 @@ den:
   short_name: DEN Tourneys
   organizer: den
   host: den
-  prestige: 0
+  prestige: 1
   show_organizer: false
   show_region: false
   show_platform: false
@@ -73,7 +73,7 @@ den_lbu:
   short_name: LBU's DEN Tourneys
   organizer: lbu
   host: den
-  prestige: 0
+  prestige: 1
   show_organizer: false
   show_region: false
   show_platform: false
@@ -83,7 +83,7 @@ den_sleep:
   short_name: Sleep's DEN Tourneys
   organizer: sleepmoover
   host: den
-  prestige: 0
+  prestige: 1
   show_organizer: true
   show_region: false
   show_platform: false
@@ -93,7 +93,7 @@ erpvp:
   short_name: ERPvP Tourneys
   organizer: erpvp
   host: den
-  prestige: 1
+  prestige: 2
   show_organizer: false
   show_region: false
   show_platform: false
@@ -103,7 +103,7 @@ foc:
   short_Name: FoC
   organizer: erpvp
   host: den
-  prestige: 2
+  prestige: 3
   show_organizer: false
   show_region: true
   show_platform: true
@@ -123,7 +123,7 @@ rtr:
   short_name: RTR
   organizer: artorra
   host: artorra
-  prestige: -1
+  prestige: -3
   show_organizer: false
   show_region: false
   show_platform: false
@@ -133,7 +133,7 @@ shieldpoke:
   short_name: Shieldpoke's Tourneys
   organizer: shieldpoke
   host: shieldpoke
-  prestige: 0
+  prestige: 1
   show_organizer: true
   show_region: false
   show_platform: false
