@@ -60,6 +60,13 @@ pl:
   long_name: Poland
   short_name: Poland
   flag: pl
+  
+ru:
+  privacy: false
+  parent: earth
+  long_name: Russia
+  short_name: Russia
+  flag: ru
 
 ua:
   privacy: false
