@@ -49,6 +49,7 @@ brena:
 
 brondagoat:
   long_name: BronDaGoat
+  short_name: Bron
   region: eu
   facts:
     - Coded Swords fan
@@ -90,6 +91,7 @@ cip:
 
 darksoapp:
   long_name: DarkSoapp
+  short_name: Soapp
   titles:
     - Fisha God
   region: pl
@@ -107,6 +109,7 @@ dashing_saint:
 
 deadfish:
   long_name: DeadFish
+  short_name: Fish
   region: eu
   links:
     discord: '159234003986153472'
@@ -205,6 +208,7 @@ frosty:
 
 futz1lla:
   long_name: Futz1lla
+  short_name: z1lla
   region: na_east
   links:
     discord: '291048905628712961'
@@ -230,6 +234,7 @@ honestfaraday:
 
 johnleoks:
   long_name: johnleoks
+  short_name: john
   titles:
     - aka. Aewynn
   region: na_x
@@ -251,6 +256,7 @@ joshy:
     twitch: joshyfromxbox
 
 karandra:
+  long_name: Karandra
   region: ru
   facts:
     - Knight's Greatsword main (used to main 1h Claymore)
@@ -262,6 +268,7 @@ karandra:
 
 ketchuplino:
   long_name: ketchuplino
+  short_name: lino
   region: eu
   facts:
     - DS3 veteran
@@ -305,6 +312,7 @@ lbu:
 
 lejet:
   long_name: LeJet
+  short_name: Jet
   region: na_west
   links:
     discord: '166748692966014986'
@@ -336,6 +344,7 @@ memfender:
 
 me_suck:
   long_name: Me Suck
+  short_name: Suck
   region: ru
   links:
     discord: '240834196984168448'
@@ -352,7 +361,7 @@ mmlubergames:
 
 ohaitoto:
   long_name: Ohaitoto
-  short_name: Ohaitoto
+  short_name: Ohai
   region: na_east
   facts:
     - tournament host
@@ -410,6 +419,7 @@ samurai_donel:
 
 shieldpoke:
   long_name: Shieldpoke
+  short_name: Shield
   region: na_east
   facts:
     - hates shield poking
@@ -449,6 +459,7 @@ smujayb:
 
 sorriy:
   long_name: Sorriy
+  short_name: Sry
   region: na_east
   links:
     discord: '799796905257336862'
@@ -466,6 +477,7 @@ space_ranger77:
 
 steelovsky:
   long_name: Steelovsky
+  short_name: Steve
   titles:
     - Fan of Aviation
   region: pl
