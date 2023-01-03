@@ -70,7 +70,7 @@ foc_2022_opening_pc_na:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 Opening
-  short_name: FoC-22 Open
+  short_name: FoC 2022 Opening
   link: https://challonge.com/FoC1NA
   winners:
     - furyX
@@ -85,7 +85,7 @@ foc_2022_opening_pc_eu:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 Opening
-  short_name: FoC-22 Open
+  short_name: FoC 2022 Opening
   link: https://challonge.com/FoC1EURUME
   winners:
     - abyss
@@ -100,7 +100,7 @@ foc_2022_opening_psn_eu:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 Opening
-  short_name: FoC-22 Open
+  short_name: FoC 2022 Opening
   link: https://challonge.com/FoC1EURUMEPSN
   winners:
     - tesukatora
@@ -115,7 +115,7 @@ foc_2022_opening_psn_na:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 Opening
-  short_name: FoC-22 Open
+  short_name: FoC 2022 Opening
   link: https://challonge.com/FoC1NAPSN
   winners:
     - mmlubergames
@@ -130,7 +130,7 @@ foc_2022_07_pc_eu:
   league: foc
   importance: 0
   long_name: Festival of Combat 2022 July Major
-  short_name: FoC-22-07 Major
+  short_name: FoC 2022 Jul Major
   link: https://challonge.com/FOCMJREU
   winners:
     - genepool
@@ -145,7 +145,7 @@ foc_2022_07_pc_na:
   league: foc
   importance: 0
   long_name: Festival of Combat 2022 July Major
-  short_name: FoC-22-07 Major
+  short_name: FoC 2022 Jul Major
   link: https://challonge.com/FOCMJRNA
   winners:
     - frosty
@@ -174,7 +174,7 @@ foc_2022_07_psn_eu:
   importance: 0
   league: foc
   long_name: Festival of Combat 2022 July Major
-  short_name: FoC-22-07 Major
+  short_name: FoC 2022 Jul Major
   link: https://challonge.com/FOCMJREUPSN
   winners:
     - witnake
@@ -189,7 +189,7 @@ foc_2022_07_psn_na:
   league: foc
   importance: 0
   long_name: Festival of Combat 2022 July Major
-  short_name: FoC-22-07 Major
+  short_name: FoC 2022 Jul Major
   link: https://challonge.com/FOCMJRNAPSN
   winners:
     - rask1lls
@@ -218,7 +218,7 @@ foc_2022_08_pc_eu:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 August Minor
-  short_name: FoC-22-08 Minor
+  short_name: FoC 2022 Aug Minor
   link: https://challonge.com/FOCEU_AUG
   winners:
     - space_ranger77
@@ -233,7 +233,7 @@ foc_2022_08_pc_na:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 August Minor
-  short_name: FoC-22-08 Minor
+  short_name: FoC 2022 Aug Minor
   link: https://challonge.com/FOCNA_AUG
   winners:
     - beven
@@ -248,7 +248,7 @@ foc_2022_09_psn_eu:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 September Minor
-  short_name: FoC-22-09 Minor
+  short_name: FoC 2022 Sep Minor
   link: https://challonge.com/FOCPSNEU_AUG
   winners:
     - witnake
@@ -263,7 +263,7 @@ foc_2022_09_psn_na:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 September Minor
-  short_name: FoC-22-09 Minor
+  short_name: FoC 2022 Sep Minor
   link: https://challonge.com/FOCPSNNA_AUG
   winners:
     - inservin
@@ -426,7 +426,7 @@ foc_2022_10_pc:
   league: foc
   importance: 0
   long_name: Festival of Combat 2022 October Major
-  short_name: FoC-22-10 Major
+  short_name: FoC 2022 Oct Major
   link: https://challonge.com/OCTMJRPC
   winners:
     - space_ranger77
@@ -440,7 +440,7 @@ foc_2022_10_psn:
   league: foc
   importance: 0
   long_name: Festival of Combat 2022 October Major
-  short_name: FoC-22-10 Major
+  short_name: FoC 2022 Oct Major
   link: https://challonge.com/OCTMJRPSN
   winners:
     - slaveknightkos
@@ -509,7 +509,7 @@ foc_2022_11_pc_eu:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 November Minor
-  short_name: FoC-22-11 Minor
+  short_name: FoC 2022 Nov Minor
   link: https://challonge.com/FOC_PCEU_NOV
   winners:
     - steelovsky
@@ -524,7 +524,7 @@ foc_2022_11_pc_na:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 November Minor
-  short_name: FoC-22-11 Minor
+  short_name: FoC 2022 Nov Minor
   link: https://challonge.com/FOC_PCNA_NOV
   winners:
     - beven
@@ -551,7 +551,7 @@ foc_2022_11_psn_eu:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 November Minor
-  short_name: FoC-22-11 Minor
+  short_name: FoC 2022 Nov Minor
   link: https://challonge.com/FOC_PSNEU_NOV
   winners:
     - justafool
@@ -566,7 +566,7 @@ foc_2022_11_psn_na:
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 November Minor
-  short_name: FoC-22-11 Minor
+  short_name: FoC 2022 Nov Minor
   link: https://challonge.com/FOC_PSNNA_NOV
   winners:
     - frosty
@@ -660,7 +660,7 @@ foc_2022_12_pc:
   league: foc
   importance: 1
   long_name: Festival of Combat 2022 Finals
-  short_name: FoC-22 Finals
+  short_name: FoC 2022 Finals
   link: https://challonge.com/FOC_FINALS_PC
   winners:
     - beven
@@ -674,7 +674,7 @@ foc_2022_12_psn:
   importance: 1
   league: foc
   long_name: Festival of Combat 2022 Finals
-  short_name: FoC-22 Finals
+  short_name: FoC 2022 Finals
   link: https://challonge.com/FOC_FINALS_PSN
   winners:
     - mmlubergames
