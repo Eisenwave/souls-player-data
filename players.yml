@@ -127,10 +127,11 @@ eisenwave:
     - Maldenwave
   region: de
   facts:
+    - frame data addict
     - tournament host
-    - DEN staff member
     - most 2 min DCs in one tournament
     - shadow-hosted during Sto's Taunter's Tongue event
+    - DEN staff member
   links:
     discord: '162964325823283200'
     twitch: eisenwave
@@ -316,6 +317,18 @@ me_suck:
   region: ru
   links:
     discord: '240834196984168448'
+
+phantomzaro:
+  long_name: PhantomZaro
+  short_name: Zaro
+  titles:
+    - The Mad Dragon
+  facts:
+    - dragon incantation main
+  region: na_east
+  links:
+    discord: '226719878395068417'
+    twitch: phantomzaro
 
 pikselonix:
   long_name: pikselonix
