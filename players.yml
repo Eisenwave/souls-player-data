@@ -31,6 +31,7 @@ beven:
   region: na_east
   facts:
     - best pure sorcery player
+    - hosted during Sto's Taunter's Tongue Event
   links:
     discord: '168492291265265664'
 
@@ -129,6 +130,7 @@ eisenwave:
     - tournament host
     - DEN staff member
     - most 2 min DCs in one tournament
+    - shadow-hosted during Sto's Taunter's Tongue event
   links:
     discord: '162964325823283200'
     twitch: eisenwave
@@ -201,6 +203,17 @@ gillo:
   links:
     discord: '437300809848324106'
 
+johnleoks:
+  long_name: johnleoks
+  titles:
+    - aka. Aewynn
+  region: na_x
+  facts:
+    - PS Great Spears main
+    - invasions enjoyer
+  links:
+    discord: '677521709863141380'
+
 joshy:
   long_name: josh from xbox
   short_name: Joshy
@@ -232,6 +245,19 @@ khknight:
     challonge: khknight
     twitch: khknight
     youtube: @khknight
+
+koop:
+  long_name: TheKoop
+  short_name: Koop
+  region: na_x
+  facts:
+    - hosted during Sto's Taunter's Tongue event
+  links:
+    discord: '152412753422712832'
+    twitch: thekoop
+    youtube: @TheKoop1
+    twitter: @TheKoop13
+    tiktok: @thekoop13
 
 lbu:
   long_name: LBU
@@ -365,6 +391,8 @@ steelovsky:
   titles:
     - Fan of Aviation
   region: pl
+  facts:
+    - hosted during Sto's Taunter's Tongue event
   links:
     discord: '180673674410590208'
     twitch: steelovsky
