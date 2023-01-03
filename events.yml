@@ -23,6 +23,19 @@ aged_lion_open:
     - ziggylatta
     - buy_unids
 
+twt_1:
+  date: 2022-05-14
+  platform: pc
+  league: twt
+  long_name: TWT Arena Championship Chapter 1
+  short_name: TWT 1
+  link: https://play.toornament.com/en_US/tournaments/5661173695504113664/
+  winners:
+    - witch_king
+    - bolognaboat
+    - mathmaster99
+    - iron_tomato
+
 foc_warmup_pc:
   date: 2022-05-14
   platform: pc
@@ -31,7 +44,7 @@ foc_warmup_pc:
   short_name: Warm Up
   link: https://challonge.com/WUPC
   winners:
-    - furyX
+    - furyx
     - shieldpoke
     - dimka
     - fuuko
@@ -47,7 +60,7 @@ foc_warmup_psn:
   winners:
     - lad
     - snapcaster
-    - revelKnight
+    - revelknight
     - rask1lls
 
 trysweaty:
@@ -63,6 +76,19 @@ trysweaty:
     - harceru
     - skeltah
 
+twt_2:
+  date: 2022-05-30
+  platform: pc
+  league: twt
+  long_name: TWT Arena Championship Chapter 2
+  short_name: TWT 2
+  link: https://play.toornament.com/en_US/tournaments/5680179619201277952/
+  winners:
+    - merry
+    - melee
+    - beven
+    - witch_king
+
 foc_2022_opening_pc_na:
   date: 2022-06-04
   platform: pc
@@ -73,7 +99,7 @@ foc_2022_opening_pc_na:
   short_name: FoC 2022 Opening
   link: https://challonge.com/FoC1NA
   winners:
-    - furyX
+    - furyx
     - beven
     - fuuko
     - raincoat
@@ -122,6 +148,19 @@ foc_2022_opening_psn_na:
     - sir_leaky_bum
     - rask1lls
     - jozai610
+
+twt_3:
+  date: 2022-06-12
+  platform: pc
+  league: twt
+  long_name: TWT Arena Championship Chapter 3
+  short_name: TWT 3
+  link: https://play.toornament.com/en_US/tournaments/5725984227542794240/
+  winners:
+    - tear
+    - melee
+    - beven
+    - siri
 
 foc_2022_07_pc_eu:
   date: 2022-07-16

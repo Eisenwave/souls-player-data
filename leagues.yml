@@ -138,6 +138,16 @@ shieldpoke:
   show_region: false
   show_platform: false
 
+twt:
+  long_name: TWT Arena
+  short_name: TWT
+  organizer: ohaitoto
+  host: ohaitoto
+  prestige: 1
+  show_organizer: false
+  show_region: false
+  show_platform: false
+
 witching_moon:
   long_name: The Witching Moon's Tournaments
   short_name: Witching Moon's Tourneys

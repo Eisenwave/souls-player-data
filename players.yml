@@ -341,6 +341,17 @@ mmlubergames:
     discord: '274198002904727552'
     psn: mmlubergames
 
+ohaitoto:
+  long_name: Ohaitoto
+  short_name: Ohaitoto
+  region: na_east
+  facts:
+    - tournament host
+  links:
+    discord: '741129482882121811'
+    twitch: ohaitoto
+    youtube: '@@ohaitoto8689'
+
 phantomzaro:
   long_name: PhantomZaro
   short_name: Zaro
