@@ -249,7 +249,7 @@ khknight:
 koop:
   long_name: TheKoop
   short_name: Koop
-  region: na_x
+  region: na_west
   facts:
     - hosted during Sto's Taunter's Tongue event
   links:
