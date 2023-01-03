@@ -49,6 +49,7 @@ brondagoat:
   long_name: BronDaGoat
   region: eu
   facts:
+    - Coded Swords fan
     - Serpent-Hunter enjoyer
   links:
     discord: '387040182295199744'
