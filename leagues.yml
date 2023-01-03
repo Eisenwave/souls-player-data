@@ -100,13 +100,23 @@ erpvp:
 
 foc:
   long_name: Festival of Combat
-  short_Name: FoC
+  short_name: FoC
   organizer: erpvp
   host: den
   prestige: 3
   show_organizer: false
   show_region: true
   show_platform: true
+
+khknight:
+  long_name: khknight's Tournaments
+  short_name: khknight's Tourneys
+  organizer: khknight
+  host: khknight
+  prestige: 0
+  show_organizer: true
+  show_region: false
+  show_platform: false
 
 redditcord:
   long_name: r/EldenRing Discord Tournaments
