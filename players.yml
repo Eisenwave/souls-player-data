@@ -329,6 +329,14 @@ me_suck:
   links:
     discord: '240834196984168448'
 
+mmlubergames:
+  long_name: mmlubergames
+  short_name: luber
+  region: na_east
+  links:
+    discord: '274198002904727552'
+    psn: mmlubergames
+
 phantomzaro:
   long_name: PhantomZaro
   short_name: Zaro
