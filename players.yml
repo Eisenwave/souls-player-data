@@ -29,6 +29,8 @@ beebeard:
 beven:
   long_name: beven
   region: na_east
+  titles:
+    - PC Champion
   facts:
     - best pure sorcery player
     - hosted during Sto's Taunter's Tongue Event
@@ -332,6 +334,8 @@ me_suck:
 mmlubergames:
   long_name: mmlubergames
   short_name: luber
+  titles:
+    - PSN Champion
   region: na_east
   links:
     discord: '274198002904727552'
