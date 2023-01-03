@@ -296,6 +296,19 @@ fist_fight:
     - steelovsky
     - [ferbsol, yuzu]
 
+rtr_2022_1_6pm:
+  date: 2022-09-15
+  platform: pc
+  league: rtr-beta
+  long_name: 'Round Table Rumble 2022 #1 (6 PM)'
+  short_name: 'RTR 2022 #1 (6 PM)'
+  link: https://www.start.gg/RoundTableRumble-1
+  winners:
+    - beven
+    - frosty
+    - johnleoks
+    - notkjell
+
 witching_moon_chain:
   date: 2022-09-17
   platform: seamless
@@ -309,6 +322,32 @@ witching_moon_chain:
     - steelovsky
     - winio
 
+rtr_2022_2_2pm:
+  date: 2022-09-22
+  platform: pc
+  league: rtr-beta
+  long_name: 'Round Table Rumble 2022 #2 (2 PM)'
+  short_name: 'RTR 2022 #2 (2 PM)'
+  link: https://www.start.gg/RoundTableRumble-2
+  winners:
+    - beven
+    - frosty
+    - cip
+    - skiffin
+
+rtr_2022_2_6pm:
+  date: 2022-09-22
+  platform: pc
+  league: rtr-beta
+  long_name: 'Round Table Rumble 2022 #2 (6 PM)'
+  short_name: 'RTR 2022 #2 (6 PM)'
+  link: https://www.start.gg/RoundTableRumble-2
+  winners:
+    - beven
+    - sorriy
+    - skiffin
+    - frosty
+
 bttb_1:
   date: 2022-09-24
   platform: seamless
@@ -321,6 +360,58 @@ bttb_1:
     - frosty
     - steelovsky
     - phantomzaro
+
+rtr_2022_3_2pm:
+  date: 2022-09-29
+  platform: pc
+  league: rtr-beta
+  long_name: 'Round Table Rumble 2022 #3 (2 PM)'
+  short_name: 'RTR 2022 #3 (2 PM)'
+  link: https://www.start.gg/RoundTableRumble-3
+  winners:
+    - skiffin
+    - enda
+    - honestfaraday
+    - phantomzaro
+
+rtr_2022_3_6pm:
+  date: 2022-09-29
+  platform: pc
+  league: rtr-beta
+  long_name: 'Round Table Rumble 2022 #3 (6 PM)'
+  short_name: 'RTR 2022 #3 (6 PM)'
+  link: https://www.start.gg/RoundTableRumble-3
+  winners:
+    - beven
+    - skiffin
+    - deadfish
+    - jekk
+
+rtr_2022_4_2pm:
+  date: 2022-10-06
+  platform: seamless
+  league: rtr-beta
+  long_name: 'Round Table Rumble 2022 #4 (2 PM)'
+  short_name: 'RTR 2022 #4 (2 PM)'
+  link: https://www.start.gg/RoundTableRumble-4
+  winners:
+    - sorriy
+    - deadfish
+    - eisenwave
+    - skiffin
+
+rtr_2022_4_6pm:
+  date: 2022-10-06
+  platform: seamless
+  league: rtr-beta
+  long_name: 'Round Table Rumble 2022 #4 (6 PM)'
+  short_name: 'RTR 2022 #4 (6 PM)'
+  link: https://www.start.gg/RoundTableRumble-4
+  winners:
+    - beven
+    - skiffin
+    - johnleoks
+    - floozutter
 
 foc_2022_10_pc:
   date: 2022-10-08
@@ -349,6 +440,32 @@ foc_2022_10_psn:
     - snapcaster
     - gwshshrbwbs
     - rask1lls
+
+rtr_2022_5_2pm:
+  date: 2022-10-13
+  platform: seamless
+  league: rtr-beta
+  long_name: 'Round Table Rumble 2022 #5 (2 PM)'
+  short_name: 'RTR 2022 #5 (2 PM)'
+  link: https://www.start.gg/RoundTableRumble-5
+  winners:
+    - beven
+    - frosty
+    - cip
+    - enda
+
+rtr_2022_5_6pm:
+  date: 2022-10-13
+  platform: seamless
+  league: rtr-beta
+  long_name: 'Round Table Rumble 2022 #5 (6 PM)'
+  short_name: 'RTR 2022 #5 (6 PM)'
+  link: https://www.start.gg/RoundTableRumble-5
+  winners:
+    - beven
+    - frosty
+    - skiffin
+    - cip
 
 bttb_2:
   date: 2022-10-29
@@ -568,20 +685,20 @@ everything_allowed:
   link: https://challonge.com/EldenRing_PvP_EverythingAllowed_Ps5
   winners: []
 
-rtr_2023_01_2pm:
+rtr_2023_1_2pm:
   date: 2023-01-08
   platform: seamless
   league: rtr
-  long_name: 'Round Table Rumble 2022 #1 (2 PM)'
+  long_name: 'Round Table Rumble 2023 #1 (2 PM)'
   short_name: 'RTR 2023 #1 (2 PM)'
   link: https://challonge.com/RTR_2PM_1
   winners: []
 
-rtr_2023_01_8pm:
+rtr_2023_1_8pm:
   date: 2023-01-08
   platform: seamless
   league: rtr
-  long_name: 'Round Table Rumble 2022 #1 (8 PM)'
+  long_name: 'Round Table Rumble 2023 #1 (8 PM)'
   short_name: 'RTR 2023 #1 (8 PM)'
   link: https://challonge.com/RTR_8PM_1
   winners: []
