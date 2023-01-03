@@ -114,7 +114,7 @@ redditcord:
   organizer: redditcord
   host: den
   prestige: 0
-  show_organizer: true
+  show_organizer: false
   show_region: false
   show_platform: false
 
