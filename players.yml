@@ -42,7 +42,7 @@ brena:
   links:
     discord: '307356774154108939'
     twitch: bathedinbrena
-    youtube: @BathedinBrena
+    youtube: '@BathedinBrena'
     challonge: bathedinbrena
 
 brondagoat:
@@ -117,7 +117,7 @@ den:
     discord: https://discord.gg/jMhar46wqe
     challonge: https://challonge.com/communities/0fcfd7207506ee800961b0d5
     twitch: duelist_event_network
-    youtube: @duelisteventnetwork7529
+    youtube: '@duelisteventnetwork7529'
 
 eisenwave:
   long_name: Eisenwave
@@ -135,7 +135,7 @@ eisenwave:
   links:
     discord: '162964325823283200'
     twitch: eisenwave
-    youtube: @eisenwave
+    youtube: '@eisenwave'
     github: eisenwave
     challonge: eisenwave
 
@@ -148,7 +148,7 @@ emilia:
   links:
     discord: '289142457218891777'
     twitch: sovietspaceship
-    youtube: @sovietspaceship
+    youtube: '@sovietspaceship'
     github: sovietspaceship
 
 enda:
@@ -257,7 +257,7 @@ khknight:
     discord: '349575090255691777'
     challonge: khknight
     twitch: khknight
-    youtube: @khknight
+    youtube: '@khknight'
 
 koop:
   long_name: TheKoop
@@ -268,9 +268,9 @@ koop:
   links:
     discord: '152412753422712832'
     twitch: thekoop
-    youtube: @TheKoop1
-    twitter: @TheKoop13
-    tiktok: @thekoop13
+    youtube: '@TheKoop1'
+    twitter: '@TheKoop13'
+    tiktok: '@thekoop13'
 
 lbu:
   long_name: LBU
@@ -304,7 +304,7 @@ marisa:
   links:
     discord: '449627214854488064'
     twitch: marisa_nyaa
-    youtube: @marisa_nyaa
+    youtube: '@marisa_nyaa'
 
 memfender:
   long_name: memfender
@@ -421,7 +421,7 @@ steelovsky:
   links:
     discord: '180673674410590208'
     twitch: steelovsky
-    youtube: @Steelovsky
+    youtube: '@Steelovsky'
 
 sunpigeon:
   long_name: sunpigeon
@@ -459,3 +459,12 @@ witching_moon:
   long_name: The Witching Moon
   short_name: Witching Moon
   region: earth
+
+yuzu:
+  long_name: Yuzu
+  short_name: Yuzu
+  titles:
+    aka. Snoozu
+  region: eu
+  links:
+    discord: '229003926249275393'
