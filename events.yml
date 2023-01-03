@@ -492,7 +492,7 @@ bttb_2:
 dual_vykes:
   date: 2022-10-31
   platform: seamless
-  league: lbu
+  league: den_lbu
   long_name: We've gone mad, so should you...
   short_name: Dual Vykes
   link: https://challonge.com/DualVykes
@@ -586,6 +586,19 @@ redditcord:
     - lejet
     - frosty
     - crispy_cronchy
+
+stepping_stone:
+  date: 2022-11-26
+  platform: ds3
+  league: den_sleep
+  long_name: Stepping Stone Showdown
+  short_name: Stepping Stone
+  link: https://challonge.com/SleepsSteppingstone
+  winners:
+    - steelovsky
+    - shuroii
+    - steeldash
+    - floozutter
 
 bttb_3:
   date: 2022-11-27
