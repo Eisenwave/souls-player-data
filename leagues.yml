@@ -123,7 +123,7 @@ rtr:
   short_name: RTR
   organizer: artorra
   host: artorra
-  prestige: -3
+  prestige: -2
   show_organizer: false
   show_region: false
   show_platform: false
