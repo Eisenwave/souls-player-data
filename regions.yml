@@ -62,7 +62,7 @@ pl:
   flag: pl
   
 ru:
-  privacy: false
+  privacy: true
   parent: earth
   long_name: Russia
   short_name: Russia
