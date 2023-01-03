@@ -122,6 +122,15 @@ den:
     twitch: duelist_event_network
     youtube: '@duelisteventnetwork7529'
 
+dreamer:
+  long_name: The Dreamer
+  short_name: Dreamer
+  region: eu
+  links:
+    discord: '797957828308500551'
+    twitch: thedreamer4444
+    youtube: '@thedreamer1172'
+
 eisenwave:
   long_name: Eisenwave
   short_name: Eisen

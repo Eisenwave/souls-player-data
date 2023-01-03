@@ -250,6 +250,19 @@ caster_tourney_vol2:
     - darkmatterii
     - mrtn
 
+iron_fist_cup:
+  date: 2022-08-13
+  platform: psn
+  league: khknight
+  long_name: The Iron Fist Cup
+  short_name: Iron Fist Cup
+  link: https://challonge.com/2meb5sgg
+  winners:
+    - dreamer
+    - eli_dks
+    - nibrey
+    - arc_dominuz
+
 foc_2022_08_pc_eu:
   date: 2022-08-27
   platform: pc
@@ -361,6 +374,19 @@ witching_moon_chain:
     - siri
     - steelovsky
     - winio
+
+great_cup:
+  date: 2022-09-18
+  platform: psn
+  league: khknight
+  long_name: The "GREAT" Cup
+  short_name: GREAT Cup
+  link: https://challonge.com/GreatweaponsCUP
+  winners:
+    - s13_m
+    - elemich
+    - eli_dks
+    - veggeorgie
 
 rtr_2022_2_2pm:
   date: 2022-09-22
@@ -515,6 +541,19 @@ rtr_2022_5_6pm:
     - skiffin
     - cip
 
+forgotten_arms:
+  date: 2022-09-18
+  platform: psn
+  league: khknight
+  long_name: The "Forgotten Arms" Cup
+  short_name: Forgotten Arms
+  link: https://challonge.com/forgottenarm
+  winners:
+    - witnake
+    - goldtop
+    - flawlesspere
+    - veggeorgie
+
 bttb_2:
   date: 2022-10-29
   platform: seamless
@@ -613,6 +652,19 @@ foc_2022_11_psn_na:
     - slaveknightkos
     - arc_dominuz
 
+make_it_rain:
+  date: 2022-09-19
+  platform: psn
+  league: khknight
+  long_name: The "Make it Rain" Cup
+  short_name: Make it Rain
+  link: https://challonge.com/Makerain
+  winners:
+    - snapcaster
+    - frosty
+    - slaveknightkos
+    - darkmatterii
+
 redditcord:
   date: 2022-11-20
   platform: seamless
@@ -705,6 +757,19 @@ christmas_ttt:
     - [value, ruth, grim]
     - [nogg, acelera, laff]
     - [arharim, g3ntle_fl4me21, severniiinjener]
+
+2v2_exhibition:
+  date: 2022-12-17
+  platform: psn
+  league: khknight
+  long_name: 2v2 Exhibition
+  short_name: 2v2
+  link: https://challonge.com/2v2exhibition
+  winners:
+    - [inservin, markoveso]
+    - [liam, slaveknightkos]
+    - [s13_m, omega]
+    - [legendofevil, clem]
 
 foc_2022_12_pc:
   date: 2022-12-17
