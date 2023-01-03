@@ -90,8 +90,8 @@ foc_2022_opening_pc_eu:
   winners:
     - abyss
     - genepool
-    - Steelovsky
-    - Arzock
+    - steelovsky
+    - arzock
 
 foc_2022_opening_psn_eu:
   date: 2022-06-11
@@ -238,7 +238,7 @@ foc_2022_08_pc_na:
   winners:
     - beven
     - melee
-    - chanchoMcFly
+    - chanchomcfly
     - joshy
 
 foc_2022_09_psn_eu:
@@ -514,7 +514,7 @@ foc_2022_11_pc_eu:
   winners:
     - steelovsky
     - molock
-    - deadFish
+    - deadfish
     - space_ranger77
 
 foc_2022_11_pc_na:
