@@ -26,6 +26,13 @@ eu:
   short_name: EU
   flag: eu
 
+ie:
+  privacy: false
+  parent: earth
+  long_name: Ireland
+  short_name: IE
+  flag: ie
+
 na_east:
   privacy: true
   parent: na_x
@@ -67,6 +74,13 @@ ru:
   long_name: Russia
   short_name: RU
   flag: ru
+
+sa:
+  privacy: true
+  parent: earth
+  long_name: South America
+  short_name: SA
+  flag: br
 
 ua:
   privacy: false
