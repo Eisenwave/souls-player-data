@@ -169,11 +169,12 @@ emilia:
 enda:
   long_name: EndaTheLion
   short_name: Enda
+  region: ie
   facts:
     - DEN founder
     - DS3 veteran
   links:
-    discord: 286539873333149697
+    discord: '286539873333149697'
     twitch: endathelion
 
 erpvp:
@@ -394,6 +395,7 @@ pikselonix:
 redditcord:
   long_name: r/EldenRing Discord
   short_name: r/EldenRing
+  region: earth
   links:
     discord: https://discord.gg/r-eldenring
     reddit: https://reddit.com/r/EldenRing
