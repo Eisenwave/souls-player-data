@@ -30,9 +30,9 @@ beven:
   long_name: beven
   region: na_east
   titles:
-    - PC Champion
+    - Grace-Given Champion Foc 2022
   facts:
-    - best pure sorcery player
+    - excellent pure sorcery player
     - hosted during Sto's Taunter's Tongue Event
   links:
     discord: '168492291265265664'
@@ -82,9 +82,12 @@ castle:
 
 cip:
   long_name: Cip
+  titles:
+    - Pronounced Sip
   region: na_east
   facts:
     - DEN staff member
+    - Frosty's little brother
   links:
     discord: '226803500468797440'
     twitch: cip_tv
@@ -110,6 +113,8 @@ dashing_saint:
 deadfish:
   long_name: DeadFish
   short_name: Fish
+  titles:
+    - aka Midfish
   region: eu
   links:
     discord: '159234003986153472'
@@ -138,8 +143,7 @@ eisenwave:
   long_name: Eisenwave
   short_name: Eisen
   titles:
-    - Eisenberg
-    - Maldenwave
+    - aka Eisenberg
   region: de
   facts:
     - frame data addict
@@ -202,6 +206,7 @@ frosty:
   facts:
     - former HTS main
     - DEN staff member
+    - Cip's big brother
     - tournament addict
   links:
     discord: '231961956003610642'
@@ -270,6 +275,8 @@ karandra:
 ketchuplino:
   long_name: ketchuplino
   short_name: lino
+  titles:
+    - aka mustarlino
   region: eu
   facts:
     - DS3 veteran
@@ -283,6 +290,7 @@ khknight:
   region: na_east
   facts:
     - tournament host
+    - pinged thousands of PC players to advertise a PS5
   links:
     discord: '349575090255691777'
     challonge: khknight
@@ -307,6 +315,7 @@ lbu:
   region: na_x
   facts:
     - DEN founder
+    - mysteriously vanished from the Souls community
     - DS3 veteran
   links:
     discord: '294275723298996225'
@@ -404,7 +413,7 @@ sadia_moon:
   long_name: Sadia Moon
   short_name: Sadia
   titles:
-    - Madia Soon
+    - aka Madia Soon
   region: na_x
   facts:
     - DEN staff member
@@ -479,7 +488,7 @@ space_ranger77:
 
 steelovsky:
   long_name: Steelovsky
-  short_name: Steve
+  short_name: Steel
   titles:
     - Fan of Aviation
   region: pl
