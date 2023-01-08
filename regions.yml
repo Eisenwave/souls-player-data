@@ -16,14 +16,14 @@ can_east:
   privacy: false
   parent: na_east
   long_name: Canada East
-  short_name: CAN East
+  short_name: CAN E
   flag: ca
 
 can_west:
   privacy: false
   parent: na_west
   long_name: Canada West
-  short_name: CAN West
+  short_name: CAN W
   flag: ca
 
 can:
@@ -72,14 +72,14 @@ na_east:
   privacy: true
   parent: na
   long_name: North America East
-  short_name: NA East
+  short_name: NA E
   flag: us
 
 na_west:
   privacy: true
   parent: na
   long_name: North America West
-  short_name: NA West
+  short_name: NA W
   flag: us
 
 na:
@@ -121,14 +121,14 @@ ksa:
   privacy: false
   parent: middle_east
   long_name: Kingdom of Saudi Arabia
-  short_name: Saudi Arabia
+  short_name: KSA
   flag: sa
 
 middle_east:
   privacy: true
   parent: earth
   long_name: Middle East
-  short_name: Middle East
+  short_name: Mid East
   flag: sa
 
 sa:
@@ -149,14 +149,14 @@ usa_east:
   privacy: false
   parent: na_east
   long_name: United States of America East
-  short_name: USA East
+  short_name: USA E
   flag: us
 
 usa_west:
   privacy: false
   parent: na_west
   long_name: United States of America West
-  short_name: USA West
+  short_name: USA W
   flag: us
 
 usa:
