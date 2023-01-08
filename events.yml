@@ -799,8 +799,6 @@ foc_2022_12_psn:
     - vanitaz
     - frosty
 
-# FUTURE
-
 everything_allowed:
   date: 2023-01-07
   platform: psn
@@ -840,6 +838,15 @@ bttb_2v2_1:
   long_name: Back to the Basics 2v2 Tournament
   short_name: Basics 2v2
   link: https://challonge.com/de/ipoer49h
+  winners: []
+
+colossal:
+  date: 2023-01-15
+  platform: psn
+  league: khknight
+  long_name: The Colossal Cup
+  short_name: Colossal
+  link: https://challonge.com/COLOSSAL
   winners: []
 
 shark:
