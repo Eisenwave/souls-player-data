@@ -809,7 +809,11 @@ everything_allowed:
   long_name: Everything Allowed
   short_name: Everything Allowed
   link: https://challonge.com/EldenRing_PvP_EverythingAllowed_Ps5
-  winners: []
+  winners:
+    - starless
+    - markoveso
+    - slaveknightkos
+    - eli_dks
 
 rtr_2023_1_2pm:
   date: 2023-01-08
