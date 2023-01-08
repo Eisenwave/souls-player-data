@@ -76,7 +76,7 @@ cas:
 castle:
   long_name: CastleInTheSky
   short_name: Castle
-  region: ca_east
+  region: can_east
   links:
     discord: '392076002551136266'
 
@@ -97,7 +97,7 @@ darksoapp:
   short_name: Soapp
   titles:
     - Fisha God
-  region: pl
+  region: pol
   facts:
     - PS Nagakiba main
   links:
@@ -144,7 +144,7 @@ eisenwave:
   short_name: Eisen
   titles:
     - aka Eisenberg
-  region: de
+  region: deu
   facts:
     - frame data addict
     - tournament host
@@ -161,14 +161,14 @@ eisenwave:
 eli_dks:
   long_name: eli_dks
   short_name: eli
-  region: it
+  region: ita
   links:
     discord: '698831430763151370'
 
 enda:
   long_name: EndaTheLion
   short_name: Enda
-  region: ie
+  region: irl
   facts:
     - DEN founder
     - DS3 veteran
@@ -217,13 +217,13 @@ futz1lla:
 
 gillo:
   long_name: Gillo
-  region: ru
+  region: rus
   links:
     discord: '437300809848324106'
 
 heauth:
   long_name: Heauth
-  region: sa
+  region: ksa
   links:
     discord: '328407548145172480'
 
@@ -244,7 +244,7 @@ johnleoks:
   short_name: john
   titles:
     - aka. Aewynn
-  region: na_x
+  region: na
   facts:
     - PS Great Spears main
     - invasions enjoyer
@@ -264,7 +264,7 @@ joshy:
 
 karandra:
   long_name: Karandra
-  region: ru
+  region: rus
   facts:
     - Knight's Greatsword main (used to main 1h Claymore)
     - At some point had 4000+ people blocked on Steam
@@ -313,7 +313,7 @@ koop:
 
 lbu:
   long_name: LBU
-  region: na_x
+  region: na
   facts:
     - DEN founder
     - mysteriously vanished from the Souls community
@@ -350,20 +350,20 @@ marisa:
 markoveso:
   long_name: markoveso
   short_name: marko
-  region: us_east
+  region: usa_east
   links:
     discord: '879820481992208496'
 
 memfender:
   long_name: memfender
-  region: ru
+  region: rus
   links:
     discord: '505022987171266564'
 
 me_suck:
   long_name: Me Suck
   short_name: Suck
-  region: ru
+  region: rus
   links:
     discord: '240834196984168448'
 
@@ -422,7 +422,7 @@ sadia_moon:
   short_name: Sadia
   titles:
     - aka Madia Soon
-  region: na_x
+  region: na
   facts:
     - DEN staff member
   links:
@@ -432,7 +432,7 @@ sadia_moon:
 samurai_donel:
   long_name: Samurai Donel
   short_name: Donel
-  region: ru
+  region: rus
   links:
     discord: '419544473958350861'
 
@@ -457,7 +457,7 @@ skiffin:
 slaveknightkos:
   long_name: SlaveKnightKos
   short_name: Kos
-  region: us_west
+  region: usa_west
   links:
     discord: '806782351841165352'
 
@@ -509,13 +509,13 @@ space_ranger77:
   facts:
     - best theoretical duelist
     - BttB rules tester
-  region: ua
+  region: ukr
   links:
     discord: '463710475818106883'
 
 starless:
   long_name: Starless
-  region: pl
+  region: pol
   links:
     discord: '794946161101242400'
 
@@ -524,7 +524,7 @@ steelovsky:
   short_name: Steel
   titles:
     - Fan of Aviation
-  region: pl
+  region: pol
   facts:
     - hosted during Sto's Taunter's Tongue event
   links:
@@ -541,7 +541,7 @@ sunpigeon:
 
 tear:
   long_name: Tear
-  region: sa_x
+  region: sa
   links:
     discord: '951135089046212648'
     twitch: ijusttear
@@ -549,7 +549,7 @@ tear:
 veggeorgie:
   long_name: VegGeorgie
   short_name: Georgie
-  region: us_east
+  region: usa_east
   links:
     discord: '784889142315843595'
 
@@ -564,7 +564,7 @@ willow:
 winio:
   long_name: winio the sleep
   short_name: winio
-  region: pl
+  region: pol
   facts:
     - lost to PS whips
   links:

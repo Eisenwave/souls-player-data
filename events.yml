@@ -92,7 +92,7 @@ twt_2:
 foc_2022_opening_pc_na:
   date: 2022-06-04
   platform: pc
-  region: na_x
+  region: na
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 Opening
@@ -137,7 +137,7 @@ foc_2022_opening_psn_eu:
 foc_2022_opening_psn_na:
   date: 2022-06-12
   platform: psn
-  region: na_x
+  region: na
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 Opening
@@ -180,7 +180,7 @@ foc_2022_07_pc_eu:
 foc_2022_07_pc_na:
   date: 2022-07-17
   platform: pc
-  region: na_x
+  region: na
   league: foc
   importance: 0
   long_name: Festival of Combat 2022 July Major
@@ -224,7 +224,7 @@ foc_2022_07_psn_eu:
 foc_2022_07_psn_na:
   date: 2022-07-24
   platform: psn
-  region: na_x
+  region: na
   league: foc
   importance: 0
   long_name: Festival of Combat 2022 July Major
@@ -281,7 +281,7 @@ foc_2022_08_pc_eu:
 foc_2022_08_pc_na:
   date: 2022-08-28
   platform: pc
-  region: na_x
+  region: na
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 August Minor
@@ -311,7 +311,7 @@ foc_2022_09_psn_eu:
 foc_2022_09_psn_na:
   date: 2022-09-04
   platform: psn
-  region: na_x
+  region: na
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 September Minor
@@ -598,7 +598,7 @@ foc_2022_11_pc_eu:
 foc_2022_11_pc_na:
   date: 2022-11-06
   platform: seamless
-  region: na_x
+  region: na
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 November Minor
@@ -640,7 +640,7 @@ foc_2022_11_psn_eu:
 foc_2022_11_psn_na:
   date: 2022-11-13
   platform: psn
-  region: na_x
+  region: na
   league: foc
   importance: -1
   long_name: Festival of Combat 2022 November Minor
@@ -721,7 +721,7 @@ brena_2:
 starter_classes:
   date: 2022-12-10
   platform: psn
-  region: na_x/eu
+  region: na/eu
   league: brena
   long_name: Starter Classes
   short_name: Starter Classes
@@ -804,7 +804,7 @@ foc_2022_12_psn:
 everything_allowed:
   date: 2023-01-07
   platform: psn
-  region: na_x/eu
+  region: na/eu
   league: brena
   long_name: Everything Allowed
   short_name: Everything Allowed
@@ -845,7 +845,7 @@ bttb_2v2_1:
 shark:
   date: 2023-01-28
   platform: psn
-  region: na_x/eu
+  region: na/eu
   league: brena
   long_name: S.H.A.R.K.
   short_name: S.H.A.R.K.

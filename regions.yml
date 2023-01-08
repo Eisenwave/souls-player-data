@@ -5,32 +5,32 @@ asia_east:
   short_name: East Asia
   flag: jp
 
-ca_east:
+can_east:
   privacy: false
   parent: na_east
   long_name: Canada East
-  short_name: CA East
+  short_name: CAN East
   flag: ca
 
-ca_west:
+can_west:
   privacy: false
   parent: na_west
   long_name: Canada West
-  short_name: CA West
+  short_name: CAN West
   flag: ca
 
-ca_x:
+can:
   privacy: false
-  parent: na_x
+  parent: na
   long_name: Canada
-  short_name: CA
+  short_name: CAN
   flag: ca
 
-de:
+deu:
   privacy: false
   parent: eu
   long_name: Germany
-  short_name: DE
+  short_name: DEU
   flag: de
 
 earth:
@@ -47,35 +47,35 @@ eu:
   short_name: EU
   flag: eu
 
-ie:
+irl:
   privacy: false
   parent: eu
   long_name: Ireland
-  short_name: IE
+  short_name: IRL
   flag: ie
 
-it:
+ita:
   privacy: false
   parent: eu
   long_name: Italy
-  short_name: IT
+  short_name: ITA
   flag: it
 
 na_east:
   privacy: true
-  parent: na_x
+  parent: na
   long_name: North America East
   short_name: NA East
   flag: us
 
 na_west:
   privacy: true
-  parent: na_x
+  parent: na
   long_name: North America West
   short_name: NA West
   flag: us
 
-na_x:
+na:
   privacy: true
   parent: earth
   long_name: North America
@@ -89,58 +89,65 @@ oceania:
   short_name: Oceania
   flag: au
 
-pl:
+pol:
   privacy: false
   parent: eu
   long_name: Poland
-  short_name: PL
+  short_name: POL
   flag: pl
   
-ru:
+rus:
   privacy: true
   parent: earth
-  long_name: Russia
-  short_name: RU
+  long_name: Russian Federation
+  short_name: RUS
   flag: ru
 
-sa:
+ksa:
   privacy: false
   parent: middle_east
   long_name: Kingdom of Saudi Arabia
   short_name: Saudi Arabia
   flag: sa
 
-sa_x:
+middle_east:
+  privacy: true
+  parent: earth
+  long_name: Middle East
+  short_name: Middle East
+  flag: sa
+
+sa:
   privacy: true
   parent: earth
   long_name: South America
   short_name: SA
   flag: br
 
-ua:
+ukr:
   privacy: false
   parent: eu
   long_name: Ukraine
-  short_name: UA
+  short_name: UKR
   flag: ua
 
-us_east:
+usa_east:
   privacy: false
   parent: na_east
-  long_name: United States East
-  short_name: US East
+  long_name: United States of America East
+  short_name: USA East
   flag: us
 
-us_west:
+usa_west:
   privacy: false
   parent: na_west
-  long_name: United States West
-  short_name: US West
+  long_name: United States of America West
+  short_name: USA West
   flag: us
 
-us_x:
+usa:
   privacy: false
-  parent: na_x
+  parent: na
   long_name: United States
-  short_name: US
+  short_name: USA
   flag: us
