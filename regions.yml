@@ -95,6 +95,13 @@ pol:
   long_name: Poland
   short_name: POL
   flag: pl
+
+prt:
+  privacy: false
+  parent: eu
+  long_name: Portugal
+  short_name: PRT
+  flag: pt
   
 rus:
   privacy: true
