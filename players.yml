@@ -1,6 +1,6 @@
 afk:
   long_name: Afk
-  region: eu
+  region: ita
   facts:
     - BttB fight club player
   links:
@@ -115,7 +115,7 @@ deadfish:
   short_name: Fish
   titles:
     - aka Midfish
-  region: eu
+  region: bel
   links:
     discord: '159234003986153472'
     twitch: deadfisshh

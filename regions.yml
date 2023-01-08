@@ -5,6 +5,13 @@ asia_east:
   short_name: East Asia
   flag: jp
 
+bel:
+  privacy: false
+  parent: eu
+  long_name: Belgium
+  short_name: BEL
+  flag: be
+
 can_east:
   privacy: false
   parent: na_east
