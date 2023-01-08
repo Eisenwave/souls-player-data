@@ -5,6 +5,27 @@ asia_east:
   short_name: East Asia
   flag: jp
 
+ca_east:
+  privacy: false
+  parent: na_east
+  long_name: Canada East
+  short_name: CA East
+  flag: ca
+
+ca_west:
+  privacy: false
+  parent: na_west
+  long_name: Canada West
+  short_name: CA West
+  flag: ca
+
+ca_x:
+  privacy: false
+  parent: na_x
+  long_name: Canada
+  short_name: CA
+  flag: ca
+
 de:
   privacy: false
   parent: eu
@@ -28,10 +49,17 @@ eu:
 
 ie:
   privacy: false
-  parent: earth
+  parent: eu
   long_name: Ireland
   short_name: IE
   flag: ie
+
+it:
+  privacy: false
+  parent: eu
+  long_name: Italy
+  short_name: IT
+  flag: it
 
 na_east:
   privacy: true
@@ -76,6 +104,13 @@ ru:
   flag: ru
 
 sa:
+  privacy: false
+  parent: middle_east
+  long_name: Kingdom of Saudi Arabia
+  short_name: Saudi Arabia
+  flag: sa
+
+sa_x:
   privacy: true
   parent: earth
   long_name: South America

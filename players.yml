@@ -76,7 +76,7 @@ cas:
 castle:
   long_name: CastleInTheSky
   short_name: Castle
-  region: na_east
+  region: ca_east
   links:
     discord: '392076002551136266'
 
@@ -158,17 +158,12 @@ eisenwave:
     github: eisenwave
     challonge: eisenwave
 
-sovietspaceship:
-  long_name: Emilia
-  region: eu
-  facts:
-    - DEN staff member
-    - Ex pontiff gundyr swap enjoyer
+eli_dks:
+  long_name: eli_dks
+  short_name: eli
+  region: it
   links:
-    discord: '289142457218891777'
-    twitch: sovietspaceship
-    youtube: '@sovietspaceship'
-    github: sovietspaceship
+    discord: '698831430763151370'
 
 enda:
   long_name: EndaTheLion
@@ -225,6 +220,12 @@ gillo:
   region: ru
   links:
     discord: '437300809848324106'
+
+heauth:
+  long_name: Heauth
+  region: sa
+  links:
+    discord: '328407548145172480'
 
 honestfaraday:
   long_name: HonestFaraday
@@ -346,6 +347,13 @@ marisa:
     twitch: marisa_nyaa
     youtube: '@marisa_nyaa'
 
+markoveso:
+  long_name: markoveso
+  short_name: marko
+  region: us_east
+  links:
+    discord: '879820481992208496'
+
 memfender:
   long_name: memfender
   region: ru
@@ -446,6 +454,13 @@ skiffin:
   links:
     discord: '467428533593964555'
 
+slaveknightkos:
+  long_name: SlaveKnightKos
+  short_name: Kos
+  region: us_west
+  links:
+    discord: '806782351841165352'
+
 sleepmoover:
   long_name: Sleepmoover
   short_name: Sleep
@@ -476,6 +491,18 @@ sorriy:
     discord: '799796905257336862'
     twitch: sorriy
 
+sovietspaceship:
+  long_name: Emilia
+  region: eu
+  facts:
+    - DEN staff member
+    - Ex pontiff gundyr swap enjoyer
+  links:
+    discord: '289142457218891777'
+    twitch: sovietspaceship
+    youtube: '@sovietspaceship'
+    github: sovietspaceship
+
 space_ranger77:
   long_name: space ranger77
   short_name: space
@@ -485,6 +512,12 @@ space_ranger77:
   region: ua
   links:
     discord: '463710475818106883'
+
+starless:
+  long_name: Starless
+  region: pl
+  links:
+    discord: '794946161101242400'
 
 steelovsky:
   long_name: Steelovsky
@@ -508,10 +541,17 @@ sunpigeon:
 
 tear:
   long_name: Tear
-  region: sa
+  region: sa_x
   links:
     discord: '951135089046212648'
     twitch: ijusttear
+
+veggeorgie:
+  long_name: VegGeorgie
+  short_name: Georgie
+  region: us_east
+  links:
+    discord: '784889142315843595'
 
 willow:
   long_name: Willow Nyaa
