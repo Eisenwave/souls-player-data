@@ -1,9 +1,165 @@
+coa_2:
+  date: 2018-03-31
+  game: ds3
+  platform: pc
+  league: coa
+  importance: -2
+  long_name: 'Championship of Ash (Tournament 2)'
+  short_name: CoA 2
+  link: https://soulsborne.challonge.com/CoA_DS3_2
+  winners:
+    - seojun
+    - aang_rue
+    - [sigizmund, furyx]
+
+coa_3:
+  date: 2018-04-21
+  game: ds3
+  platform: pc
+  league: coa
+  importance: -3
+  long_name: 'Championship of Ash (Tournament 3)'
+  short_name: CoA 3
+  link: https://soulsborne.challonge.com/CoA_DS3_3
+  winners:
+    - grim_sleeper
+    - jojo12354
+    - [sigizmund, furyx]
+
+coa_1:
+  date: 2018-04-24
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 0
+  long_name: 'Championship of Ash (Tournament 1)'
+  short_name: CoA 1
+  link: https://soulsborne.challonge.com/CoA_DS3_1
+  winners:
+    - renamon
+    - furyx
+    - [rueprect, saucy]
+
+coa_4:
+  date: 2018-05-02
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 0
+  long_name: 'Championship of Ash (Tournament 4)'
+  short_name: CoA 4
+  link: https://soulsborne.challonge.com/CoA_DS3_4
+  winners:
+    - aang_rue
+    - furyx
+    - dex_mcswaggins
+    - gewoonrobbie
+
+coa_5:
+  date: 2018-05-26
+  game: ds3
+  platform: pc
+  league: coa
+  importance: -3
+  long_name: 'Championship of Ash (Tournament 5)'
+  short_name: CoA 5
+  link: https://soulsborne.challonge.com/CoA_DS3_5
+  winners:
+    - furyx
+    - rensaru
+    - [lord_giacomo, kyoka]
+
+coa_6:
+  date: 2018-06-16
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 3
+  long_name: 'Championship of Ash (Tournament 6)'
+  short_name: CoA 6
+  link: https://soulsborne.challonge.com/CoA_DS3_6
+  winners:
+    - jojo12354
+    - saucy
+    - [cyllian, hyperdimensionx]
+
+coa_7:
+  date: 2018-07-28
+  game: ds3
+  platform: pc
+  league: coa
+  importance: -3
+  long_name: 'Championship of Ash (Tournament 7)'
+  short_name: CoA 7
+  link: https://soulsborne.challonge.com/CoA_DS3_7
+  winners:
+    - cursed
+    - jojo12354
+    - [cyllian, defiant]
+
+gcoa_1:
+  date: 2018-07-29
+  game: ds3
+  platform: pc
+  league: coa
+  importance: -4
+  long_name: 'Grand Championship of Ash (Tournament 1)'
+  short_name: Grand CoA 1
+  link: https://soulsborne.challonge.com/GCoA_DS3_1
+  winners:
+    - grim_sleeper
+    - furyx
+
+meryx_draft_1:
+  date: 2020-10-17
+  game: ds3
+  platform: pc
+  league: meryx
+  long_name: '2v2 Draft Series #1'
+  short_name: 2v2 Draft 1
+  link: https://challonge.com/MeryxDraft1
+  winners:
+    - [aether, pepp]
+    - [witnake, meryx]
+    - [furyx, shieldpoke]
+    - [grim_sleeper, ANON]
+
+meryx_draft_2:
+  date: 2020-12-05
+  game: ds3
+  platform: pc
+  league: meryx
+  long_name: '2v2 Draft Series #2'
+  short_name: 2v2 Draft 2
+  link: https://challonge.com/MeryxDraft2
+  winners:
+    - [pepp, furyx]
+    - [value, witnake]
+    - [gate, vmbra]
+    - [aevee, reginald]
+
+ds3_in_2021:
+  date: 2021-01-09
+  game: ds3
+  platform: pc
+  league: shieldpoke
+  long_name: Dark Souls 3 Tournament in 2021 (Invitational)
+  short_name: 2021 Invitational
+  link: https://challonge.com/qq936j30
+  winners:
+    - furyx
+    - inzxc
+    - kheim
+    - grim_sleeper
+
 end_of_fire:
   date: 2022-02-05
-  platform: ds3
+  game: ds3
+  platform: pc
   league: erpvp
   long_name: The End of Fire, a Final Goodbye to DS3
   short_name: End of Fire
+  link: https://challonge.com/ERPVP
   winners:
     - kandemir
     - value
@@ -238,7 +394,8 @@ foc_2022_07_psn_na:
 
 caster_tourney_vol2:
   date: 2022-07-30
-  platform: ds3
+  game: ds3
+  platform: psn
   league: brena_sunpigeon
   importance: 0
   long_name: Caster Tourney Vol 2.
@@ -325,7 +482,8 @@ foc_2022_09_psn_na:
 
 homecoming_2v2:
   date: 2022-09-11
-  platform: ds3
+  game: ds3
+  platform: pc
   league: den
   long_name: DS3 Homecoming 2v2
   short_name: DS3 Homecoming 2v2
@@ -680,7 +838,8 @@ redditcord:
 
 stepping_stone:
   date: 2022-11-26
-  platform: ds3
+  game: ds3
+  platform: pc
   league: den_sleep
   long_name: Stepping Stone Showdown
   short_name: Stepping Stone
@@ -747,7 +906,8 @@ bttb_4:
 
 christmas_ttt:
   date: 2022-12-17
-  platform: ds3
+  game: ds3
+  platform: pc
   league: shieldpoke
   long_name: Christmas Trio Tag Team Tournament
   short_name: Christmas TTT
@@ -817,19 +977,15 @@ rtr_2023_1_2pm:
   date: 2023-01-08
   platform: seamless
   league: rtr
+  importance: -1 # 8 players
   long_name: 'Round Table Rumble 2023 #1 (2 PM)'
   short_name: 'RTR 2023 #1 (2 PM)'
   link: https://challonge.com/RTR_2PM_1
-  winners: []
-
-rtr_2023_1_8pm:
-  date: 2023-01-08
-  platform: seamless
-  league: rtr
-  long_name: 'Round Table Rumble 2023 #1 (8 PM)'
-  short_name: 'RTR 2023 #1 (8 PM)'
-  link: https://challonge.com/RTR_8PM_1
-  winners: []
+  winners:
+    - DarkSoapp
+    - BronDaGoat
+    - Floozutter
+    - daniiel
 
 bttb_2v2_1:
   date: 2023-01-14

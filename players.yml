@@ -360,6 +360,10 @@ memfender:
   links:
     discord: '505022987171266564'
 
+meryx:
+  long_name: MeryX
+  region: earth
+
 me_suck:
   long_name: Me Suck
   short_name: Suck

@@ -118,6 +118,16 @@ khknight:
   show_region: false
   show_platform: false
 
+meryx:
+  long_name: MeryX's tournaments
+  short_name: MeryX's Tourneys
+  organizer: meryx
+  host: meryx
+  prestige: 1
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
 redditcord:
   long_name: r/EldenRing Discord Tournaments
   short_name: r/EldenRing Tourneys
@@ -145,6 +155,16 @@ shieldpoke:
   host: shieldpoke
   prestige: 1
   show_organizer: true
+  show_region: false
+  show_platform: false
+
+coa:
+  long_name: Championship of Ash
+  short_name: CoA
+  organizer: soulsborne
+  host: soulsborne
+  prestige: -3
+  show_organizer: false
   show_region: false
   show_platform: false
 
