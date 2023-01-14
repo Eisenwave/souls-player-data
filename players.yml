@@ -92,6 +92,16 @@ cip:
     discord: '226803500468797440'
     twitch: cip_tv
 
+dantewtf:
+  long_name: DanteWTF
+  short_name: Dante
+  region: earth
+  links:
+    discord: '316030197831041034'
+    reddit: DanteWTF
+    twitch: dantewtf
+    twitter: DanteWTF
+
 darksoapp:
   long_name: DarkSoapp
   short_name: Soapp
@@ -420,6 +430,13 @@ redditcord:
   links:
     discord: https://discord.gg/r-eldenring
     reddit: https://reddit.com/r/EldenRing
+
+royrivers:
+  long_name: RoyRivers
+  short_name: Roy
+  region: eu
+  links:
+    discord: '316282275350446090'
 
 sadia_moon:
   long_name: Sadia Moon
