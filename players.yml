@@ -231,6 +231,13 @@ gillo:
   links:
     discord: '437300809848324106'
 
+gooday:
+  long_name: Hi_Hello_Gooday
+  short_name: Gooday
+  region: earth
+  links:
+    discord: '275187886163492864'
+
 heauth:
   long_name: Heauth
   region: ksa
@@ -248,6 +255,14 @@ honestfaraday:
     - ERPvP admin
   links:
     discord: '170714497655373824'
+
+jekk:
+  long_name: Jekk
+  region: na_west
+  facts:
+    - DEN staff member
+  links:
+    discord: '190978083602432001'
 
 johnleoks:
   long_name: johnleoks
@@ -338,6 +353,15 @@ lejet:
   links:
     discord: '166748692966014986'
 
+lukeyui:
+  long_name: LukeYui
+  short_name: Luke
+  region: earth
+  link:
+    discord: '758754397722771457'
+    kofi: lukeyui
+    nexusmods: '49594931'
+
 mariavevo:
   long_name: MariaVEVO
   short_name: Maria
@@ -391,6 +415,13 @@ mmlubergames:
     discord: '274198002904727552'
     psn: mmlubergames
 
+mudkip:
+  long_name: Mudkip pl
+  short_name: Mudkip
+  region: eu
+  links:
+    discord: '485070799515156483'
+
 ohaitoto:
   long_name: Ohaitoto
   short_name: Ohai
@@ -401,6 +432,13 @@ ohaitoto:
     discord: '741129482882121811'
     twitch: ohaitoto
     youtube: '@@ohaitoto8689'
+
+pav:
+  long_name: Pav
+  region: rus
+  links:
+    discord: '293004802198077440'
+    youtube: '@natahathe105'
 
 phantomzaro:
   long_name: PhantomZaro
