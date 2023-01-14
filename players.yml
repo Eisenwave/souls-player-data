@@ -219,7 +219,7 @@ frosty:
 
 futz1lla:
   long_name: Futz1lla
-  short_name: z1lla
+  short_name: Z1lla
   region: na_east
   links:
     discord: '291048905628712961'
@@ -268,7 +268,7 @@ johnleoks:
   long_name: johnleoks
   short_name: john
   titles:
-    - aka. Aewynn
+    - aka Aewynn
   region: na
   facts:
     - PS Great Spears main
@@ -277,8 +277,7 @@ johnleoks:
     discord: '677521709863141380'
 
 joshy:
-  long_name: josh from xbox
-  short_name: Joshy
+  long_name: Joshy
   region: na_east
   facts:
     - former HTS main
@@ -639,7 +638,9 @@ yuzu:
   long_name: Yuzu
   short_name: Yuzu
   titles:
-    aka. Snoozu
-  region: eu
+    - aka Snoozu
+  region: deu
   links:
     discord: '229003926249275393'
+    twitch: snoozu_
+    youtube: '@Snoozu_chi'
