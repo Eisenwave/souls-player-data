@@ -110,6 +110,7 @@ darksoapp:
   region: pol
   facts:
     - PS Nagakiba main
+    - won BttB4 tournament match against Steelovsky by parrying
   links:
     discord: '429262800586539019'
     twitch: darksoapp
@@ -356,7 +357,10 @@ lukeyui:
   long_name: LukeYui
   short_name: Luke
   region: earth
-  link:
+  facts:
+    - Seamless Coop Mod developer
+    - Blue Sentinel Mod developer
+  links:
     discord: '758754397722771457'
     kofi: lukeyui
     nexusmods: '49594931'
@@ -430,7 +434,7 @@ ohaitoto:
   links:
     discord: '741129482882121811'
     twitch: ohaitoto
-    youtube: '@@ohaitoto8689'
+    youtube: '@ohaitoto8689'
 
 pav:
   long_name: Pav
@@ -483,6 +487,7 @@ sadia_moon:
   region: usa
   facts:
     - DEN staff member
+    - regular invasion player
   links:
     discord: '731973018909147196'
     twitch: sadia_moon
@@ -500,7 +505,7 @@ shieldpoke:
   region: na_east
   facts:
     - hates shield poking
-    - DS3 veteran
+    - Dark Souls 3 veteran
   links:
     discord: '183371373127794688'
     twitch: shieldpoke
@@ -585,6 +590,8 @@ steelovsky:
   region: pol
   facts:
     - hosted during Sto's Taunter's Tongue event
+    - regular invasion player
+    - parried by DarkSoapp during BttB4, losing a match
   links:
     discord: '180673674410590208'
     twitch: steelovsky
