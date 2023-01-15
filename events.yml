@@ -170,6 +170,121 @@ gcoa_1:
     - grim_sleeper
     - furyx
 
+meryx_ds3_vanilla:
+  date: 2020-06-13
+  game: ds3
+  platform: pc
+  league: meryx
+  format: de
+  team_size: 2
+  long_name: '2v2 Dark Souls 3 Vanilla Tournament'
+  short_name: 2v2 DS3 Vanilla
+  link: https://challonge.com/2v2ds3vanilla
+  winners:
+    - [furyx, grim_sleeper]
+    - [jeenine, pepp]
+    - [komae, umbra]
+    - [qy, gate]
+
+bay_of_rodents:
+  date: 2020-07-26
+  game: ds3
+  platform: pc
+  league: meryx
+  format: de
+  team_size: 2
+  long_name: 'Bay of Rodents Tournament'
+  short_name: Bay of Rodents
+  link: https://challonge.com/bayofrodents
+  winners:
+    - [snipz, specter]
+    - [kheim, gerivian]
+    - [kenshiro, kronk]
+    - [aakrad, prov]
+
+rekindle_2v2:
+  date: 2020-08-16
+  game: ds3
+  platform: pc
+  league: meryx
+  format: de
+  team_size: 2
+  long_name: 'Rekindle 2v2 Tournament'
+  short_name: Rekindle 2v2
+  link: https://challonge.com/rekindle2v2
+  winners:
+    - [furyx, grim_sleeper]
+    - [jeenine, pepp]
+    - [witnake, sebbo]
+    - [koolaids, snipz]
+
+hook_up:
+  date: 2020-08-30
+  game: ds3
+  platform: pc
+  league: meryx
+  format: de
+  team_size: 2
+  long_name: 'Hook Up Tourney'
+  short_name: Hook Up
+  link: https://challonge.com/HookUp2v2
+  winners:
+    - [aether, ehja]
+    - [nuts, six]
+    - [aakrad, gim_sleeper]
+    - [zedisgod, eggerino]
+
+meryx_major_qualifier_1:
+  date: 2020-09-19
+  game: ds3
+  platform: pc
+  region: eu
+  league: meryx
+  format: de
+  team_size: 2
+  long_name: 'Major Qualifier #1'
+  short_name: 'Major Quali #1'
+  link: https://challonge.com/meryxmajor_qualifierEU
+  winners:
+    - [pepp, kheim]
+    - [aether, ehja]
+    - [meryx, karma]
+    - [sebbo, witnake]
+
+meryx_major_qualifier_2:
+  date: 2020-09-20
+  game: ds3
+  platform: pc
+  region: na
+  league: meryx
+  format: de
+  team_size: 2
+  long_name: 'Major Qualifier #2'
+  short_name: 'Major Quali #2'
+  link: https://challonge.com/meryxmajor_qualifierNA
+  winners:
+    - [furyx, grim_sleeper]
+    - [shieldpoke, bedergriffin]
+    - [dopa, gate]
+    - [tommy, blue]
+
+meryx_major:
+  date: 2020-09-27
+  game: ds3
+  platform: pc
+  league: meryx
+  importance: 1
+  format: de
+  team_size: 2
+  long_name: 'Major'
+  short_name: 'Major'
+  link: https://challonge.com/meryxmajor_finals
+  winners:
+    - [furyx, grim_sleeper]
+    - [pepp, kheim]
+    - [aether, ehja]
+    - [nicolino, witnake]
+
 meryx_draft_1:
   date: 2020-10-17
   game: ds3
@@ -892,6 +1007,20 @@ big_bonk:
     - eisenwave
     - steelovsky
 
+eco_song_s2_finals:
+  date: 2022-11-07
+  platform: xbox
+  league: eco_song
+  format: se
+  long_name: Season 2 Finale
+  short_name: S2 Finale
+  link: https://challonge.com/j3ia72o5
+  winners:
+    - poss
+    - urah
+    - vico
+    - giddy
+
 foc_2022_11_psn_eu:
   date: 2022-11-12
   platform: psn
@@ -1138,7 +1267,11 @@ colossal:
   long_name: The Colossal Cup
   short_name: Colossal
   link: https://challonge.com/COLOSSAL
-  winners: []
+  winners:
+    - dreamer
+    - heauth
+    - snapcaster
+    - clem
 
 shark:
   date: 2023-01-28

@@ -28,9 +28,9 @@ beebeard:
 
 beven:
   long_name: beven
-  region: na_east
+  region: na_west
   titles:
-    - Grace-Given Champion Foc 2022
+    - Grace-Given Champion FoC 2022 (PC)
   facts:
     - excellent pure sorcery player
     - hosted during Sto's Taunter's Tongue Event
@@ -50,6 +50,8 @@ brena:
 brondagoat:
   long_name: BronDaGoat
   short_name: Bron
+  titles:
+    - The Terror of MAG
   region: prt
   facts:
     - Coded Swords fan
@@ -218,6 +220,10 @@ frosty:
     discord: '231961956003610642'
     twitch: frostycomes
 
+furyx:
+  long_name: FuryX
+  region: earth
+
 futz1lla:
   long_name: Futz1lla
   short_name: Z1lla
@@ -238,6 +244,13 @@ gooday:
   region: earth
   links:
     discord: '275187886163492864'
+
+grim_sleeper:
+  long_name: The Grim Sleeper
+  short_name: Grim
+  region: na_west
+  links:
+    discord: '214565778890948618'
 
 heauth:
   long_name: Heauth
@@ -279,6 +292,7 @@ johnleoks:
 
 joshy:
   long_name: Joshy
+  titles: From XBOX
   region: na_east
   facts:
     - former HTS main
@@ -360,6 +374,7 @@ lukeyui:
   facts:
     - Seamless Coop Mod developer
     - Blue Sentinel Mod developer
+    - DS3 modding veteran
   links:
     discord: '758754397722771457'
     kofi: lukeyui
@@ -412,7 +427,7 @@ mmlubergames:
   long_name: mmlubergames
   short_name: luber
   titles:
-    - PSN Champion
+    - Grace-Given Champion FoC 2022 (PSN)
   region: na_east
   links:
     discord: '274198002904727552'
@@ -439,6 +454,9 @@ ohaitoto:
 pav:
   long_name: Pav
   region: rus
+  facts:
+    - 2v2 Colosseum Mechanics developer
+    - DS3 modding veteran
   links:
     discord: '293004802198077440'
     youtube: '@natahathe105'

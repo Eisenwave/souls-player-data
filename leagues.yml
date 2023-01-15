@@ -88,6 +88,16 @@ den_sleep:
   show_region: false
   show_platform: false
 
+eco_song:
+  long_name: ECO Song's Tournaments
+  short_name: ECO Song's Tourneys
+  organizer: eco_song
+  host: eco_song
+  prestige: 0
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
 erpvp:
   long_name: Elden Ring PvP Tournaments
   short_name: ERPvP Tourneys
