@@ -48,16 +48,6 @@ bttb:
   show_region: true
   show_platform: false
 
-dashing_saint:
-  long_name: The Dashing Saint's Tournaments
-  short_name: Saint's Tourneys
-  organizer: dashing_saint
-  host: dashing_saint
-  prestige: 0
-  show_organizer: true
-  show_region: false
-  show_platform: false
-
 den:
   long_name: DEN Tournaments
   short_name: DEN Tourneys
@@ -65,6 +55,16 @@ den:
   host: den
   prestige: 1
   show_organizer: false
+  show_region: false
+  show_platform: false
+
+den_dashing_saint:
+  long_name: The Dashing Saint's DEN Tournaments
+  short_name: Saint's DEN Tourneys
+  organizer: dashing_saint
+  host: den
+  prestige: 1
+  show_organizer: true
   show_region: false
   show_platform: false
 
@@ -145,6 +145,15 @@ redditcord:
   host: den
   prestige: 0
   show_organizer: false
+  show_region: false
+  show_platform: false
+
+roundtable:
+  long_name: Roundtable Tournaments
+  short_name: Roundtable
+  organizer: ml
+  prestige: 0
+  show_organizer: true
   show_region: false
   show_platform: false
 
