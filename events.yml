@@ -1323,3 +1323,13 @@ anniversary_tourney:
   short_name: Anniversary 2v2
   link: null
   winners: []
+
+april_fools_2023:
+  date: 2023-04-01
+  platform: seamless
+  league: den
+  format: se
+  long_name: DEN April Fools Tournament 2023
+  short_name: DEN April Fools 23
+  link: null
+  winners: []
