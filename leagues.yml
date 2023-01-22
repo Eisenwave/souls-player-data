@@ -48,6 +48,16 @@ bttb:
   show_region: true
   show_platform: false
 
+compete:
+  long_name: compete.gg Tournaments
+  short_name: Compete Tourneys
+  organizer: compete
+  host: compete
+  prestige: 0
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
 den:
   long_name: DEN Tournaments
   short_name: DEN Tourneys

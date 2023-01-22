@@ -94,6 +94,13 @@ cip:
     discord: '226803500468797440'
     twitch: cip_tv
 
+compete:
+  long_name: compete.gg
+  short_name: Compete
+  region: earth
+  facts:
+    - tournament host
+
 dantewtf:
   long_name: DanteWTF
   short_name: Dante

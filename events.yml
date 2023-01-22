@@ -545,7 +545,7 @@ foc_2022_07_pc_na:
 brena_1:
   date: 2022-07-17
   platform: psn
-  region: oceania/asia_east
+  region: [oceania, asia_east]
   league: brena
   format: de
   long_name: Elden Ring PvP Tournament
@@ -1112,7 +1112,7 @@ bttb_3:
 brena_2:
   date: 2022-11-27
   platform: psn
-  region: oceania/asia_east
+  region: [oceania, asia_east]
   league: brena
   format: de
   long_name: Elden Ring PvP Tournament
@@ -1127,7 +1127,7 @@ brena_2:
 starter_classes:
   date: 2022-12-10
   platform: psn
-  region: na/eu
+  region: [na, eu]
   league: brena
   format: de
   long_name: Starter Classes
@@ -1217,7 +1217,7 @@ foc_2022_12_psn:
 everything_allowed:
   date: 2023-01-07
   platform: psn
-  region: na/eu
+  region: [na, eu]
   league: brena
   format: de
   long_name: Everything Allowed
@@ -1244,14 +1244,14 @@ rtr_2023_1_2pm:
     - floozutter
     - daniiel
 
-bttb_2v2_1:
+bttb_5:
   date: 2023-01-14
   platform: seamless
   league: bttb
   format: se
   team_size: 2
   long_name: Back to the Basics 2v2 Tournament
-  short_name: Basics 2v2
+  short_name: BttB 2v2
   link: https://challonge.com/de/bttb_2v2_1
   winners:
     - [steelovsky, darksoapp]
@@ -1273,15 +1273,14 @@ colossal:
     - snapcaster
     - clem
 
-january_invitational:
-  date: 2023-01-28
+compete_elden1:
+  date: 2023-01-26
   platform: psn
-  region: na/eu
-  league: brena
-  format: de
-  long_name: January Invitational
-  short_name: Jan Invitational
-  link: https://challonge.com/EldenRing_PvP_January_Invitational_Ps5
+  league: compete
+  format: se
+  long_name: Elden Ring Tournament
+  short_name: ER Tournament
+  link: https://compete.gg/tournament/ELDEN1
   winners: []
 
 roundtable_colosseum:
@@ -1301,6 +1300,17 @@ bttb_6:
   format: de
   long_name: Back to the Basics 6
   short_name: BttB 6
+  link: null
+  winners: []
+
+brena_2023_02:
+  date: 2023-02-18
+  platform: psn
+  region: [na, eu]
+  league: brena
+  format: de
+  long_name: Brena Event Feb 2023
+  short_name: Brena Event Feb 2023
   link: null
   winners: []
 
