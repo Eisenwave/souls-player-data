@@ -259,6 +259,15 @@ grim_sleeper:
   links:
     discord: '214565778890948618'
 
+hadidub:
+  long_name: hadidub
+  short_name: hadi
+  region: na
+  links:
+    discord: '276518479144681473'
+    twitch: hadidub
+    github: hadidub
+
 heauth:
   long_name: Heauth
   region: ksa
@@ -517,6 +526,15 @@ sadia_moon:
     discord: '731973018909147196'
     twitch: sadia_moon
 
+sam:
+  long_name: sam
+  short_name: sam
+  region: na
+  links:
+    discord: '705661314479030353'
+    twitch: sammywhell
+    twitter: '@c4tt77'
+
 samurai_donel:
   long_name: Samurai Donel
   short_name: Donel
@@ -665,6 +683,13 @@ witching_moon:
   long_name: The Witching Moon
   short_name: Witching Moon
   region: earth
+
+witnake:
+  long_name: Witnake
+  short_name: Witnake
+  region: rus
+  links:
+    discord: '307396799226707968'
 
 yuzu:
   long_name: Yuzu
