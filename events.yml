@@ -416,7 +416,7 @@ trysweaty:
     - mmlubergames
     - theonelad
     - harceru
-    - skeltah
+    - jeenine
 
 twt_2:
   date: 2022-05-30
@@ -1277,21 +1277,31 @@ compete_elden1:
   date: 2023-01-26
   platform: psn
   league: compete
+  importance: -1 # 9 player tournament
   format: se
   long_name: Elden Ring Tournament
   short_name: ER Tournament
   link: https://compete.gg/tournament/ELDEN1
-  winners: []
+  winners:
+    - qy
+    - dreamer
+    - [goethe, frosty]
 
-roundtable_colosseum:
-  date: 2023-01-28
-  platform: pc
-  league: roundtable
-  team_size: 3
-  long_name: Colosseum Tournament
-  short_name: Colosseum 3v3
-  link: https://discord.gg/roundtable?event=1060992142627057685
-  winners: []
+brena_2023_01:
+  date: 2023-02-28
+  platform: psn
+  region: [na, eu]
+  league: brena
+  importance: -6 # 4 player invitational tournament
+  format: de
+  long_name: January Invitational
+  short_name: Jan Invitational
+  link: https://challonge.com/EldenRing_PvP_January_Invitational_Ps5
+  winners:
+    - witnake
+    - heauth
+    - dreamer
+    - eli_dks
 
 bttb_6:
   date: 2023-02-04
@@ -1301,6 +1311,16 @@ bttb_6:
   long_name: Back to the Basics 6
   short_name: BttB 6
   link: null
+  winners: []
+
+roundtable_colosseum:
+  date: 2023-02-05
+  platform: pc
+  league: roundtable
+  team_size: 3
+  long_name: Colosseum Tournament
+  short_name: Colosseum 3v3
+  link: https://discord.gg/roundtable?event=1060992142627057685
   winners: []
 
 brena_2023_02:
