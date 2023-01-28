@@ -43,7 +43,7 @@ bttb:
   short_name: BttB
   organizer: eisenwave
   host: den
-  prestige: 2
+  prestige: 2 # recurring ruleset, high-skilled players, well-organized
   show_organizer: true
   show_region: true
   show_platform: false
@@ -53,7 +53,7 @@ compete:
   short_name: Compete Tourneys
   organizer: compete
   host: compete
-  prestige: 0
+  prestige: -1 # little regulation, out of touch with community
   show_organizer: true
   show_region: false
   show_platform: false
@@ -63,7 +63,7 @@ den:
   short_name: DEN Tourneys
   organizer: den
   host: den
-  prestige: 1
+  prestige: 1 # typically high skilled players, well-organized
   show_organizer: false
   show_region: false
   show_platform: false
@@ -73,7 +73,7 @@ den_dashing_saint:
   short_name: Saint's DEN Tourneys
   organizer: dashing_saint
   host: den
-  prestige: 1
+  prestige: 1 # typically high skilled players, well-organized
   show_organizer: true
   show_region: false
   show_platform: false
@@ -83,7 +83,7 @@ den_lbu:
   short_name: LBU's DEN Tourneys
   organizer: lbu
   host: den
-  prestige: 1
+  prestige: 1 # typically high skilled players, well-organized
   show_organizer: false
   show_region: false
   show_platform: false
@@ -93,7 +93,7 @@ den_sleep:
   short_name: Sleep's DEN Tourneys
   organizer: sleepmoover
   host: den
-  prestige: 1
+  prestige: 1 # typically high skilled players, well-organized
   show_organizer: true
   show_region: false
   show_platform: false
@@ -113,7 +113,7 @@ erpvp:
   short_name: ERPvP Tourneys
   organizer: erpvp
   host: den
-  prestige: 2
+  prestige: 2 # recurring ruleset, high skilled players, well-organized
   show_organizer: false
   show_region: false
   show_platform: false
@@ -123,6 +123,9 @@ foc:
   short_name: FoC
   organizer: erpvp
   host: den
+  # recurring ruleset with lots of review and design by community/committee
+  # most skilled players
+  # well-organized with the greatest price pools
   prestige: 3
   show_organizer: false
   show_region: true
@@ -143,7 +146,7 @@ meryx:
   short_name: MeryX's Tourneys
   organizer: meryx
   host: meryx
-  prestige: 1
+  prestige: 1 # typically high skilled players
   show_organizer: true
   show_region: false
   show_platform: false
@@ -153,7 +156,7 @@ redditcord:
   short_name: r/EldenRing Tourneys
   organizer: redditcord
   host: den
-  prestige: 0
+  prestige: -1 # lower average skill, no price pool
   show_organizer: false
   show_region: false
   show_platform: false
@@ -172,7 +175,7 @@ rtr:
   short_name: RTR
   organizer: artorra
   host: artorra
-  prestige: -2
+  prestige: -2 # weekly tournaments with low player turnout, no price pool
   show_organizer: false
   show_region: false
   show_platform: false
@@ -182,7 +185,7 @@ shieldpoke:
   short_name: Shieldpoke's Tourneys
   organizer: shieldpoke
   host: shieldpoke
-  prestige: 1
+  prestige: 1 # typically higher skilled players
   show_organizer: true
   show_region: false
   show_platform: false
@@ -192,7 +195,7 @@ coa:
   short_name: CoA
   organizer: soulsborne
   host: soulsborne
-  prestige: -3
+  prestige: -3 # very small tournaments, no price pools
   show_organizer: false
   show_region: false
   show_platform: false
@@ -202,7 +205,7 @@ twt:
   short_name: TWT
   organizer: ohaitoto
   host: ohaitoto
-  prestige: 1
+  prestige: 1 # typically higher skilled players, recurring ruleset
   show_organizer: false
   show_region: false
   show_platform: false
