@@ -192,6 +192,7 @@ eisenwave:
   facts:
     - tournament host
     - 'reached #1 player on ERPvP leaderboard'
+    - completed 100 win-streak colosseum challenge
     - 'playstyle: aggressive'
     - frame data addict
     - most 2 min disconnects in one tournament
@@ -331,7 +332,7 @@ jeenine:
   region: earth
   facts:
     - DS3 veteran
-    - completed colosseum 100 winstreak
+    - completed 100 win-streak colosseum challenge
     - popular Twitch streamer
   links:
     discord: '276754976427212801'
