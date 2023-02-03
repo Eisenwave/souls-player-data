@@ -696,10 +696,10 @@ space_ranger77:
   short_name: space
   facts:
     - best theoretical duelist
-    - BttB rules tester
     - 'reached #1 player on ERPvP leaderboard'
     - 'playstyle: aggressive/reactive'
     - 'uses mouse & keyboard'
+    - BttB rules tester
   region: ukr
   links:
     discord: '463710475818106883'
