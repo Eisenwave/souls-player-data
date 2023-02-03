@@ -1,8 +1,11 @@
+# playstyle information is largely based off of:
+# https://cdn.discordapp.com/attachments/950846716586917948/1069164327111761920/Screenshot_143.png
+
 afk:
   long_name: Afk
   region: ita
   facts:
-    - BttB fight club player
+    - BttB fight clubs regular
   links:
     discord: '1020778175011233844'
 
@@ -12,6 +15,7 @@ artorra:
   facts:
     - tournament host (RTR)
     - Ripple Crescent Halberd main
+    - 'playstyle: aggressive/read-heavy'
   links:
     discord: '714347886434844702'
     twitch: artorra
@@ -22,6 +26,7 @@ beebeard:
   region: na_east
   facts:
     - DEN staff member
+    - 'playstyle: read-heavy'
   links:
     discord: '135597609476685824'
     twitch: bee_beard
@@ -34,6 +39,7 @@ beven:
   facts:
     - excellent pure sorcery player
     - hosted during Sto's Taunter's Tongue Event
+    - 'playstyle: aggressive/reactive'
   links:
     discord: '168492291265265664'
 
@@ -54,8 +60,10 @@ brondagoat:
     - The Terror of MAG
   region: prt
   facts:
-    - Coded Swords fan
-    - Serpent-Hunter enjoyer
+    - PS Straight Swords main
+    - mostly plays Coded Swords, sometimes Carians
+    - Serpent-Hunter fan
+    - 'playstyle: reactive'
   links:
     discord: '387040182295199744'
     twitch: br02ndagoat
@@ -72,6 +80,8 @@ brookeadair:
 cas:
   long_name: Cas
   region: na_east
+  facts:
+    - 'playstyle: passive/read-heavy'
   links:
     discord: '271329775514025985'
 
@@ -90,6 +100,7 @@ cip:
   facts:
     - DEN staff member
     - Frosty's little brother
+    - 'playstyle: read-heavy'
   links:
     discord: '226803500468797440'
     twitch: cip_tv
@@ -118,8 +129,10 @@ darksoapp:
     - Fisha God
   region: pol
   facts:
-    - PS Nagakiba main
+    - PS Katana main
     - won BttB4 tournament match against Steelovsky by parrying
+    - BttB fight clubs regular
+    - 'playstyle: passive/read-heavy'
   links:
     discord: '429262800586539019'
     twitch: darksoapp
@@ -136,6 +149,9 @@ deadfish:
   titles:
     - aka Midfish
   region: bel
+  facts:
+    - Serpent-Hunter enjoyer
+    - 'playstyle: balanced'
   links:
     discord: '159234003986153472'
     twitch: deadfisshh
@@ -150,6 +166,16 @@ den:
     twitch: duelist_event_network
     youtube: '@duelisteventnetwork7529'
 
+dimka:
+  long_name: Dimka
+  region: blr
+  facts:
+    - DS3 veteran
+    - Curved Sword main (Shamshir on Elden Ring)
+  links:
+    discord: '913276878318600212'
+    twitch: d1m2k4
+
 dreamer:
   long_name: The Dreamer
   short_name: Dreamer
@@ -162,15 +188,16 @@ dreamer:
 eisenwave:
   long_name: Eisenwave
   short_name: Eisen
-  titles:
-    - aka Eisenberg
   region: deu
   facts:
-    - frame data addict
     - tournament host
-    - most 2 min DCs in one tournament
+    - 'reached #1 player on ERPvP leaderboard'
+    - 'playstyle: aggressive'
+    - frame data addict
+    - most 2 min disconnects in one tournament
     - shadow-hosted during Sto's Taunter's Tongue event
     - DEN staff member
+    - uses XBOX controller with paddles
   links:
     discord: '162964325823283200'
     twitch: eisenwave
@@ -192,6 +219,7 @@ enda:
   facts:
     - DEN founder
     - DS3 veteran
+    - Halberd main
   links:
     discord: '286539873333149697'
     twitch: endathelion
@@ -211,6 +239,7 @@ floozutter:
     - Flooz never lose
     - Halberd main
     - Carian Slicer enjoyer
+    - 'playstyle: passive'
   links:
     discord: '602059892160856074'
     github: Floozutter
@@ -219,9 +248,11 @@ frosty:
   long_name: Frosty
   region: na_east
   facts:
-    - former HTS main
-    - DEN staff member
+    - former Heavy Thrusting Sword main
+    - mostly seen on Arcane builds
     - Cip's big brother
+    - 'playstyle: passive/read-heavy'
+    - DEN staff member
     - tournament addict
   links:
     discord: '231961956003610642'
@@ -230,6 +261,8 @@ frosty:
 furyx:
   long_name: FuryX
   region: earth
+  facts:
+    - DS3 veteran
 
 futz1lla:
   long_name: Futz1lla
@@ -263,6 +296,10 @@ hadidub:
   long_name: hadidub
   short_name: hadi
   region: na
+  facts:
+    - Halberd main
+    - played PS Halberd in BttB 2 qualifiers
+    - 'playstyle: balanced'
   links:
     discord: '276518479144681473'
     twitch: hadidub
@@ -271,6 +308,8 @@ hadidub:
 heauth:
   long_name: Heauth
   region: ksa
+  facts:
+    - Serpent-Hunter main
   links:
     discord: '328407548145172480'
 
@@ -281,16 +320,30 @@ honestfaraday:
   facts:
     - PS Great Spears main
     - dual Vykes activist
-    - DEN staff member
     - ERPvP admin
+    - 'playstyle: aggressive/read-heavy'
+    - DEN staff member
   links:
     discord: '170714497655373824'
+
+jeenine:
+  long_name: Jeenine
+  region: earth
+  facts:
+    - DS3 veteran
+    - completed colosseum 100 winstreak
+    - popular Twitch streamer
+  links:
+    discord: '276754976427212801'
+    twitch: jeenine
+    youtube: '@Jeenine'
 
 jekk:
   long_name: Jekk
   region: na_west
   facts:
     - DEN staff member
+    - Heavy Thrusting Sword enthusiast
   links:
     discord: '190978083602432001'
 
@@ -324,6 +377,7 @@ karandra:
     - Knight's Greatsword main (used to main 1h Claymore)
     - At some point had 4000+ people blocked on Steam
     - Seriously uses int/faith build and low poise
+    - 'playstyle: passive/read-heavy'
   links:
     discord: '294188454584123393'
     twitch: karandra5527
@@ -359,6 +413,7 @@ koop:
   region: na_west
   facts:
     - hosted during Sto's Taunter's Tongue event
+    - famous Twitch streamer
   links:
     discord: '152412753422712832'
     twitch: thekoop
@@ -380,6 +435,8 @@ lejet:
   long_name: LeJet
   short_name: Jet
   region: na_west
+  facts:
+    - 'playstyle: aggressive'
   links:
     discord: '166748692966014986'
 
@@ -402,6 +459,7 @@ mariavevo:
   region: eu
   facts:
     - Halberd main
+    - 'playstyle: balanced'
   links:
     discord: '1041411613321871532'
     twitch: mariavevo
@@ -445,6 +503,8 @@ mmlubergames:
   titles:
     - Grace-Given Champion FoC 2022 (PSN)
   region: na_east
+  facts:
+    - 'playstyle: aggressive/reactive'
   links:
     discord: '274198002904727552'
     psn: mmlubergames
@@ -498,6 +558,19 @@ pikselonix:
   links:
     discord: '251780969068101633'
 
+rask1lls:
+  long_name: RASK1LLS
+  short_name: RA
+  region: na_west
+  facts:
+    - 'reached #1 on ERPvP PSN leaderboard'
+    - 'playstyle: aggressive/read-heavy'
+  links:
+    discord: '643594603458723850'
+    psn: RASK1LLS
+    twitch: rask1lls
+    youtube: '@RASK1LLS'
+
 redditcord:
   long_name: r/EldenRing Discord
   short_name: r/EldenRing
@@ -530,6 +603,8 @@ sam:
   long_name: sam
   short_name: sam
   region: na
+  facts:
+    - BttB fight clubs regular
   links:
     discord: '705661314479030353'
     twitch: sammywhell
@@ -549,6 +624,7 @@ shieldpoke:
   facts:
     - hates shield poking
     - Dark Souls 3 veteran
+    - 'playstyle: passive/reactive'
   links:
     discord: '183371373127794688'
     twitch: shieldpoke
@@ -557,6 +633,8 @@ shieldpoke:
 skiffin:
   long_name: Skiffin
   region: na_west
+  facts:
+    - 'playstyle: aggressive/read-heavy'
   links:
     discord: '467428533593964555'
 
@@ -593,6 +671,10 @@ sorriy:
   long_name: Sorriy
   short_name: Sry
   region: na_east
+  facts:
+    - plays Serpent-Hunter, Halberd
+    - 'reached #1 player on ERPvP leaderboard'
+    - 'playstyle: aggressive/reactive'
   links:
     discord: '799796905257336862'
     twitch: sorriy
@@ -615,6 +697,9 @@ space_ranger77:
   facts:
     - best theoretical duelist
     - BttB rules tester
+    - 'reached #1 player on ERPvP leaderboard'
+    - 'playstyle: aggressive/reactive'
+    - 'uses mouse & keyboard'
   region: ukr
   links:
     discord: '463710475818106883'
@@ -633,8 +718,10 @@ steelovsky:
   region: pol
   facts:
     - hosted during Sto's Taunter's Tongue event
-    - regular invasion player
-    - parried by DarkSoapp during BttB4, losing a match
+    - extremely experienced invasions player
+    - 'playstyle: balanced'
+    - popular Twitch streamer
+    - uses Playstation controller with paddles
   links:
     discord: '180673674410590208'
     twitch: steelovsky
@@ -675,6 +762,8 @@ winio:
   region: pol
   facts:
     - lost to PS whips
+    - BttB fight clubs regular
+    - 'playstyle: balanced'
   links:
     discord: '479748654794539040'
     twitch: winioo_dziador
@@ -688,6 +777,8 @@ witnake:
   long_name: Witnake
   short_name: Witnake
   region: rus
+  facts:
+    - DS3 veteran
   links:
     discord: '307396799226707968'
 
@@ -697,6 +788,8 @@ yuzu:
   titles:
     - aka Snoozu
   region: deu
+  facts:
+    - 'playstyle: reactive'
   links:
     discord: '229003926249275393'
     twitch: snoozu_

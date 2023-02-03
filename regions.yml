@@ -12,6 +12,13 @@ bel:
   short_name: BEL
   flag: be
 
+blr:
+  privacy: false
+  parent: eu
+  long_name: Belarus
+  short_name: BLR
+  flag: by
+
 can_east:
   privacy: false
   parent: na_east
