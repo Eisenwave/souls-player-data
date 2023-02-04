@@ -6,6 +6,7 @@ afk:
   region: ita
   facts:
     - BttB fight clubs regular
+    - 'playstyle: aggressive/read-heavy'
   links:
     discord: '1020778175011233844'
 
@@ -61,9 +62,10 @@ brondagoat:
   region: prt
   facts:
     - PS Straight Swords main
-    - mostly plays Coded Swords, sometimes Carians
-    - Serpent-Hunter fan
+    - 'reached #1 player on ERPvP leaderboard'
     - 'playstyle: reactive'
+    - sometimes seen using Serpent-Hunter
+    - mostly plays Coded Swords, sometimes Carians
   links:
     discord: '387040182295199744'
     twitch: br02ndagoat
@@ -171,7 +173,8 @@ dimka:
   region: blr
   facts:
     - DS3 veteran
-    - Curved Sword main (Shamshir on Elden Ring)
+    - Curved Sword main (Shamshir in Elden Ring)
+    - 'playstyle: aggressive/reactive'
   links:
     discord: '913276878318600212'
     twitch: d1m2k4
@@ -240,7 +243,7 @@ floozutter:
     - Flooz never lose
     - Halberd main
     - Carian Slicer enjoyer
-    - 'playstyle: passive'
+    - 'playstyle: balanced'
   links:
     discord: '602059892160856074'
     github: Floozutter
@@ -296,7 +299,7 @@ grim_sleeper:
 hadidub:
   long_name: hadidub
   short_name: hadi
-  region: na
+  region: na_west
   facts:
     - Halberd main
     - played PS Halberd in BttB 2 qualifiers
@@ -572,6 +575,16 @@ rask1lls:
     twitch: rask1lls
     youtube: '@RASK1LLS'
 
+recja:
+  long_name: Recjawjind
+  short_name: Recja
+  region: eu
+  facts:
+    - DEN staff member
+  links:
+    discord: '201072242237374464'
+    twitch: recjawjind_the_sunbro
+
 redditcord:
   long_name: r/EldenRing Discord
   short_name: r/EldenRing
@@ -606,6 +619,7 @@ sam:
   region: na
   facts:
     - BttB fight clubs regular
+    - 'playstyle: read-heavy'
   links:
     discord: '705661314479030353'
     twitch: sammywhell
@@ -780,8 +794,19 @@ witnake:
   region: rus
   facts:
     - DS3 veteran
+    - 'playstyle: aggressive/read-heavy'
   links:
     discord: '307396799226707968'
+
+xonic0:
+  long_name: Xonic0
+  short_name: Xonic
+  region: na_west
+  facts:
+    - DEN staff member
+  links:
+    discord: '203077576904671233'
+    twitch: xonic_xero
 
 yuzu:
   long_name: Yuzu
