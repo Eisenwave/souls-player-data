@@ -235,6 +235,13 @@ erpvp:
   links:
     discord: https://discord.gg/erpvp
 
+exokai:
+  long_name: Exokai
+  short_nam: Exo
+  region: na_east
+  links:
+    discord: '1044397543620087878'
+
 floozutter:
   long_name: Floozutter
   short_name: Flooz

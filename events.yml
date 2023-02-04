@@ -1311,7 +1311,11 @@ bttb_6:
   long_name: Back to the Basics 6
   short_name: BttB 6
   link: https://challonge.com/bttb_6
-  winners: []
+  winners:
+    - frosty
+    - deadfish
+    - darksoapp
+    - brondagoat
 
 roundtable_colosseum:
   date: 2023-02-05
