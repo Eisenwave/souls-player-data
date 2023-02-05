@@ -1321,11 +1321,16 @@ roundtable_colosseum:
   date: 2023-02-05
   platform: pc
   league: roundtable
+  importance: -4 # 4 teams, but open tournament and high-skilled players
   team_size: 3
   long_name: Colosseum Tournament
   short_name: Colosseum 3v3
   link: https://discord.gg/roundtable?event=1060992142627057685
-  winners: []
+  winners:
+    - [brondagoat, daniiel, darksoapp]
+    - [frosty, cip, jekk]
+    - [winio, karandra, zawada]
+    - [chelo, bugs, bunta]
 
 brena_2023_02:
   date: 2023-02-18
