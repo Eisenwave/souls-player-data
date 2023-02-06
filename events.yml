@@ -1581,6 +1581,19 @@ colossal:
     - snapcaster
     - clem
 
+poggen:
+  date: 2023-01-15
+  platform: pc # ?
+  league: loci_af
+  format: de
+  long_name: POGGEN
+  link: https://challonge.com/PoggenER
+  winners:
+    - sabaku
+    - gravier
+    - gian
+    - cydonia
+
 compete_elden1:
   date: 2023-01-26
   platform: psn

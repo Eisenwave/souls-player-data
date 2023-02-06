@@ -171,6 +171,16 @@ khknight:
   show_region: false
   show_platform: false
 
+loci_af:
+  long_name: Loci AF's Tournaments
+  short_name: Loci AF's Tourneys
+  organizer: loci_af
+  host: loci_af
+  prestige: -2
+  show_organizer: false
+  show_region: false
+  show_platform: false
+
 meryx:
   long_name: MeryX's Tournaments
   short_name: MeryX's Tourneys
