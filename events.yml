@@ -169,6 +169,147 @@ gcoa_1:
   winners:
     - grim_sleeper
     - furyx
+    - hardcore_jojo
+    - rueprect
+
+coa_8:
+  date: 2018-08-11
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 0
+  format: groups_se
+  long_name: 'Championship of Ash (Tournament 8)'
+  short_name: CoA 8
+  link: https://soulsborne.challonge.com/CoA_DS3_8
+  winners:
+    - anniesouls
+    - yelbanhim
+    - [abyss, asato_of_vinheim]
+
+coa_9:
+  date: 2018-10-06
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 0
+  format: se
+  long_name: 'Championship of Ash (Tournament 9)'
+  short_name: CoA 9
+  link: https://soulsborne.challonge.com/CoA_DS3_9
+  winners:
+    - holland_3
+    - furyx
+    - [grim_sleeper, asato_of_vinheim]
+
+soulsborne_dsr_pc:
+  date: 2018-10-13
+  game: ds1
+  platform: pc
+  league: coa
+  importance: 0
+  format: se
+  long_name: Soulsborne Dark Souls Remastered PC Tournament
+  short_name: Soulsborne DSR PC
+  link: https://soulsborne.challonge.com/DSR_01
+  winners:
+    - itistheend
+    - yelbanhim
+    - [lizardnix, autism_lobster_god]
+
+soulsborne_cw_ds3_01:
+  date: 2018-11-10
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 0
+  format: de
+  long_name: 'Covenant Warfare (Tournament 1)'
+  short_name: Covenant War 1
+  link: https://soulsborne.challonge.com/CW_DS3_01
+  winners:
+    - TEAM_darkwraiths
+    - TEAM_gravelord_servants
+    - TEAM_mound_makers
+    - TEAM_princesss_guard
+
+coa_10:
+  date: 2018-12-01
+  game: ds3
+  platform: pc
+  league: coa
+  importance: -1
+  format: se
+  long_name: 'Championship of Ash (Tournament 10)'
+  short_name: CoA 10
+  link: https://soulsborne.challonge.com/CoA_DS3_10
+  winners:
+    - gate
+    - hummus_on_toast
+    - [jaytea, cursed]
+
+gcoa_2:
+  date: 2018-12-15
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 2
+  format: groups_se
+  long_name: 'Grand Championship of Ash (Tournament 2)'
+  short_name: Grand CoA 2
+  link: https://soulsborne.challonge.com/GCoA_DS3_2
+  winners:
+    - furyx
+    - hardcore_jojo
+    - cursed
+    - gate
+
+coa_11:
+  date: 2019-01-05
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 1
+  format: se
+  long_name: 'Championship of Ash (Tournament 11)'
+  short_name: CoA 11
+  link: https://soulsborne.challonge.com/CoA_DS3_11
+  winners:
+    - hardcore_jojo
+    - setabex
+    - [lenny, beetlbl]
+
+coa_12:
+  date: 2019-07-25
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 1
+  format: de
+  long_name: 'Championship of Ash (Tournament 12)'
+  short_name: CoA 12
+  link: https://soulsborne.challonge.com/CoA_DS3_12
+  winners:
+    - sleepmoover
+    - machopanda
+    - akris
+    - drdoom27
+
+coa_13:
+  date: 2019-08-29
+  game: ds3
+  platform: pc
+  league: coa
+  importance: 1
+  format: de
+  long_name: 'Championship of Ash (Tournament 13)'
+  short_name: CoA 13
+  link: https://soulsborne.challonge.com/CoA_DS3_12
+  winners:
+    - gate
+    - machopanda
+    - darkmanmeister
+    - gewoonrobbie
 
 meryx_ds3_vanilla:
   date: 2020-06-13
@@ -865,7 +1006,7 @@ eco_absolute_22_10_1:
   short_name: ECO Absolute 1 Oct 22
   link: https://challonge.com/mhrv3xav
   winners:
-    - s13_m # FIXME this could be wrong, challonge incomplete
+    - s13_m
     - kikaruson
     - [swave_deddy, murtagh]
 
@@ -1214,8 +1355,8 @@ tournament_of_might_psn:
   short_name: Tournament of Might PSN
   link: https://challonge.com/dij7t1fx
   winners:
-    - dogface_sapper # FIXME winner info likely wrong
     - clem_is_dumb
+    - dogface_sapper
     - fox_sniper_39
     - praxichd
 
@@ -1393,7 +1534,7 @@ eco_barebones_xbox_pt2: # TODO where is part 1
     - song # formerly minikush
     - juiiiced
     - werkon3
-    - persuazn # FIXME bronze match info might be wrong
+    - persuazn
 
 bttb_5:
   date: 2023-01-14
@@ -1462,11 +1603,7 @@ bonfire_tournament:
   long_name: Bonfire Tournament
   short_name: Bonfire Tournament
   link: https://challonge.com/1en5i8rn
-  winners:
-    - the_only_sef # FIXME top 4 is likely wrong, challonge incomplete
-    - sniper # TODO which sniper is this
-    - datsmikiel
-    - nuddy_buddy
+  winners: [] # FIXME records possibly lost
 
 brena_2023_01:
   date: 2023-01-28
@@ -1493,8 +1630,8 @@ tournament_of_the_gods_psn:
   short_name: Tournament of Gods PSN
   link: https://challonge.com/hb6s54os
   winners:
-    - sir_leaky_bum # FIXME top 4 information may be wrong
     - ben10
+    - sir_leaky_bum
     - greengoat
     - yt_lucy_1211
 
@@ -1521,10 +1658,10 @@ coliseum_2v2_psn:
   short_name: Coliseum 2v2 PSN
   link: https://challonge.com/rbgmkrai
   winners:
-    - TEAM_banished_knights # FIXME who are these teams
-    - TEAM_pillars
-    - TEAM_immortal_legion
-    - TEAM_warriors_of_sunlight
+    - [clem, pouya]
+    - [sir_leaky_bum, paledrake]
+    - [murtagh, the_only_sef]
+    - [vel, myth]
 
 roundtable_colosseum:
   date: 2023-02-05
