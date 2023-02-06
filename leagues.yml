@@ -108,6 +108,16 @@ den_sleep:
   show_region: false
   show_platform: false
 
+eco:
+  long_name: ECO Tournaments
+  short_name: ECO Tourneys
+  organizer: pnutbudderenema
+  host: pnutbudderenema
+  prestige: 0
+  show_organizer: false
+  show_region: false
+  show_platform: false
+
 eco_song:
   long_name: ECO Song's Tournaments
   short_name: ECO Song's Tourneys

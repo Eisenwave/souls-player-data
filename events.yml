@@ -619,6 +619,19 @@ iron_fist_cup:
     - nibrey
     - arc_dominuz
 
+eco_meta_22_08:
+  date: 2022-08-22
+  platform: xbox
+  league: eco
+  format: se
+  long_name: ECO Meta Tournament August 2022
+  short_name: ECO Meta Aug 22
+  link: https://challonge.com/hkh20mvl
+  winners:
+    - peavldoesit
+    - deum_confugiat
+    - [grub3814, dozey]
+
 foc_2022_08_pc_eu:
   date: 2022-08-27
   platform: pc
@@ -829,6 +842,46 @@ rtr_2022_3_6pm:
     - deadfish
     - jekk
 
+eco_meta_22_09:
+  date: 2022-09-29
+  platform: xbox
+  league: eco
+  format: se
+  long_name: ECO Meta Tournament September 2022
+  short_name: ECO Meta Sep 22
+  link: https://challonge.com/9lgwpi3b
+  winners:
+    - werkon3
+    - mrsamuraiguy
+    - simpslayersluffy
+    - floppa
+
+eco_absolute_22_10_1:
+  date: 2022-10-01
+  platform: xbox
+  league: eco
+  format: se
+  long_name: ECO Absolute Tournament 1 October 2022
+  short_name: ECO Absolute 1 Oct 22
+  link: https://challonge.com/mhrv3xav
+  winners:
+    - s13_m # FIXME this could be wrong, challonge incomplete
+    - kikaruson
+    - [swave_deddy, murtagh]
+
+eco_staff_22_10:
+  date: 2022-10-05
+  platform: xbox
+  league: eco
+  format: se
+  long_name: ECO Staff Tournament October 2022
+  short_name: ECO Staff Oct 22
+  link: https://challonge.com/zbbdrr39
+  winners:
+    - gigadique
+    - song
+    - [giddy, lusty_argonian_maid]
+
 rtr_2022_4_2pm:
   date: 2022-10-06
   platform: seamless
@@ -918,6 +971,20 @@ rtr_2022_5_6pm:
     - frosty
     - skiffin
     - cip
+
+eco_absolute_22_10_15:
+  date: 2022-10-15
+  platform: xbox
+  league: eco
+  format: se
+  long_name: ECO Absolute Tournament 15 October 2022
+  short_name: ECO Staff 15 Oct 22
+  link: https://challonge.com/zbbdrr39
+  winners:
+    - deadshot_sniper
+    - gurk_the_divine
+    - majin_black82
+    - kikaruson
 
 grand_opening:
   date: 2022-10-15
@@ -1067,7 +1134,7 @@ foc_2022_11_psn_na:
     - arc_dominuz
 
 make_it_rain:
-  date: 2022-09-19
+  date: 2022-11-19
   platform: psn
   league: khknight
   format: se
@@ -1137,6 +1204,34 @@ brena_2:
     - basscannon90
     - nooblive
     - liopjk
+
+tournament_of_might_psn:
+  date: 2022-12-03
+  platform: psn
+  league: eco
+  format: se
+  long_name: Tournament of Might Playstation
+  short_name: Tournament of Might PSN
+  link: https://challonge.com/dij7t1fx
+  winners:
+    - dogface_sapper # FIXME winner info likely wrong
+    - clem_is_dumb
+    - fox_sniper_39
+    - praxichd
+
+eco_absolute_22_12:
+  date: 2022-12-10
+  platform: xbox
+  league: eco
+  format: se
+  long_name: ECO Absolute December 2022
+  short_name: ECO Absolute 22
+  link: https://challonge.com/4ft21a40
+  winners:
+    - sizy_n_fbryzy
+    - og_zeus
+    - tjquester
+    - headpop # FIXME bronze match info might be wrong
 
 starter_classes:
   date: 2022-12-10
@@ -1228,6 +1323,34 @@ foc_2022_12_psn:
     - vanitaz
     - frosty
 
+bonfire_celebration:
+  date: 2022-12-18
+  platform: xbox
+  league: eco
+  format: se
+  long_name: Bonfire Celebration
+  short_name: Bonfire Celebration
+  link: https://challonge.com/9j8ez131
+  winners:
+    - bane_0824
+    - clem_is_dumb
+    - lejean_guyultime
+    - saiyan_fury
+
+eco_christmas_22:
+  date: 2023-12-22
+  platform: xbox
+  league: eco
+  format: de
+  long_name: ECO Christmas Tourney 2022
+  short_name: ECO Christmas 22
+  link: https://challonge.com/j93pktcv
+  winners:
+    - sloo
+    - dae
+    - proxy
+    - headpop
+
 everything_allowed:
   date: 2023-01-07
   platform: psn
@@ -1258,6 +1381,20 @@ rtr_2023_1_2pm:
     - floozutter
     - daniiel
 
+eco_barebones_xbox_pt2: # TODO where is part 1
+  date: 2023-01-09
+  platform: xbox
+  league: eco
+  format: de
+  long_name: Barebones Xbox Part 2
+  short_name: Barebones Xbox Pt 2
+  link: https://challonge.com/plvsfgfx
+  winners:
+    - song # formerly minikush
+    - juiiiced
+    - werkon3
+    - persuazn # FIXME bronze match info might be wrong
+
 bttb_5:
   date: 2023-01-14
   platform: seamless
@@ -1272,6 +1409,21 @@ bttb_5:
     - [cip, frosty]
     - [space_ranger77, shieldpoke]
     - [sovietspaceship, ketchuplino]
+
+eco_song_new_year:
+  date: 2023-01-15
+  platform: xbox
+  league: eco_song
+  importance: 1
+  format: de
+  long_name: New Year Tournament
+  short_name: New Year
+  link: https://challonge.com/gm5dg5gh
+  winners:
+    - juiiiced
+    - holy_knight_godrick
+    - urah
+    - coma
 
 colossal:
   date: 2023-01-15
@@ -1301,8 +1453,23 @@ compete_elden1:
     - dreamer
     - [goethe, frosty]
 
+bonfire_tournament:
+  date: 2023-01-28
+  platform: xbox
+  league: eco
+  importance: 1 # 28 players
+  format: se
+  long_name: Bonfire Tournament
+  short_name: Bonfire Tournament
+  link: https://challonge.com/1en5i8rn
+  winners:
+    - the_only_sef # FIXME top 4 is likely wrong, challonge incomplete
+    - sniper # TODO which sniper is this
+    - datsmikiel
+    - nuddy_buddy
+
 brena_2023_01:
-  date: 2023-02-28
+  date: 2023-01-28
   platform: psn
   region: [na, eu]
   league: brena
@@ -1317,6 +1484,20 @@ brena_2023_01:
     - dreamer
     - eli_dks
 
+tournament_of_the_gods_psn:
+  date: 2023-02-04
+  platform: psn
+  league: eco
+  format: se
+  long_name: Tournament of the Gods Playstation
+  short_name: Tournament of Gods PSN
+  link: https://challonge.com/hb6s54os
+  winners:
+    - sir_leaky_bum # FIXME top 4 information may be wrong
+    - ben10
+    - greengoat
+    - yt_lucy_1211
+
 bttb_6:
   date: 2023-02-04
   platform: seamless
@@ -1330,6 +1511,20 @@ bttb_6:
     - deadfish
     - darksoapp
     - brondagoat
+
+coliseum_2v2_psn:
+  date: 2023-02-05
+  platform: psn
+  league: eco
+  format: de
+  long_name: Coliseum 2v2 Playstation
+  short_name: Coliseum 2v2 PSN
+  link: https://challonge.com/rbgmkrai
+  winners:
+    - TEAM_banished_knights # FIXME who are these teams
+    - TEAM_pillars
+    - TEAM_immortal_legion
+    - TEAM_warriors_of_sunlight
 
 roundtable_colosseum:
   date: 2023-02-05
