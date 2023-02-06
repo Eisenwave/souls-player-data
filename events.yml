@@ -919,8 +919,22 @@ rtr_2022_5_6pm:
     - skiffin
     - cip
 
+grand_opening:
+  date: 2022-10-15
+  platform: pc
+  league: cip_giddy
+  format: se
+  long_name: Grand Opening PC Invitational
+  short_name: Grand Opening PC
+  link: https://challonge.com/qxgx7xfs
+  winners:
+    - darksoapp
+    - sorriy
+    - pitofdespair
+    - floozutter
+
 forgotten_arms:
-  date: 2022-09-18
+  date: 2022-10-23
   platform: psn
   league: khknight
   format: se
@@ -1321,6 +1335,7 @@ roundtable_colosseum:
   date: 2023-02-05
   platform: pc
   league: roundtable
+  format: de
   importance: -4 # 4 teams, but open tournament and high-skilled players
   team_size: 3
   long_name: Colosseum Tournament
@@ -1331,6 +1346,36 @@ roundtable_colosseum:
     - [frosty, cip, jekk]
     - [winio, karandra, zawada]
     - [chelo, bugs, bunta]
+
+god_of_war_absolute:
+  date: 2023-02-06
+  platform: psn
+  league: praxichd
+  format: se
+  long_name: God of War Absolute Tournament
+  short_name: God of War Tourney
+  link: https://challonge.com/uogq11ad
+  winners: [] # TODO fill in, this tournament took place
+
+fragment_feb_23:
+  date: 2023-02-11
+  platform: pc
+  league: fragment
+  format: se
+  long_name: February 2023 Elden Ring PC Open
+  short_name: Feb 23 ER PC Open
+  link: https://challonge.com/FragmentFeb23
+  winners: []
+
+khknight_east_1:
+  date: 2023-01-12
+  platform: psn
+  league: khknight
+  format: de
+  long_name: Oceania/East Asia Only Tournament 1
+  short_name: Go Oceania
+  link: https://challonge.com/GoOceania
+  winners: []
 
 brena_2023_02:
   date: 2023-02-18

@@ -48,6 +48,16 @@ bttb:
   show_region: true
   show_platform: false
 
+cip_giddy:
+  long_name: Cip/Sir Giddy's Tournaments
+  short_name: Cip/Giddy Tourneys
+  organizer: cip_tv
+  host: sir_giddy
+  prestige: 0
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
 compete:
   long_name: compete.gg Tournaments
   short_name: Compete Tourneys
@@ -131,6 +141,16 @@ foc:
   show_region: true
   show_platform: true
 
+fragment:
+  long_name: Fragment Tournaments
+  short_name: Fragment Tourneys
+  organizer: luke_of_astora
+  host: luke_of_astora
+  prestige: -1
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
 khknight:
   long_name: khknight's Tournaments
   short_name: khknight's Tourneys
@@ -142,11 +162,21 @@ khknight:
   show_platform: false
 
 meryx:
-  long_name: MeryX's tournaments
+  long_name: MeryX's Tournaments
   short_name: MeryX's Tourneys
   organizer: meryx
   host: meryx
   prestige: 1 # typically high skilled players
+  show_organizer: true
+  show_region: false
+  show_platform: false
+
+praxichd:
+  long_name: PraxicHD's Tournaments
+  short_name: PraxicHD's Tourneys
+  organizer: praxichd
+  host: praxichd
+  prestige: -1
   show_organizer: true
   show_region: false
   show_platform: false

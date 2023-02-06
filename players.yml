@@ -106,6 +106,7 @@ cip:
   links:
     discord: '226803500468797440'
     twitch: cip_tv
+    challonge: CipCipChip
 
 compete:
   long_name: compete.gg
@@ -113,6 +114,13 @@ compete:
   region: earth
   facts:
     - tournament host
+
+daniiel:
+  long_name: daniiel
+  short_name: dani
+  region: na_east
+  links:
+    discord: daniielpls
 
 dantewtf:
   long_name: DanteWTF
@@ -451,6 +459,15 @@ lejet:
   links:
     discord: '166748692966014986'
 
+luke_of_astora:
+  long_name: Luke of Astora
+  short_name: Luke
+  region: earth
+  links:
+    discord: '184777702174097408'
+    twitch: luke_of_astora
+    youtube: '@luke_of_astora'
+
 lukeyui:
   long_name: LukeYui
   short_name: Luke
@@ -568,6 +585,18 @@ pikselonix:
     - BttB fight club player
   links:
     discord: '251780969068101633'
+
+praxichd:
+  long_name: PraxicHD
+  short_name: Praxic
+  region: earth
+  facts:
+    - tournament organizer
+  discord: '977282046542114906'
+  reddit: SlothyDoorMatt
+  twitch: praxichd
+  twitter: '@PraxicHD'
+  youtube: '@praxichd2114'
 
 rask1lls:
   long_name: RASK1LLS
@@ -788,7 +817,7 @@ winio:
     - 'playstyle: balanced'
   links:
     discord: '479748654794539040'
-    twitch: winioo_dziador
+    twitch: winio_psss
 
 witching_moon:
   long_name: The Witching Moon
