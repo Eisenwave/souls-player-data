@@ -1371,8 +1371,8 @@ eco_absolute_22_12:
   winners:
     - sizy_n_fbryzy
     - og_zeus
+    - headpop
     - tjquester
-    - headpop # FIXME bronze match info might be wrong
 
 starter_classes:
   date: 2022-12-10
@@ -1522,7 +1522,8 @@ rtr_2023_1_2pm:
     - floozutter
     - daniiel
 
-eco_barebones_xbox_pt2: # TODO where is part 1
+# part 1 was hosted via facebook, no challonge
+eco_barebones_xbox_pt2:
   date: 2023-01-09
   platform: xbox
   league: eco
